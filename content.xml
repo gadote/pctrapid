@@ -577,7 +577,10 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
-				<Film name = "Ảo Ảnh Thần Trâm" note = "" >
+				<Film name = "Thiếu Lâm Nam Phái" note = "" >
+                        http://www.youtube.com/watch?v=DZ0uGhMyzDM&list=PLLAvqL-328T2c7t7nP5Vf42QJT7wjHi05
+                </Film>
+            <Film name = "Ảo Ảnh Thần Trâm" note = "" >
                         http://www.youtube.com/watch?v=XAaJYWVV_RU&list=PLOCpI_vVVqNmOkExawzxoPa_lODRUvUYU
                 </Film>
 				<Film name = "Bộ Bộ Kinh Tâm" note = "" >
