@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Hôn trộm" note = "" >
+                        http://www.youtube.com/watch?v=QvD1VWKEk-c
+                </Film>
                 <Film name = "Giang Sơn Mỹ Nhân" note = "An Empress And The Warriors" >
                         http://www.youtube.com/watch?v=TFUx8lwUKCk
                 </Film>
