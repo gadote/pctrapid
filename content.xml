@@ -583,7 +583,10 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
-				        <Film name = "Mỹ Nhân Thiên Hạ" note = "" >
+				        <Film name = "Vượt qua bóng đêm" note = "">
+                        http://www.youtube.com/watch?v=RQTABty2kjs&list=PL68EE6C1EBF8AEA4E
+                </Film>
+                <Film name = "Mỹ Nhân Thiên Hạ" note = "" >
                         http://www.youtube.com/watch?v=cIhvZNsmuI0&list=PLmnkbACqr815Iqah5Iz4bIcH-wKyvKZsK
                 </Film>
             <Film name = "Thiếu Lâm Nam Phái" note = "" >
