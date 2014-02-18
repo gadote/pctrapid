@@ -2,6 +2,36 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Má Mì" note = "" >
+                        http://www.youtube.com/watch?v=czjhUmZKm90
+                </Film>
+                <Film name = "Người Chết Báo Thù" note = "" >
+                        http://www.youtube.com/watch?v=m4Dy3RBD6XQ
+                </Film>
+                <Film name = "NINJA BÁO THÙ" note = "" >
+                        http://www.youtube.com/watch?v=RNO0wkMxu6g
+                </Film>
+                <Film name = "Nhà Ngoại Cảm" note = "" >
+                        http://www.youtube.com/watch?v=IEOyLay2ebw
+                </Film>
+                <Film name = "Tình dục là chuyện nhỏ 1" note = "" >
+                        http://www.youtube.com/watch?v=47GOksvHB18
+                </Film>
+                <Film name = "Tình dục là chuyện nhỏ 2" note = "" >
+                        http://www.youtube.com/watch?v=DwqG8gl_BDw
+                </Film>
+                <Film name = "Nguoi hùng barbarian" note = "" >
+                        http://www.youtube.com/watch?v=RDlWvMj5C5o
+                </Film>
+                <Film name = "Ác Quỷ Hộ Sơn" note = "" >
+                        http://www.youtube.com/watch?v=YksGmVtzEno
+                </Film>
+                <Film name = "Bọ Cạp Trả Thù" note = "" >
+                        http://www.youtube.com/watch?v=Xty1U1LRNy8
+                </Film>
+                <Film name = "Quái vật - Monster" note = "Phim hình sự Mỹ" >
+                        http://www.youtube.com/watch?v=725Jedyptcw
+                </Film>
                 <Film name = "Sư Tư Hà Đông 2" note = "" >
                         http://www.youtube.com/watch?v=pBMJ9Dc2WYk
                 </Film>
