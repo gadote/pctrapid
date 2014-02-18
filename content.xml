@@ -2,6 +2,27 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Tình Người Duyên Ma" note = "" >
+                        http://www.youtube.com/watch?v=iQ7Q_4LXcTI
+                </Film>
+                <Film name = "Đừng Nhấn" note = "" >
+                        http://www.youtube.com/watch?v=WwQ0V-zVccs
+                </Film>
+                <Film name = "Truyền thuyết Rồng thiêng: Lời nguyền bóng đêm" note = "" >
+                        http://www.youtube.com/watch?v=_U5_bJJzyx8
+                </Film>
+                <Film name = "Cá Sấu Khổng Lồ" note = "" >
+                        http://www.youtube.com/watch?v=ckSG0pfMGAM
+                </Film>
+                <Film name = "Đường Đến địa ngục" note = "" >
+                        http://www.youtube.com/watch?v=3q4t3JQir8k
+                </Film>
+                <Film name = "Trận Đánh Cuối Cùng Của Napoleon" note = "" >
+                        http://www.youtube.com/watch?v=29puBAi_9R8
+                </Film>
+                <Film name = "Hàm cá mập" note = "" >
+                        http://www.youtube.com/watch?v=SFiSj53lHyY
+                </Film>
                 <Film name = "Má Mì" note = "" >
                         http://www.youtube.com/watch?v=czjhUmZKm90
                 </Film>
