@@ -2,8 +2,44 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Tái xuất giang hồ" note = "" >
+                        http://www.youtube.com/watch?v=_YVlhlRLx1A
+                </Film>
+                <Film name = "Vô Địch Thiên Hạ" note = "" >
+                        http://www.youtube.com/watch?v=meEaqxrKA4Q
+                </Film>
+                <Film name = "Vua Giải Trí" note = "" >
+                        http://www.youtube.com/watch?v=B_eu0eJn7eU
+                </Film>
+                <Film name = "Thiên địa huyền môn" note = "" >
+                        http://www.youtube.com/watch?v=VjD9RVbSuRw
+                </Film>
+                <Film name = "Bố Già Hồng Kông" note = "" >
+                        http://www.youtube.com/watch?v=yatuf8tvhIM
+                </Film>
+                <Film name = "Đại Phúc Tinh" note = "" >
+                        http://www.youtube.com/watch?v=RycEtH8Upyw
+                </Film>
+                <Film name = "Đặc Cảnh Diệt Ma" note = "" >
+                        http://www.youtube.com/watch?v=jqJh7SmRfRg
+                </Film>
+                <Film name = "Anh Chàng Bê Bối" note = "" >
+                        http://www.youtube.com/watch?v=MlUfTZgzh4E
+                </Film>
                 <Film name = "Bẫy tình" note = "" >
                         http://www.youtube.com/watch?v=krVATvIY1oE
+                </Film>
+                <Film name = "Ngũ Phúc Tinh Gặp Ma" note = "" >
+                        http://www.youtube.com/watch?v=W_fXavh0jx4
+                </Film>
+                <Film name = "Người Cha Điệp Viên" note = "" >
+                        http://www.youtube.com/watch?v=QMV7MckMgss
+                </Film>
+                <Film name = "Đại Ca Ăn Mày" note = "" >
+                        http://www.youtube.com/watch?v=NgQ8Zu66Toc
+                </Film>
+                <Film name = "Trở Về Thượng Hải" note = "Châu Tinh Trì" >
+                        http://www.youtube.com/watch?v=sZ4pVoeUrlU
                 </Film>
                 <Film name = "Hot Girl Siêu Quậy" note = "" >
                         http://www.youtube.com/watch?v=64mZj2xw3IU
