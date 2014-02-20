@@ -2,6 +2,27 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Tân Ô Long Viện - P1" note = "" >
+                        http://www.youtube.com/watch?v=u_borpGmwcE
+                </Film>
+                <Film name = "Tân Ô Long Viện - P2" note = "" >
+                        http://www.youtube.com/watch?v=jloYX_Q1Mho
+                </Film>
+                <Film name = "Tân Ô Long Viện - P3" note = "" >
+                        http://www.youtube.com/watch?v=j0qRDlz8Img
+                </Film>
+                <Film name = "Lộng Hành Thiên Hạ (Lồng Tiếng)" note = "" >
+                        http://www.youtube.com/watch?v=knm11QD1G8I
+                </Film>
+                <Film name = "Sinh ra để tự vệ" note = "" >
+                        http://www.youtube.com/watch?v=8jEr2ZODtks
+                </Film>
+                <Film name = "Ma thiếu lâm" note = "Phim Ma hài | Lồng tiếng" >
+                        http://www.youtube.com/watch?v=MJxsft8q-gQ
+                </Film>
+                <Film name = "Thử Đảm Uy Long" note = "" >
+                        http://www.youtube.com/watch?v=TF2AjUmg5nM
+                </Film>
                 <Film name = "Tái xuất giang hồ" note = "" >
                         http://www.youtube.com/watch?v=_YVlhlRLx1A
                 </Film>
