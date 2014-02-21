@@ -2,6 +2,33 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Kartun Oscars Oasis" note = "" >
+                        http://www.youtube.com/watch?v=NihhAEGKfXs
+                </Film>
+                <Film name = "Charlie Chaplin - The Great Dictator 1940" note = "" >
+                        http://www.youtube.com/watch?v=PX-8L1J-T0E
+                </Film>
+                <Film name = "Charlie Chaplin - Easy Street (1917)" note = "" >
+                        http://www.youtube.com/watch?v=4s8X683LNvg
+                </Film>
+                <Film name = "Charlie Chaplin In City Lights - Charlie Ở Đô Thị Ánh Sáng" note = "" >
+                        http://www.youtube.com/watch?v=yZCTvfS-yKI
+                </Film>
+                <Film name = "Sác-lô | The Gold Rush - Cuộc săn vàng" note = "" >
+                        http://www.youtube.com/watch?v=t2M6D9FzOEE
+                </Film>
+                <Film name = "Sác-lô | Modern Times - Thời đại tân kỳ" note = "" >
+                        http://www.youtube.com/watch?v=RC844J7vZyU
+                </Film>
+                <Film name = "Saclo-Charlie Chaplin The Circus " note = "" >
+                        http://www.youtube.com/watch?v=XXeUSsb2_hY
+                </Film>
+                <Film name = "Xe bọc thép - Armored" note = "" >
+                        http://www.youtube.com/watch?v=qjyX50JeVn0
+                </Film>
+                <Film name = "Rambo" note = "" >
+                        http://www.youtube.com/watch?v=4jL2JST7McI
+                </Film>
                 <Film name = "Hiệp sĩ thượng hải" note = "" >
                         http://www.youtube.com/watch?v=7g5qhiF9J1M
                 </Film>
