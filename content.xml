@@ -14,9 +14,6 @@
                 <Film name = "Khử Ma Đạo Trưởng" note = "" >
                         http://www.youtube.com/watch?v=W8g2b79PJtc
                 </Film>
-                <Film name = "Ngôi Nhà Hạnh Phúc | Full House" note = "Ver Thái" >
-                        http://www.youtube.com/watch?v=_Dz-FxA2I40&list=PL4dv2ofTnLf5hCugOkUnnljYkE8DNHckh
-                </Film>
                 <Film name = "Vết Cắt" note = "" >
                         http://www.youtube.com/watch?v=r_lI2qrMCs0
                 </Film>
@@ -904,7 +901,13 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
-				        <Film name = "Mùa hè sôi động" note = "">
+				        <Film name = "Đạo Cao Một Trượng" note = "">
+                        http://www.youtube.com/watch?v=Yd1IGuvHqaY&list=PL451BAC73F4B0BB64
+                </Film>
+                <Film name = "Ngôi Nhà Hạnh Phúc | Full House" note = "Ver Thái" >
+                        http://www.youtube.com/watch?v=_Dz-FxA2I40&list=PL4dv2ofTnLf5hCugOkUnnljYkE8DNHckh
+                </Film>
+                <Film name = "Mùa hè sôi động" note = "">
                         http://www.youtube.com/watch?v=gkRFkgCORC0&list=PL0D67B234B1B1ECB8
                 </Film>
                 <Film name = "Tân Tiếu Ngạo Giang Hồ 2013" note = "Thuyết Minh" >
