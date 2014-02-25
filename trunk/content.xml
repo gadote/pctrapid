@@ -2,6 +2,78 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Động gái" note = "">
+                        http://www.youtube.com/watch?v=Uew8mr5mNo8
+                </Film>
+                <Film name = "Diệt Môn - Bad Blood" note = "">
+                        http://www.youtube.com/watch?v=6h3RYXf5jKs
+                </Film>
+                <Film name = "Xe bọc thép" note = "">
+                        http://www.youtube.com/watch?v=4Kl0uPUbC8s
+                </Film>
+                <Film name = "Đoạn Đường Chết Chóc" note = "">
+                        http://www.youtube.com/watch?v=P1MVr4nTtXA
+                </Film>
+                <Film name = "Băng Cướp" note = "">
+                        http://www.youtube.com/watch?v=jzbhAVx2iJ4
+                </Film>
+                <Film name = "Người Mẫu Béo Phì" note = "">
+                        http://www.youtube.com/watch?v=1pf0asdbGC8
+                </Film>
+                <Film name = "Tình Em Trao Em" note = "">
+                        http://www.youtube.com/watch?v=pgHJO1DAKpE
+                </Film>
+                <Film name = "Bí Mật Minh Triều" note = "">
+                        http://www.youtube.com/watch?v=b0z2NBh0yQc
+                </Film>
+                <Film name = "Phi Vụ Mật" note = "">
+                        http://www.youtube.com/watch?v=WvFgxTDINiA
+                </Film>
+                <Film name = "KungFu Thất Quái - Giang Hồ Thất Quái" note = "">
+                        http://www.youtube.com/watch?v=ojRL1fkOsak
+                </Film>
+                <Film name = "Bí Ẩn Đảo Ma Hashima" note = "">
+                        http://www.youtube.com/watch?v=ByIYU4-qN9w
+                </Film>
+                <Film name = "Mỏ Dầu Số 7" note = "">
+                        http://www.youtube.com/watch?v=4qxVGNlBqnw
+                </Film>
+                <Film name = "Gậy Thiết Bảng" note = "">
+                        http://www.youtube.com/watch?v=l0kN1eVNX-Y
+                </Film>
+                <Film name = "Đầm Cá Sấu - Alligator Alley" note = "">
+                        http://www.youtube.com/watch?v=eXZdv-kQYi8
+                </Film>
+                <Film name = "Biệt Đội Ám Sát" note = "">
+                        http://www.youtube.com/watch?v=P1yKYR4C5Oc
+                </Film>
+                <Film name = "Mowgli, Cậu Bé Rừng Xanh" note = "Thuyết Minh">
+                        http://www.youtube.com/watch?v=xpJ_28kEFF4
+                </Film>
+                <Film name = "Đầm lầy chết" note = "">
+                        http://www.youtube.com/watch?v=mlpEg7v-4qs
+                </Film>
+                <Film name = "6 ngày 7 đêm" note = "">
+                        http://www.youtube.com/watch?v=hdpEXF9XJPQ
+                </Film>
+                <Film name = "Riddick Thống Lĩnh Bóng Tối" note = "">
+                        http://www.youtube.com/watch?v=JABkkYqxi24
+                </Film>
+                <Film name = "Kẻ Cướp Lương Thiện" note = "">
+                        http://www.youtube.com/watch?v=5iGvGEz2jaA
+                </Film>
+                <Film name = "THỐNG LĨNH" note = "">
+                        http://www.youtube.com/watch?v=c2pTm0cZQOk
+                </Film>
+                <Film name = "Nữ Xế" note = "">
+                        http://www.youtube.com/watch?v=tXFv_xnPRmU
+                </Film>
+                <Film name = "Nữ Sát Thủ Gợi Cảm" note = "">
+                        http://www.youtube.com/watch?v=oRiDDa6wQHg
+                </Film>
+                <Film name = "Sát thủ máu lạnh" note = "">
+                        http://www.youtube.com/watch?v=AOT2prTg11I
+                </Film>
                 <Film name = "Meets the in Laws - Hạ Gục Nhạc Phụ Đại Nhân" note = "">
                         http://www.youtube.com/watch?v=sHt-70CHBG0
                 </Film>
@@ -1000,7 +1072,10 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
-				        <Film name = "Quý bà lắm chiêu" note = "">
+				        <Film name = "Sát Thủ Hào Hoa" note = "" >
+                        http://www.youtube.com/watch?v=0UsxAO4LsFU&list=PLKhtDejt9TAbyRXbFMhEo_ZN1rTz8rlwA
+                </Film>
+                <Film name = "Quý bà lắm chiêu" note = "">
                         http://www.youtube.com/watch?v=nAua2xMpook&list=PLd7scWPcetBY7FW43c-TJmlN6LeWzv4y7
                 </Film>
                 <Film name = "Duyên Nợ Miền Tây" note = "">
