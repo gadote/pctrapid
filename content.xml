@@ -1153,7 +1153,10 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
-				        <Film name = "Sát Thủ Hào Hoa" note = "" >
+                <Film name = "THẦN TÀI HỮU ĐẠO" note = "">
+                        http://www.youtube.com/watch?v=vza0yvIQ-qI&list=PLIzNbzIkXlf2rETTcf0qAKQME-fOQOA5w
+                </Film>
+                <Film name = "Sát Thủ Hào Hoa" note = "" >
                         http://www.youtube.com/watch?v=0UsxAO4LsFU&list=PLKhtDejt9TAbyRXbFMhEo_ZN1rTz8rlwA
                 </Film>
                 <Film name = "Quý bà lắm chiêu" note = "">
