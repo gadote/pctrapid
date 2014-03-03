@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Lửa Phật" note = "">
+                        http://www.youtube.com/watch?v=WsP5x3gWrbI
+                </Film>
                 <Film name = "Đại Náo Thiên Cung - The Monkey King (Full HD 2014)" note = "">
                         http://www.youtube.com/watch?v=1Bc1_LwVtsQ
                 </Film>
