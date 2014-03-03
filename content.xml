@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Bốn thí nghiệm đêm tân hôn" note = "">
+                        http://www.youtube.com/watch?v=ZNv44s9efPs
+                </Film>
                 <Film name = "Cung Tỏa Trầm Hương - The Palace" note = "">
                         http://www.youtube.com/watch?v=FZZQF4c45-I
                 </Film>
@@ -1165,6 +1168,12 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "GIA ĐÌNH" note = "">
+                        http://www.youtube.com/watch?v=3WltKl6evk0&list=PLUSm4jhf30cY5PFGuNum-c_Sb1ieXHOtH
+                </Film>
+                <Film name = "Lối Sống Sai Lầm" note = "">
+                        http://www.youtube.com/watch?v=f-Yjjr8b2yk&list=PLED6E7C055CD0EBA3
+                </Film>
                 <Film name = "Thế Giới Người Mẫu" note = "">
                         http://www.youtube.com/watch?v=T9AekBUsu-8&list=PLZtF-h46E5qRnf7ugU9f7QodUv30Jz7qN
                 </Film>
