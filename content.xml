@@ -2,6 +2,24 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Công Chúa Bướng Bỉnh" note = "">
+                        http://www.youtube.com/watch?v=-4PSvzGNN58
+                </Film>
+                <Film name = "Gia Đình Cương Thi" note = "">
+                        http://www.youtube.com/watch?v=0RV88IErwqU
+                </Film>
+                <Film name = "Quán phở thịt người" note = "">
+                        http://www.youtube.com/watch?v=loPdFSxidjg
+                </Film>
+                <Film name = "Oan hồn 49 ngày" note = "">
+                        http://www.youtube.com/watch?v=t3nJQlhpFEs&list=PLWHe1cOKoBFYr1f5sJPfaVSu5KzHg0rgy
+                </Film>
+                <Film name = "Người đẹp và chàng ngốc" note = "" >
+                        http://www.youtube.com/watch?v=yluZQ-z-j3w
+                </Film>
+                <Film name = "Cô Đảo Kinh Hoàng" note = "">
+                        http://www.youtube.com/watch?v=lSvqOvuWOjo
+                </Film>
                 <Film name = "Vua kungfu" note = "">
                         http://www.youtube.com/watch?v=0Tn8z92DL5Q
                 </Film>
@@ -11,11 +29,20 @@
                 <Film name = "7 ngày yêu thử" note = "">
                         http://www.youtube.com/watch?v=NNH8F_KcF8Q
                 </Film>
+                <Film name = "Căn hộ ma ám" note = "" >
+                        http://www.youtube.com/watch?v=GwJpp6rOvA0
+                </Film>
+                <Film name = "Hồn ma chưa dứt" note = "" >
+                        http://www.youtube.com/watch?v=54GmkYaoZ-Q
+                </Film>
                 <Film name = "Ánh Nắng Bạo Mưa - Anh Hùng Chân Chính - The True Hero" note = "">
                         http://www.youtube.com/watch?v=INxNWWBlMj8
                 </Film>
                 <Film name = "Trưởng Giả Kén Rể" note = "">
                         http://www.youtube.com/watch?v=TbdPiNHzaCs
+                </Film>
+                <Film name = "Ngày 13 Tháng 7" note = "" >
+                        http://www.youtube.com/watch?v=Id2LeQWejVc
                 </Film>
                 <Film name = "Hồn Trương Ba Da Hàng Thịt" note = "">
                         http://www.youtube.com/watch?v=wHIkAt2yqbg
@@ -1240,6 +1267,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Ngưỡng Cửa Cuộc Đời" note = "">
+                        http://www.youtube.com/watch?v=Va68Qav2f7U&list=PL7GVAkIWVnz0ESnKd77LgRDxVhghUGrvU
+                </Film>
                 <Film name = "Tân Họa Bì" note = "">
                         http://www.youtube.com/watch?v=eehQbP87uRU&list=PLX94TomcImg2_raSysytvfyYSEOa9Dw9t
                 </Film>
