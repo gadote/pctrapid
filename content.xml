@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Oan Hồn Báo Thù" note = "">
+                        http://www.youtube.com/watch?v=QFUZC9Sxzms
+                </Film>
                 <Film name = "Khúc Cua Quyết Định" note = "">
                         http://www.youtube.com/watch?v=7q4lwrUQ2nw&list=PL6A82204BC3FB10FE
                 </Film>
@@ -1285,6 +1288,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Một thoáng mộng mơ" note = "">
+                        http://www.youtube.com/watch?v=JVEuqKoJJqY&list=PLA9F4236A6A094D0F
+                </Film>
                 <Film name = "Siêu nhân thần kiếm" note = "" >
                         http://www.youtube.com/watch?v=ucWwikKZ10I&list=PLS2uMIzsnSEZhUBe5fueyAMnowqtugiPK
                 </Film>
