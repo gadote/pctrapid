@@ -2,6 +2,12 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Mãi Bên Nhau" note = "">
+                        http://www.youtube.com/watch?v=CvazdINhPdE
+                </Film>
+                <Film name = "DoReMiFaSoLaSiDo" note = "">
+                        http://www.youtube.com/watch?v=4YLETQbZDVY
+                </Film>
                 <Film name = "Oan Hồn Báo Thù" note = "">
                         http://www.youtube.com/watch?v=QFUZC9Sxzms
                 </Film>
