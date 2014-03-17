@@ -2,6 +2,21 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Thiên Hậu Mạc Chược" note = "">
+                        https://www.youtube.com/watch?v=QvDnY2uliRM
+                </Film>
+                <Film name = "Nụ Hôn Sát Thủ" note = "">
+                        https://www.youtube.com/watch?v=cLwb-UTSd-4
+                </Film>
+                <Film name = "Hắc Hiệp Đại Chiến Thánh Bài" note = "">
+                        https://www.youtube.com/watch?v=UiF1vw6BQvU
+                </Film>
+                <Film name = "Tình Mất Tình Còn" note = "">
+                        https://www.youtube.com/watch?v=CZhSqnvDjwI
+                </Film>
+                <Film name = "Kungfu đầu bếp" note = "">
+                        https://www.youtube.com/watch?v=jSgi8c3kZVY
+                </Film>
                 <Film name = "Mãi Bên Nhau" note = "">
                         http://www.youtube.com/watch?v=CvazdINhPdE
                 </Film>
