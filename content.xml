@@ -2,6 +2,21 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Lõa Thể Sát Thủ" note = "">
+                        http://www.youtube.com/watch?v=hqo3xFXw2bM
+                </Film>
+                <Film name = "Cuộc chiến kim chi" note = "">
+                        http://www.youtube.com/watch?v=LfWjmgSudRU
+                </Film>
+                <Film name = "Thẻ Bài Casino - Casino Raider" note = "">
+                        http://www.youtube.com/watch?v=vP4gHuj8zsw
+                </Film>
+                <Film name = "Song Hổ" note = "">
+                        http://www.youtube.com/watch?v=HGu9vidZKYc
+                </Film>
+                <Film name = "Báu Vật Đồng Quang - The Touch" note = "">
+                        http://www.youtube.com/watch?v=JOvuEcdINQc
+                </Film>
                 <Film name = "Homefront - Bước đường cùng" note = "Jasom Statham">
                         http://www.youtube.com/watch?v=pW5pvGfYziI
                 </Film>
