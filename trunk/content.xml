@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Bất Nhị Thần Thám" note = "">
+                        http://www.youtube.com/watch?v=PJT_rgJtnDk
+                </Film>
                 <Film name = "Mái Ấm Gia Đình" note = "">
                         http://www.youtube.com/watch?v=-JHsAktNurc
                 </Film>
@@ -16,9 +19,6 @@
                 </Film>
                 <Film name = "Cuộc chiến kim chi" note = "">
                         http://www.youtube.com/watch?v=LfWjmgSudRU
-                </Film>
-                <Film name = "Bất Nhị Thần Thám" note = "">
-                        http://www.youtube.com/watch?v=PJT_rgJtnDk
                 </Film>
                 <Film name = "Thẻ Bài Casino - Casino Raider" note = "">
                         http://www.youtube.com/watch?v=vP4gHuj8zsw
