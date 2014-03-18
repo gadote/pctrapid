@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Homefront - Bước đường cùng" note = "Jasom Statham">
+                        http://www.youtube.com/watch?v=pW5pvGfYziI
+                </Film>
                 <Film name = "Thiên Hậu Mạc Chược" note = "">
                         https://www.youtube.com/watch?v=QvDnY2uliRM
                 </Film>
