@@ -2,14 +2,32 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Mái Ấm Gia Đình" note = "">
+                        http://www.youtube.com/watch?v=-JHsAktNurc
+                </Film>
                 <Film name = "Lõa Thể Sát Thủ" note = "">
                         http://www.youtube.com/watch?v=hqo3xFXw2bM
+                </Film>
+                <Film name = "Pháp Sư Côn Đồ" note = "">
+                        http://www.youtube.com/watch?v=sD1ZADhOLBM
+                </Film>
+                <Film name = "Đầu thai" note = "">
+                        http://www.youtube.com/watch?v=DlUA4SFg2gY
                 </Film>
                 <Film name = "Cuộc chiến kim chi" note = "">
                         http://www.youtube.com/watch?v=LfWjmgSudRU
                 </Film>
+                <Film name = "Bất Nhị Thần Thám" note = "">
+                        http://www.youtube.com/watch?v=PJT_rgJtnDk
+                </Film>
                 <Film name = "Thẻ Bài Casino - Casino Raider" note = "">
                         http://www.youtube.com/watch?v=vP4gHuj8zsw
+                </Film>
+                <Film name = "Nàng Hô Mít Ướt" note = "">
+                        http://www.youtube.com/watch?v=rtixc1IWYYQ
+                </Film>
+                <Film name = "Nụ Hôn Đầu - The First Kiss" note = "">
+                        http://www.youtube.com/watch?v=gDXw7yW-dTo
                 </Film>
                 <Film name = "Song Hổ" note = "">
                         http://www.youtube.com/watch?v=HGu9vidZKYc
