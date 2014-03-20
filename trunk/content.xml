@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "TÌNH YÊU TRÁI CẤM - The readers" note = "">
+                        http://www.youtube.com/watch?v=oq2LDVgV9rs
+                </Film>
                 <Film name = "MA TỐC ĐỘ" note = "">
                         http://www.youtube.com/watch?v=DBfzlWVdYyE
                 </Film>
@@ -16,6 +19,9 @@
                 </Film>
                 <Film name = "Trở Về Nơi Tình Yêu Bắt Đầu" note = "">
                         http://www.youtube.com/watch?v=M2_RV0ZTPVs
+                </Film>
+                <Film name = "Nghệ Thuật Quyến Rũ" note = "">
+                        http://www.youtube.com/watch?v=Qi12fQUMdMI
                 </Film>
                 <Film name = "Đông tà tây độc" note = "Phiên bản hài">
                         http://www.youtube.com/watch?v=ZECq7RN6JdE
