@@ -2,6 +2,24 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "MA TỐC ĐỘ" note = "">
+                        http://www.youtube.com/watch?v=DBfzlWVdYyE
+                </Film>
+                <Film name = "Trời sinh một đôi (Perfect two)" note = "">
+                        http://www.youtube.com/watch?v=isdGrzIk6lg
+                </Film>
+                <Film name = "Bến không chồng" note = "">
+                        http://www.youtube.com/watch?v=WMwPBRgE3NQ
+                </Film>
+                <Film name = "Trở Về Nơi Tình Yêu Bắt Đầu" note = "">
+                        http://www.youtube.com/watch?v=M2_RV0ZTPVs
+                </Film>
+                <Film name = "Trở Về Nơi Tình Yêu Bắt Đầu" note = "">
+                        http://www.youtube.com/watch?v=M2_RV0ZTPVs
+                </Film>
+                <Film name = "Đông tà tây độc" note = "Phiên bản hài">
+                        http://www.youtube.com/watch?v=ZECq7RN6JdE
+                </Film>
                 <Film name = "Rắc rối đáng yêu" note = "">
                         http://www.youtube.com/watch?v=r38XD77ymWA
                 </Film>
@@ -1420,6 +1438,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Tây Thi Tình Sử" note = "">
+                        http://www.youtube.com/watch?v=abIejeuhkGA&list=PLdfVyctI3MDl9mNtP1Gmcw2L54tmSX05i
+                </Film>
                 <Film name = "Cương Thi Tiên Sinh" note = "">
                         http://www.youtube.com/watch?v=Z9xtn6l0wJM&list=PLB7E5979865BF713B
                 </Film>
