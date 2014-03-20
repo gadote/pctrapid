@@ -2,6 +2,18 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Rắc rối đáng yêu" note = "">
+                        http://www.youtube.com/watch?v=r38XD77ymWA
+                </Film>
+                <Film name = "Học Giả Cưa Gái" note = "">
+                        http://www.youtube.com/watch?v=-ohJv1lSgTk
+                </Film>
+                <Film name = "Siêu anh hùng" note = "">
+                        http://www.youtube.com/watch?v=0vDvweHP2Fw
+                </Film>
+                <Film name = "Quốc Sản 007" note = "">
+                        http://www.youtube.com/watch?v=x0uVFR8O0BE
+                </Film>
                 <Film name = "Mối Tình Đầu - A Little Thing Called Love" note = "">
                         http://www.youtube.com/watch?v=DZdHmzRFVRU
                 </Film>
