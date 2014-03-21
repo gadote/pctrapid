@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Nữ Kiếm Sỹ" note = "">
+                        http://www.youtube.com/watch?v=Sc27XNNklHo
+                </Film>
                 <Film name = "TÌNH YÊU TRÁI CẤM - The readers" note = "">
                         http://www.youtube.com/watch?v=oq2LDVgV9rs
                 </Film>
@@ -1447,11 +1450,26 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Tiểu Tử Tinh Linh" note = "">
+                        http://www.youtube.com/watch?v=0cc5ODdhMqY&list=PLgasypGCGRsTZAkWrZPYpfWRqTLsPnBpU
+                </Film>
+                <Film name = "Truyền Thuyết Người Và Tiên" note = "">
+                        http://www.youtube.com/watch?v=HEME-yAc7ms&list=PL6e7ZDTmH-w28M7K-PxHKYdvEJt5PArtT
+                </Film>
+                <Film name = "Truyện Tìm Thần" note = "">
+                        http://www.youtube.com/watch?v=a2WvF6RZgvk&list=PLD9YvRD6sbG0fhXZ-FpgxGp8wGFPhGHiG
+                </Film>
                 <Film name = "Tân Thất Tiên Giáng Trần" note = "">
                         http://www.youtube.com/watch?v=vruB07ZrX_8&list=PLvYiZIctV8gtd1fsGGIDTOsjUo0vWa674
                 </Film>
+                <Film name = "Thiên Địa Truyền Thuyết Mỹ Nhân Ngư" note = "">
+                        http://www.youtube.com/watch?v=wvQVBF5zogg&list=PLUYOnije2gcezE4VP8sU3DoRTZX9jCWLL
+                </Film>
                 <Film name = "Trả Giá" note = "">
                         http://www.youtube.com/watch?v=06eVJ9osXL0&list=PLlE9zNOz339NOMBX4xuyGDCjLy-6qD4iq
+                </Film>
+                <Film name = "Truy Ngư Truyền Kỳ" note = "">
+                        http://www.youtube.com/watch?v=VxXk4fzLjL8&list=PLH2gnL2RrQ7bcuJ5PuJcegH_IoaXC-QKX
                 </Film>
                 <Film name = "Tây Thi Tình Sử" note = "">
                         http://www.youtube.com/watch?v=abIejeuhkGA&list=PLdfVyctI3MDl9mNtP1Gmcw2L54tmSX05i
