@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Gửi Thời Thanh Xuân Sẽ Qua Của Chúng Ta" note = "">
+                        https://www.youtube.com/watch?v=Hl1b3t3xHu0
+                </Film>
                 <Film name = "Muốn Nghe Tiếng Yêu" note = "Phim Tình Cảm Thái Lan">
                         https://www.youtube.com/watch?v=FdQz32PXTU4
                 </Film>
@@ -10,6 +13,9 @@
                 </Film>
                 <Film name = "Tôi Là Frankenstein" note = "">
                         https://www.youtube.com/watch?v=PK7zK9kusMw
+                </Film>
+                <Film name = "Anh Có Thích Nước Mỹ Không" note = "">
+                        https://www.youtube.com/watch?v=tIfrkSf7QH8
                 </Film>
                 <Film name = "Băng Đảng Đường Phố" note = "">
                         https://www.youtube.com/watch?v=bhMErfnBpJM
@@ -1560,6 +1566,12 @@
                 </Film>
                 <Film name = "Thiên sứ tình yêu" note = "18+">
                         https://www.youtube.com/watch?v=oIogEtj3ZdE&list=PLBwYpfakvFRH-9OoVNqTKTJAM_gaMnROG
+                </Film>
+                <Film name = "Nữ Thần Athena" note = "">
+                        https://www.youtube.com/watch?v=NgdvgwH45Bo&list=PLpI_L959kbo6bSOMTMwP1fVhZd-5xEBH6
+                </Film>
+                <Film name = "Lưu Hải Hí Kim Thiền" note = "">
+                        https://www.youtube.com/watch?v=Qdw9cK6mk2Q&list=PLYMzYM2yvXgSRkSJiBGPCOEhFj4O4pXoP
                 </Film>
                 <Film name = "Hậu cung" note = "">
                         https://www.youtube.com/watch?v=Ab7H7hsTruY&list=PLRglj7Oc-2k5ZywtIc4Es2vP3sgosCVe_
