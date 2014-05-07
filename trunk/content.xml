@@ -2,8 +2,23 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Nếu Anh Là Em" note = "">
+                        https://www.youtube.com/watch?v=63vpl0eybOg
+                </Film>
+                <Film name = "Đến Vì Anh" note = "">
+                        https://www.youtube.com/watch?v=6qrzlIeYN8k
+                </Film>
+                <Film name = "Yêu Vào Ngày Hôm Đó" note = "">
+                        https://www.youtube.com/watch?v=2sYg5QXym5M
+                </Film>
                 <Film name = "Gửi Thời Thanh Xuân Sẽ Qua Của Chúng Ta" note = "">
                         https://www.youtube.com/watch?v=Hl1b3t3xHu0
+                </Film>
+                <Film name = "Những Cơn Gió Tháng 9" note = "">
+                        https://www.youtube.com/watch?v=_dVQqjf-aks
+                </Film>
+                <Film name = "Thời Thanh Xuân | Young Style" note = "">
+                        https://www.youtube.com/watch?v=42fxPVDTNa0
                 </Film>
                 <Film name = "Muốn Nghe Tiếng Yêu" note = "Phim Tình Cảm Thái Lan">
                         https://www.youtube.com/watch?v=FdQz32PXTU4
@@ -19,6 +34,9 @@
                 </Film>
                 <Film name = "Băng Đảng Đường Phố" note = "">
                         https://www.youtube.com/watch?v=bhMErfnBpJM
+                </Film>
+                <Film name = "Gia Tộc Quỷ Răng Hô" note = "">
+                        https://www.youtube.com/watch?v=6RHDejbPBpw
                 </Film>
                 <Film name = "Chiến Binh Sexy Lady" note = "18+">
                         https://www.youtube.com/watch?v=2Bz1smo4UEM
