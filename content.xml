@@ -1576,6 +1576,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Vườn Sao Băng" note = "Phim Nhật">
+                        https://www.youtube.com/watch?v=QIEsNskgFwY&list=PLOkWEsyJJ7BB_nxz_IKiB1zLvraZRtOQo
+                </Film>
                 <Film name = "Lạc mất linh hồn" note = "">
                         https://www.youtube.com/watch?v=3Hjk5w1ORYs&list=PLpDL474I-Yv7AvgPC098AqmF1gRkXJ0lJ
                 </Film>
