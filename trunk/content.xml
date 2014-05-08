@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Hương thơm quyến rũ" note = "">
+                        https://www.youtube.com/watch?v=U445WCEy_UI
+                </Film>
                 <Film name = "ĐỨA CON MA" note = "">
                         https://www.youtube.com/watch?v=OgMjMEPkYTI
                 </Film>
@@ -1603,6 +1606,30 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "GỌI GIẤC MƠ VỀ" note = "">
+                        https://www.youtube.com/watch?v=vGC3eGSYCfc&list=PL6M5vZuZStuJGEUgnHKEgLhac1axceSXq
+                </Film>
+                <Film name = "Mua chuộc ái tình" note = "">
+                        https://www.youtube.com/watch?v=RrUdZNw4M_c&list=PLzOtWNXhnsfetuuUcjWejXCezH_t4PLb8
+                </Film>
+                <Film name = "Mối Tình Mùa Nước Lũ" note = "">
+                        https://www.youtube.com/watch?v=YuA7aKzNC1Y&list=PLGpSOk4uAFLA1QlAoycqUjyn_vH9fIv3_
+                </Film>
+                <Film name = "Lấy chồng triệu phú" note = "">
+                        https://www.youtube.com/watch?v=xFboQTO9_po&list=PLXp5xRoJz_hXdEJjI-8aA2778Oze_x0mp
+                </Film>
+                <Film name = "Công Chúa Và Vệ Sĩ" note = "">
+                        https://www.youtube.com/watch?v=Obrjk6jyGCs&list=PL8FT98hnQUidqFXjWpK2YtOBTKbptfn3g
+                </Film>
+                <Film name = "Đôi Hài Lọ Lem" note = "">
+                        https://www.youtube.com/watch?v=0KX1DULOc2s&list=PLWxXFX-HO9K6i7BKn5PPO17WTIFY7BAj8
+                </Film>
+                <Film name = "Duy Nhất Một Tình Yêu" note = "">
+                        https://www.youtube.com/watch?v=xpuDpfsJWwI&list=PLrV89l4sjN2IBlStN2rDiMpOshaf9SD_2
+                </Film>
+                <Film name = "Tiệm mỳ mỹ nam" note = "">
+                        https://www.youtube.com/watch?v=u8oIkau8-yI&list=PL4c9XRSStJNvRObL3hF7TiUxxKwFdI-d9
+                </Film>
                 <Film name = "Chuyện Tình Quý Bà" note = "">
                         https://www.youtube.com/watch?v=mbRiAdRujwA&list=PLh9mkCnvvRHGzramK-2ES4yPQgc6Cs092
                 </Film>
