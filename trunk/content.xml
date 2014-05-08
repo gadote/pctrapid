@@ -2,6 +2,18 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Yêu Anh Em Dám Không" note = "Phim Hài VN">
+                        https://www.youtube.com/watch?v=0uWGYAUyaI8
+                </Film>
+                <Film name = "Tôi yêu em" note = "">
+                        https://www.youtube.com/watch?v=lcA-1H5higk
+                </Film>
+                <Film name = "Chuyến Bay Kỳ Quặc" note = "">
+                        https://www.youtube.com/watch?v=gd8lPLT0m7M
+                </Film>
+                <Film name = "I am Murderer" note = "">
+                        https://www.youtube.com/watch?v=7rA66GZgFeA
+                </Film>
                 <Film name = "Nếu Anh Là Em" note = "">
                         https://www.youtube.com/watch?v=63vpl0eybOg
                 </Film>
