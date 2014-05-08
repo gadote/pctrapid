@@ -2,6 +2,21 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "ĐỨA CON MA" note = "">
+                        https://www.youtube.com/watch?v=OgMjMEPkYTI
+                </Film>
+                <Film name = "Bí Quyết Sửa Ngực" note = "">
+                        https://www.youtube.com/watch?v=L5ZNU2lpmZ0
+                </Film>
+                <Film name = "Kí Sinh Trùng" note = "">
+                        https://www.youtube.com/watch?v=bydaTeqNptQ
+                </Film>
+                <Film name = "Một Cặp Trời Sinh" note = "">
+                        https://www.youtube.com/watch?v=PFfDxLp69S4
+                </Film>
+                <Film name = "Tìm lại tình yêu" note = "">
+                        https://www.youtube.com/watch?v=T-PPqvf3qwY
+                </Film>
                 <Film name = "Yêu Anh Em Dám Không" note = "Phim Hài VN">
                         https://www.youtube.com/watch?v=0uWGYAUyaI8
                 </Film>
@@ -1588,6 +1603,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Chuyện Tình Quý Bà" note = "">
+                        https://www.youtube.com/watch?v=mbRiAdRujwA&list=PLh9mkCnvvRHGzramK-2ES4yPQgc6Cs092
+                </Film>
                 <Film name = "Vườn Sao Băng" note = "Phim Nhật">
                         https://www.youtube.com/watch?v=QIEsNskgFwY&list=PLOkWEsyJJ7BB_nxz_IKiB1zLvraZRtOQo
                 </Film>
