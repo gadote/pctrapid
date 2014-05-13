@@ -2,6 +2,21 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Bão Lửa" note = "Lưu Đức Hoa">
+                        https://www.youtube.com/watch?v=Qco08DHVyXY
+                </Film>
+                <Film name = "Hoa Đô Đại Chiến 2 - The Twins Effect II" note = "">
+                        https://www.youtube.com/watch?v=Jaqq4hNPVdI
+                </Film>
+                <Film name = "Rồng Đen 2 Mortal Kombat Legacy II" note = "">
+                        https://www.youtube.com/watch?v=Vmf0zQSb-ys
+                </Film>
+                <Film name = "Chuyến Tàu Định Mệnh" note = "">
+                        https://www.youtube.com/watch?v=DGSEH8kDHa8
+                </Film>
+                <Film name = "Đội bóng thiếu lâm" note = "Châu Tinh Trì">
+                        https://www.youtube.com/watch?v=TZ3DL3i61i4
+                </Film>
                 <Film name = "Hương thơm quyến rũ" note = "">
                         https://www.youtube.com/watch?v=U445WCEy_UI
                 </Film>
@@ -1609,6 +1624,15 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Liêu Trai - Phần 3 - Thuyết Minh" note = "">
+                        https://www.youtube.com/watch?v=lmHKmjyS9Kc&list=PL6e7ZDTmH-w3QiVoqZOJOeL_ke_CNtBGu
+                </Film>
+                <Film name = "Thám Tử Lừng Danh CONAN" note = "">
+                        https://www.youtube.com/watch?v=g51VBsmDvHg&list=PLC2rvjI9KELIawOmaAxog5zqU4ZkJ6bqD
+                </Film>
+                <Film name = "Đô Rê Mon - truyện dài" note = "">
+                        https://www.youtube.com/playlist?list=PLC2rvjI9KELI0O3nRryNGC7bBVMqCsLhI
+                </Film>
                 <Film name = "5s Online" note = "">
                         https://www.youtube.com/watch?v=iHrdB_tuMK4&list=PLx1wzPIOvNhcGAc88iHq3pYERMeNC8hIv
                 </Film>
