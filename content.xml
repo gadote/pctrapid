@@ -2,6 +2,12 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Chống Trả Kẻ Thù" note = "Thuyết minh">
+                        https://www.youtube.com/watch?v=i9f9sJGzM5o
+                </Film>
+                <Film name = "Cuộc Chiến Tàn Khốc" note = "Phụ Đề">
+                        https://www.youtube.com/watch?v=5IBDlEKAYLg
+                </Film>
                 <Film name = "Mạch Điền" note = "">
                         https://www.youtube.com/watch?v=4Sdgk1QRGWM
                 </Film>
