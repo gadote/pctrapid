@@ -2,6 +2,30 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Ninja Sa Bẫy" note = "">
+                        https://www.youtube.com/watch?v=PyltC6Dno4U
+                </Film>
+                <Film name = "Tiểu Thuyết Bí Ẩn" note = "">
+                        https://www.youtube.com/watch?v=MQsZwQdS_Ec
+                </Film>
+                <Film name = "Nhóc Ninja" note = "">
+                        https://www.youtube.com/watch?v=M-PZ6ACMEHY
+                </Film>
+                <Film name = "Thiên Đài" note = "">
+                        https://www.youtube.com/watch?v=c_86sSSn82E
+                </Film>
+                <Film name = "Phục Kích Biệt Đội" note = "">
+                        https://www.youtube.com/watch?v=hpmXcBR7pRM
+                </Film>
+                <Film name = "Người Mẹ Ma Ám" note = "">
+                        https://www.youtube.com/watch?v=8aPSyv7rQCU
+                </Film>
+                <Film name = "Trưa Thượng Hải" note = "">
+                        https://www.youtube.com/watch?v=Agl9tjNCCIU
+                </Film>
+                <Film name = "Bảo đảo song hùng" note = "">
+                        https://www.youtube.com/watch?v=iESibfIpEKs
+                </Film>
                 <Film name = "Chống Trả Kẻ Thù" note = "Thuyết minh">
                         https://www.youtube.com/watch?v=i9f9sJGzM5o
                 </Film>
@@ -1663,6 +1687,15 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Hiệp Nữ Phá Thiên Quan" note = "">
+                        https://www.youtube.com/watch?v=dqinh7xXxNw&list=PLCNWGX2Q01ueZrJ4oKnm0DixuwgqY3DD9
+                </Film>
+                <Film name = "Lục nữ giang nam" note = "">
+                        https://www.youtube.com/watch?v=gp7dHrOb8Is&list=PLUaE6Z4wy9TX70VBL5Q9wjKP62ZfVJkuT
+                </Film>
+                <Film name = "Hoa Trong Sương" note = "Lâm Tâm Như, Joo Jin Mo">
+                        https://www.youtube.com/watch?v=oRjWBBpXfkc&list=PLhDtXGuJlGxSERE4SQ2JrfyaZs9_ey_hP
+                </Film>
                 <Film name = "Chuyện Bên Nhà Mẹ" note = "">
                         https://www.youtube.com/watch?v=4p_CdtkFOf8&list=PLFUbHn2WIbAY0C_UBHi7G3fuTXJzzuuRq
                 </Film>
