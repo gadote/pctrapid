@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Chiến dịch trái tim bên phải" note = "">
+                        https://www.youtube.com/watch?v=5Tpy8fXlAI4
+                </Film>
                 <Film name = "Võ Sư Cái thế" note = "">
                         https://www.youtube.com/watch?v=P3Qs74TmCy8
                 </Film>
@@ -1693,6 +1696,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Chàng Trai Không Biết Ghen" note = "">
+                        https://www.youtube.com/watch?v=rHQjGtIsABc&list=PL70IY5IjUnZZQMtMY6xczJ_Fd23NKwl-f
+                </Film>
                 <Film name = "Diệt Ma Hiệp Đạo 2" note = "">
                         https://www.youtube.com/watch?v=fV__KMwEkU8&list=PL63C0D65749D3925D
                 </Film>
