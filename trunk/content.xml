@@ -1696,8 +1696,20 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Cuộc chiến hoa hồng 1" note = "">
+                        https://www.youtube.com/watch?v=4ysg11uYRtA&list=PL3B06710E1B3F801F
+                </Film>
+                <Film name = "Cuộc chiến hoa hồng 2" note = "">
+                        https://www.youtube.com/watch?v=tBCqDBrZ5m4&list=PLAF08B9C3AC3FEA44
+                </Film>
                 <Film name = "Chàng Trai Không Biết Ghen" note = "">
                         https://www.youtube.com/watch?v=rHQjGtIsABc&list=PL70IY5IjUnZZQMtMY6xczJ_Fd23NKwl-f
+                </Film>
+                <Film name = "Lặng Lẽ Yêu Em" note = "">
+                        https://www.youtube.com/watch?v=rme4bWhv9ik&list=PLA2FD0B0E07704FD6
+                </Film>
+                <Film name = "Hoàng Tử Xấu Trai" note = "">
+                        https://www.youtube.com/watch?v=vkHT-cKjFJk&list=PL98DDF2DFDD92DF50
                 </Film>
                 <Film name = "Diệt Ma Hiệp Đạo 2" note = "">
                         https://www.youtube.com/watch?v=fV__KMwEkU8&list=PL63C0D65749D3925D
