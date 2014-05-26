@@ -2,6 +2,15 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Kỳ Nghỉ Tai Ương" note = "">
+                        https://www.youtube.com/watch?v=lujdEB-yNFU
+                </Film>
+                <Film name = "Vùng Đất Quỷ Dữ" note = "">
+                        https://www.youtube.com/watch?v=G6D_nbPy9P8
+                </Film>
+                <Film name = "Bảo Vệ Công Lý" note = "">
+                        https://www.youtube.com/watch?v=xBOLYQa2m-A
+                </Film>
                 <Film name = "Thái Cực Quyền" note = "">
                         https://www.youtube.com/watch?v=ubCdXsr3AZU
                 </Film>
@@ -1699,6 +1708,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Hành Trình Hôn Nhân" note = "">
+                        https://www.youtube.com/watch?v=ziag_MQjhXM&list=PL0F98iOnwqaNWIZ1-R66QhPbikB1T8FPt
+                </Film>
                 <Film name = "Tân Tây Du Ký" note = "">
                         https://www.youtube.com/watch?v=8n3jV0Zijsk&list=PL8F380BD3BB3F361F
                 </Film>
