@@ -2,8 +2,14 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Bài học tình yêu" note = "18+">
+                        https://www.youtube.com/watch?v=NO4pcEm4VCA
+                </Film>
                 <Film name = "Khi Đàn Ông Có Bầu" note = "">
                         https://www.youtube.com/watch?v=tcRpM5SvlP0
+                </Film>
+                <Film name = "Walk Of Shame - 8 Tiếng Điên Cuồng" note = "">
+                        https://www.youtube.com/watch?v=Rul4S300DmA
                 </Film>
                 <Film name = "Ngoại Già Tuổi Đôi Mươi" note = "">
                         https://www.youtube.com/watch?v=sPvmrRcnFas
@@ -16,6 +22,9 @@
                 </Film>
                 <Film name = "Cặp Đôi" note = "">
                         https://www.youtube.com/watch?v=EQ6K9Ps7j60
+                </Film>
+                <Film name = "3 Chàng Ngốc" note = "">
+                        https://www.youtube.com/watch?v=s1_gTjpTa38
                 </Film>
                 <Film name = "Kẻ hủy diệt 4" note = "">
                         https://www.youtube.com/watch?v=fh9Bc5vMwPQ
@@ -35,8 +44,11 @@
                 <Film name = "Girlfriend" note = "">
                         https://www.youtube.com/watch?v=gFm9rU5eKec
                 </Film>
-                <Film name = "Bố Ơi Mình Đi Đâu Thế?" note = "">
+                <Film name = "Bố Ơi Mình Đi Đâu Thế?" note = "Phiên bản TQ">
                         https://www.youtube.com/watch?v=e9YNWq95rFc
+                </Film>
+                <Film name = "Vũ Khí Khiêu Gợi 3" note = "">
+                        https://www.youtube.com/watch?v=BQ87iYZ2Me4
                 </Film>
                 <Film name = "Cá Mập Núi Tuyết" note = "">
                         https://www.youtube.com/watch?v=SVxlcHh-d5Q
