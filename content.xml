@@ -2,6 +2,27 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Ngoại Già Tuổi Đôi Mươi" note = "">
+                        https://www.youtube.com/watch?v=sPvmrRcnFas
+                </Film>
+                <Film name = "Nữ Hoàng Hộp Đêm" note = "">
+                        https://www.youtube.com/watch?v=RlO7SZPkIDQ
+                </Film>
+                <Film name = "Cặp Đôi" note = "">
+                        https://www.youtube.com/watch?v=EQ6K9Ps7j60
+                </Film>
+                <Film name = "Kẻ hủy diệt 4" note = "">
+                        https://www.youtube.com/watch?v=fh9Bc5vMwPQ
+                </Film>
+                <Film name = "Quái Vật Godzilla" note = "1998">
+                        https://www.youtube.com/watch?v=p0dk3ajBo4M
+                </Film>
+                <Film name = "Mộ Rồng" note = "">
+                        https://www.youtube.com/watch?v=sd95Ajk-hVo
+                </Film>
+                <Film name = "Trường Học Của Chúng Tôi" note = "">
+                        https://www.youtube.com/watch?v=NVPjCEaP5FQ
+                </Film>
                 <Film name = "Cá Mập Núi Tuyết" note = "">
                         https://www.youtube.com/watch?v=SVxlcHh-d5Q
                 </Film>
