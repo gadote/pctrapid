@@ -2,8 +2,14 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Khi Đàn Ông Có Bầu" note = "">
+                        https://www.youtube.com/watch?v=tcRpM5SvlP0
+                </Film>
                 <Film name = "Ngoại Già Tuổi Đôi Mươi" note = "">
                         https://www.youtube.com/watch?v=sPvmrRcnFas
+                </Film>
+                <Film name = "ANH CHÀNG DÂM DÊ" note = "">
+                        https://www.youtube.com/watch?v=dQvJzg3B7os
                 </Film>
                 <Film name = "Nữ Hoàng Hộp Đêm" note = "">
                         https://www.youtube.com/watch?v=RlO7SZPkIDQ
@@ -20,8 +26,17 @@
                 <Film name = "Mộ Rồng" note = "">
                         https://www.youtube.com/watch?v=sd95Ajk-hVo
                 </Film>
+                <Film name = "Kiếm Rồng Arahan" note = "">
+                        https://www.youtube.com/watch?v=imzaWb8KQkg
+                </Film>
                 <Film name = "Trường Học Của Chúng Tôi" note = "">
                         https://www.youtube.com/watch?v=NVPjCEaP5FQ
+                </Film>
+                <Film name = "Girlfriend" note = "">
+                        https://www.youtube.com/watch?v=gFm9rU5eKec
+                </Film>
+                <Film name = "Bố Ơi Mình Đi Đâu Thế?" note = "">
+                        https://www.youtube.com/watch?v=e9YNWq95rFc
                 </Film>
                 <Film name = "Cá Mập Núi Tuyết" note = "">
                         https://www.youtube.com/watch?v=SVxlcHh-d5Q
@@ -1753,6 +1768,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Hoàng Tử Ếch" note = "">
+                        https://www.youtube.com/watch?v=GPYqdWi7YAI&list=PLB7WREDUKBAdy-hvpeyUEN140ZdQCJLhu
+                </Film>
                 <Film name = "Đồng Tiền Đen" note = "">
                         https://www.youtube.com/watch?v=OgKmNvYF9KY&list=PL8X4a8cXSYxV0zyeCf3YTQYNC2eMxbWEh
                 </Film>
