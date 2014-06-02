@@ -2,6 +2,21 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Thuật Xem Tướng" note = "">
+                        https://www.youtube.com/watch?v=jgca95xXW5U
+                </Film>
+                <Film name = "Missing - Mất tích (2009)" note = "">
+                        https://www.youtube.com/watch?v=WD_IfQ6geyM
+                </Film>
+                <Film name = "Tuổi dậy thì" note = "">
+                        https://www.youtube.com/watch?v=m-zVNdT1shw
+                </Film>
+                <Film name = "Cảnh Viên Và Chú Rể" note = "Hài HK">
+                        https://www.youtube.com/watch?v=Bw9CV4Kifzk
+                </Film>
+                <Film name = "Mục tiêu quyến rũ" note = "Phim Hình sự Mỹ">
+                        https://www.youtube.com/watch?v=CltHTz6_6vY
+                </Film>
                 <Film name = "Bài học tình yêu" note = "18+">
                         https://www.youtube.com/watch?v=NO4pcEm4VCA
                 </Film>
@@ -1792,6 +1807,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Gumiho - Truyền Thuyết Tiểu Hồ Ly" note = "">
+                        https://www.youtube.com/watch?v=_AtSnHhwrFQ&list=PLXYVEnLXJA7cxdUHs_R3zDZBp9X9-s04-
+                </Film>
                 <Film name = "Hoàng Tử Ếch" note = "">
                         https://www.youtube.com/watch?v=GPYqdWi7YAI&list=PLB7WREDUKBAdy-hvpeyUEN140ZdQCJLhu
                 </Film>
