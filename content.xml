@@ -2,6 +2,24 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Người Băng - Iceman" note = "">
+                        https://www.youtube.com/watch?v=fI6n4yfqf0k
+                </Film>
+                <Film name = "100 Xác Chết" note = "">
+                        https://www.youtube.com/watch?v=2lPJYm0SGCw
+                </Film>
+                <Film name = "Đại náo phố Bronx" note = "">
+                        https://www.youtube.com/watch?v=eGdGKskjm4U
+                </Film>
+                <Film name = "Cảm Giác Lạ" note = "">
+                        https://www.youtube.com/watch?v=WutWxT954DM
+                </Film>
+                <Film name = "Điệp Vụ Outrage" note = "">
+                        https://www.youtube.com/watch?v=vCcKjFban-w
+                </Film>
+                <Film name = "Quái Vật Biển Bering" note = "">
+                        https://www.youtube.com/watch?v=UORoJpLHhZ8
+                </Film>
                 <Film name = "Nhiệm Vụ Cuối Cùng" note = "">
                         https://www.youtube.com/watch?v=aEsfEYRPkGQ
                 </Film>
@@ -16,6 +34,9 @@
                 </Film>
                 <Film name = "Nguy Hiểm Tột Cùng" note = "">
                         https://www.youtube.com/watch?v=c2-gGeck-9o
+                </Film>
+                <Film name = "BÍ QUYẾT SƠ NGỰC" note = "">
+                        https://www.youtube.com/watch?v=eGdGKskjm4U
                 </Film>
                 <Film name = "Truy Lùng 44" note = "Thuyết Minh">
                         https://www.youtube.com/watch?v=Pdj15QIBlzA
