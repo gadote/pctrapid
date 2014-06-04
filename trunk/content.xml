@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Ngày Chết Chóc" note = "">
+                        https://www.youtube.com/watch?v=u4Fd9fQosHQ
+                </Film>
                 <Film name = "Người Băng - Iceman" note = "">
                         https://www.youtube.com/watch?v=fI6n4yfqf0k
                 </Film>
@@ -1864,6 +1867,15 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "CHIẾC HỘP TÌNH YÊU" note = "">
+                        https://www.youtube.com/watch?v=gJGYd5iE7Fo&list=PLWxXFX-HO9K7IgqwPPTmY8kpb-0gQe7Fb
+                </Film>
+                <Film name = "Sabrina Cô Phù Thủy Nhỏ (Season 1 & 2 & 3)" note = "">
+                        https://www.youtube.com/watch?v=ed_0ebhAgEM&list=PLVaVW4uoUonhZbexhFeq2oAr4q1MVVUXG
+                </Film>
+                <Film name = "Lời Thế Danh Dự" note = "">
+                        https://www.youtube.com/watch?v=-geeEuH645E&list=PL7ID391afDfvIuFmDCgXbFhWVnbm9aUDO
+                </Film>
                 <Film name = "Sắc Màu Phù Sa" note = "">
                         https://www.youtube.com/watch?v=JgdfYQf71zE&list=PLyuxwLGSwaiS7CjggwYKWFRhCrpaglDQX
                 </Film>
