@@ -2,6 +2,12 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Nhiệm Vụ Cuối Cùng" note = "">
+                        https://www.youtube.com/watch?v=aEsfEYRPkGQ
+                </Film>
+                <Film name = "Bước Ngoặt 2 (Turning Point 2)" note = "">
+                        https://www.youtube.com/watch?v=A6SEcdcwIpo
+                </Film>
                 <Film name = "Nguy Hiểm Cuối Cùng" note = "">
                         https://www.youtube.com/watch?v=9rzKPRc7d_A
                 </Film>
