@@ -2,6 +2,27 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Quỷ trở lại" note = "">
+                        https://www.youtube.com/watch?v=RGPD9QwcIRc
+                </Film>
+                <Film name = "Con Ma Vui Vẻ 3" note = "">
+                        https://www.youtube.com/watch?v=jd0l2rhYOs4
+                </Film>
+                <Film name = "Ngày Của Người Chết" note = "">
+                        https://www.youtube.com/watch?v=Xt0fKtf10e4
+                </Film>
+                <Film name = "Nữ Báo Thù 2" note = "">
+                        https://www.youtube.com/watch?v=NDRG8L-pLxE
+                </Film>
+                <Film name = "Binh Đoàn Sát Thủ" note = "">
+                        https://www.youtube.com/watch?v=-HmI_zjiAVY
+                </Film>
+                <Film name = "Nữ Sát Thủ Gợi Cảm" note = "">
+                        https://www.youtube.com/watch?v=QjQD9umqoMA
+                </Film>
+                <Film name = "Ngày Tận Thế" note = "">
+                        https://www.youtube.com/watch?v=ruKtvlAyWIg
+                </Film>
                 <Film name = "Chung Cư Ma" note = "">
                         https://www.youtube.com/watch?v=7jiXMycPTxM
                 </Film>
