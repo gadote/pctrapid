@@ -2,6 +2,24 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Chung Cư Ma" note = "">
+                        https://www.youtube.com/watch?v=7jiXMycPTxM
+                </Film>
+                <Film name = "Khu Vực Nguy Hiểm" note = "">
+                        https://www.youtube.com/watch?v=78HPGFLCbmg
+                </Film>
+                <Film name = "3 Ngày Đổi Mạng" note = "">
+                        https://www.youtube.com/watch?v=vjE-MoOhohc
+                </Film>
+                <Film name = "Vùng Biển Chết" note = "">
+                        https://www.youtube.com/watch?v=LQDW8dadruc
+                </Film>
+                <Film name = "Hồi Ức Kẻ Sát Nhân" note = "">
+                        https://www.youtube.com/watch?v=QFa40r-tjn4
+                </Film>
+                <Film name = "Ác chiến Thượng Hải" note = "">
+                        https://www.youtube.com/watch?v=DIrcTL3JKCk
+                </Film>
                 <Film name = "Ngày Chết Chóc" note = "">
                         https://www.youtube.com/watch?v=u4Fd9fQosHQ
                 </Film>
