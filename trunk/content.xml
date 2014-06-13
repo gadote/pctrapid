@@ -2,8 +2,29 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Cậu bé đặc biệt" note = "">
+                        https://www.youtube.com/watch?v=NqbqWZ6_dAY
+                </Film>
+                <Film name = "Tiếng Súng" note = "">
+                        https://www.youtube.com/watch?v=lqzLINkOZ_g
+                </Film>
+                <Film name = "Ma trở lại" note = "">
+                        https://www.youtube.com/watch?v=l9V0SrM2gbk
+                </Film>
+                <Film name = "Piranha 3D" note = "">
+                        https://www.youtube.com/watch?v=NDY8SFJ8Q5E
+                </Film>
+                <Film name = "Ngôi nhà không ngủ yên" note = "">
+                        https://www.youtube.com/watch?v=n1U1JxWfC3c
+                </Film>
                 <Film name = "Quỷ trở lại" note = "">
                         https://www.youtube.com/watch?v=RGPD9QwcIRc
+                </Film>
+                <Film name = "Vẻ Đẹp Quyến Rũ" note = "">
+                        https://www.youtube.com/watch?v=sCljFSD7Mkc
+                </Film>
+                <Film name = "Chuyện tình 400 năm" note = "">
+                        https://www.youtube.com/watch?v=WYnlEAfnoMg
                 </Film>
                 <Film name = "Con Ma Vui Vẻ 3" note = "">
                         https://www.youtube.com/watch?v=jd0l2rhYOs4
@@ -1906,8 +1927,41 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "CHIẾC HỘP TÌNH YÊU" note = "">
+                        https://www.youtube.com/watch?v=gJGYd5iE7Fo&list=PLWxXFX-HO9K7IgqwPPTmY8kpb-0gQe7Fb
+                </Film>
+                <Film name = "Yêu không dễ" note = "">
+                        https://www.youtube.com/watch?v=-jLEcBzv1v0&list=PLtR50_NoOR336UbFaHnBb7uT90loOKdcm
+                </Film>
+                <Film name = "Bóng tối tội lỗi" note = "">
+                        https://www.youtube.com/watch?v=fSPJuKcB4yQ&list=PLgIJarMyCbtycXZjc8Omm2TLkLSWMxSkW
+                </Film>
+                <Film name = "Người Chồng Tuyệt Vời" note = "">
+                        https://www.youtube.com/watch?v=Jz4YdFGnbdo&list=PL-qh2kVdZKeVo2BcfBRgQJNLnwivZAiHf
+                </Film>
+                <Film name = "Lửa Tình Thiêu Thù Hận" note = "">
+                        https://www.youtube.com/watch?v=AVeYA3_iGXs&list=PL0H5HXzzQ01BjIyX8auZI98SVcpf5D-s9
+                </Film>
+                <Film name = "Chồng Tôi" note = "">
+                        https://www.youtube.com/watch?v=PTJyJH8LN-Q&list=PL9Ua3YPIPN69E-mhhIIiMcld4XXRqIRNY
+                </Film>
+                <Film name = "Mình yêu nhau đi" note = "">
+                        https://www.youtube.com/watch?v=_hrRYo75DVE&list=PLNytYkRaueeQJx4Qm6cGsQgbjtqkm4C7-
+                </Film>
+                <Film name = "Đứa Trẻ Đến Từ Thiên Đường" note = "">
+                        https://www.youtube.com/watch?v=PbyRTyMgNA4&list=PLimBpOCPBAwDAbOLww4su4IpSsF7uczYk
+                </Film>
+                <Film name = "Quá khứ và hiện tại" note = "">
+                        https://www.youtube.com/watch?v=hFhNjFoSF_Y&list=PLNytYkRaueeS_TeGVex9m2ifcgvQ7c9ZB
+                </Film>
+                <Film name = "Công Chúa Và Vệ Sĩ" note = "">
+                        https://www.youtube.com/watch?v=Obrjk6jyGCs&list=PL8FT98hnQUidqFXjWpK2YtOBTKbptfn3g
+                </Film>
+                <Film name = "Ma Đạo Tranh Bá" note = "">
+                        https://www.youtube.com/watch?v=RbdPx-4MLFI&list=PLBq7mZ8aX9cHukpY5ihBNHVmAfM8byU8S
+                </Film>
                 <Film name = "Hoài Ngọc Truyền Kỳ" note = "">
-                        http://www.youtube.com/watch?v=_tmfBkbA6jE&list=PLhuTX5ud_XsBH6_cEp0LRUEaOEgLUiZx8
+                        https://www.youtube.com/watch?v=_tmfBkbA6jE&list=PLhuTX5ud_XsBH6_cEp0LRUEaOEgLUiZx8
                 </Film>
                 <Film name = "CHIẾC HỘP TÌNH YÊU" note = "">
                         https://www.youtube.com/watch?v=gJGYd5iE7Fo&list=PLWxXFX-HO9K7IgqwPPTmY8kpb-0gQe7Fb
