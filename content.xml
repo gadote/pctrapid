@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Tình một đêm" note = "Phim ngắn">
+                        https://www.youtube.com/watch?v=sTdpbIH78UI
+                </Film>
                 <Film name = "Cậu bé đặc biệt" note = "">
                         https://www.youtube.com/watch?v=NqbqWZ6_dAY
                 </Film>
@@ -1929,6 +1932,9 @@
 	<FilmHinhSu text = "Phim Bộ">
                 <Film name = "CHIẾC HỘP TÌNH YÊU" note = "">
                         https://www.youtube.com/watch?v=gJGYd5iE7Fo&list=PLWxXFX-HO9K7IgqwPPTmY8kpb-0gQe7Fb
+                </Film>
+                <Film name = "Em Là Phụ Nữ" note = "">
+                        https://www.youtube.com/watch?v=jObc2gGZ-p4&list=PLxgYqLVwgJ37LyrsJcnAKo9-xhtwMcGqw
                 </Film>
                 <Film name = "Yêu không dễ" note = "">
                         https://www.youtube.com/watch?v=-jLEcBzv1v0&list=PLtR50_NoOR336UbFaHnBb7uT90loOKdcm
