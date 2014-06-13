@@ -2,6 +2,27 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Một Đêm Lầm Lỡ" note = "18+">
+                        https://www.youtube.com/watch?v=ITyldydyznU
+                </Film>
+                <Film name = "Kỳ Nghỉ Bí Mật" note = "18+">
+                        https://www.youtube.com/watch?v=BE7UXqkhzZM
+                </Film>
+                <Film name = "Chiếc ghế xanh" note = "18+">
+                        https://www.youtube.com/watch?v=vpHFru6Kd_0
+                </Film>
+                <Film name = "Hơi Thở Của Em" note = "18+">
+                        https://www.youtube.com/watch?v=8JOquw-F25U
+                </Film>
+                <Film name = "Cô vợ hàng xóm cô đơn" note = "18+">
+                        https://www.youtube.com/watch?v=FOdeH4PXNaw
+                </Film>
+                <Film name = "Của Quý Huyền Thoại" note = "18+">
+                        https://www.youtube.com/watch?v=LIXyE0Bl1_0
+                </Film>
+                <Film name = "Những cô gái thoát y" note = "18+">
+                        https://www.youtube.com/watch?v=U5qB75AHdAA
+                </Film>
                 <Film name = "Tình một đêm" note = "Phim ngắn">
                         https://www.youtube.com/watch?v=sTdpbIH78UI
                 </Film>
