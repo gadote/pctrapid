@@ -2,6 +2,21 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Hai lần gặp mặt" note = "18+">
+                        https://www.youtube.com/watch?v=SaaFINDM24k
+                </Film>
+                <Film name = "Vệt tối Tình yêu" note = "18+">
+                        https://www.youtube.com/watch?v=PK6UTjybQdU
+                </Film>
+                <Film name = "Lạc Lối Ở Bắc Kinh" note = "18+">
+                        https://www.youtube.com/watch?v=SSJ32H6mH7Y
+                </Film>
+                <Film name = "Mỹ Nhân" note = "18+">
+                        https://www.youtube.com/watch?v=VNDdbK9BuHU
+                </Film>
+                <Film name = "Trò Chơi Tình Ái" note = "18+">
+                        https://www.youtube.com/watch?v=gbGXfwsWUT8
+                </Film>
                 <Film name = "Một Đêm Lầm Lỡ" note = "18+">
                         https://www.youtube.com/watch?v=ITyldydyznU
                 </Film>
