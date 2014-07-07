@@ -2,6 +2,12 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Khu Vực Nguy Hiểm" note = "">
+                        https://www.youtube.com/watch?v=78HPGFLCbmg
+                </Film>
+                <Film name = "Kung fu panda 3" note = "">
+                        https://www.youtube.com/watch?v=ZEV-3KliuD8
+                </Film>
                 <Film name = "VƯƠNG QUỐC BÍ ẨN" note = "">
                         https://www.youtube.com/watch?v=iFPcg9o3-fw
                 </Film>
@@ -2014,6 +2020,12 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Sông Trôi Muôn Hướng" note = "">
+                        https://www.youtube.com/watch?v=nieStW9WPE8&list=PLfTZbG0N0w3cLScLb2txw6N_3zbc8w_RL
+                </Film>
+                <Film name = "Đôi Mắt Của Trái Tim" note = "">
+                        https://www.youtube.com/watch?v=vSEop9DdIU4&list=PL_rP-UiQciO5bfDLML-z1CWpyTC1T-HqA
+                </Film>
                 <Film name = "Đường Hoang Lạc Bước" note = "">
                         https://www.youtube.com/watch?v=xSWlCHDh3Pk&list=PLqP6PnmMitwzOJCKHdEbXFoto9eHGaitg
                 </Film>
