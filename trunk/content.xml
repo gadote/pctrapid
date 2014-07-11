@@ -2,8 +2,14 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Xin Chào Baby" note = "[Hài Hong kong] [Tăng Chí Vĩ, Hùng Đại Lâm, Ngô Quân Như]">
+                        https://www.youtube.com/watch?v=cILE8UDL32I
+                </Film>
                 <Film name = "Sức nóng" note = "">
                         https://www.youtube.com/watch?v=bz1eD-wOkHk
+                </Film>
+                <Film name = "THẾ GIỚI NGẦM" note = "">
+                        https://www.youtube.com/watch?v=CwDM6TMu9N8
                 </Film>
                 <Film name = "Ngũ Quỷ, 5 Nàng Phù Thủy" note = "">
                         https://www.youtube.com/watch?v=DU7YO_xQS2k
