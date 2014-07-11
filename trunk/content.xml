@@ -2,6 +2,27 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Sức nóng" note = "">
+                        https://www.youtube.com/watch?v=bz1eD-wOkHk
+                </Film>
+                <Film name = "Sức nóng" note = "">
+                        https://www.youtube.com/watch?v=bz1eD-wOkHk
+                </Film>
+                <Film name = "Người Đẹp và Quái Vật" note = "">
+                        https://www.youtube.com/watch?v=XZeu13Z6V6s&list=PL24t4hOLnTlb_1O2ezPcaDzhLDhau2Lvl
+                </Film>
+                <Film name = "Tiên Hạc Thần Trâm" note = "">
+                        https://www.youtube.com/watch?v=-lrRlkfsLfg
+                </Film>
+                <Film name = "Giáp Sắt - Cuộc Chiến Huyết Thống" note = "">
+                        https://www.youtube.com/watch?v=FMiBNIwyB8w
+                </Film>
+                <Film name = "Tiên Hắc Ám" note = "">
+                        https://www.youtube.com/watch?v=1W_ucODPErU
+                </Film>
+                <Film name = "Vẹt Đuôi Dài 2 - Rio 2" note = "">
+                        https://www.youtube.com/watch?v=xmR9kwsN5VM
+                </Film>
                 <Film name = "Khu Vực Nguy Hiểm" note = "">
                         https://www.youtube.com/watch?v=78HPGFLCbmg
                 </Film>
@@ -2020,6 +2041,12 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Vòng tròn 12 số" note = "">
+                        https://www.youtube.com/watch?v=XaBxtz29pjo&list=PL8FT98hnQUifSQGSNoXYzch6JOS_Umznw
+                </Film>
+                <Film name = "Mặt nạ hoàn hảo" note = "">
+                        https://www.youtube.com/watch?v=xtJwMAqfz14&list=PLfdy96s47RcAK6O7M81XTzJtNEsAhwV_6
+                </Film>
                 <Film name = "Sông Trôi Muôn Hướng" note = "">
                         https://www.youtube.com/watch?v=nieStW9WPE8&list=PLfTZbG0N0w3cLScLb2txw6N_3zbc8w_RL
                 </Film>
