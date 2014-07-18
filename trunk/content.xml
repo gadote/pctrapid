@@ -2,6 +2,12 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Kẻ tình nghi (2014)" note = "Tô Hữu Bằng">
+                        https://www.youtube.com/watch?v=49759lSua5E
+                </Film>
+                <Film name = "Chàng Trai Trẻ" note = "">
+                        https://www.youtube.com/watch?v=Qav9XIOb52E
+                </Film>
                 <Film name = "Sát Thủ Gợi Cảm - The Machine (2014) " note = "">
                         https://www.youtube.com/watch?v=shq8mk5x7sk
                 </Film>
@@ -2065,6 +2071,15 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Không phải hoa chẳng phải sương" note = "">
+                        https://www.youtube.com/watch?v=x1AAyQVqSYQ&list=PLQrhAmgsQWmhA1SSp6FnlU5H7-h7tvhGZ
+                </Film>
+                <Film name = "Vườn Dâu Tình Yêu" note = "">
+                        https://www.youtube.com/watch?v=zPGkPNF8UhY&list=PL5db1HrXYmwL_E98B2j-KtBofWko_Aenk
+                </Film>
+                <Film name = "Danh Gia Vọng Tộc Phần 2" note = "">
+                        https://www.youtube.com/watch?v=swcZOMEN5z4&list=PLuXyjeTkWKYxvoEr8zv-mhwa3mC7eAt7m
+                </Film>
                 <Film name = "Dấu chân du mục" note = "">
                         https://www.youtube.com/watch?v=GKqcoJSJ0jU&list=PLsbsINwOr6pJrbpqiPyUOja5aX6I3s-9R
                 </Film>
@@ -2076,6 +2091,9 @@
                 </Film>
                 <Film name = "Tình Yêu Còn Mãi" note = "Phim Hàn Quốc">
                         https://www.youtube.com/watch?v=Rz1k5NKWhCY&list=PLXQDcGZREVGHG4OQOZolEj67QyjjEOQJj
+                </Film>
+                <Film name = "Tình Yêu Nhạc Trot" note = "Phim Hàn Quốc">
+                        https://www.youtube.com/watch?v=ygBaRTv6Pas&list=PLXQDcGZREVGETC-ADKnt57S0D4t2oVBOy
                 </Film>
                 <Film name = "Không Chùn Bước" note = "">
                         https://www.youtube.com/watch?v=UW41iEBOg-I&list=PLN9ZdVpsIFU15XNuYwbyMlarkQ16-BvSN
