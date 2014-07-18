@@ -2,6 +2,12 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "3 Giờ Sáng (Phần 2 - 2014)" note = "Phim Ma Thái Lan">
+                        https://www.youtube.com/watch?v=k2vDd5j15tk
+                </Film>
+                <Film name = "3 Giờ Sáng (Phần 1 - 2013)" note = "Phim Ma Thái Lan">
+                        https://www.youtube.com/watch?v=o5Zdi-WgN6M
+                </Film>
                 <Film name = "Xin Chào Baby" note = "[Hài Hong kong] [Tăng Chí Vĩ, Hùng Đại Lâm, Ngô Quân Như]">
                         https://www.youtube.com/watch?v=cILE8UDL32I
                 </Film>
@@ -2047,6 +2053,12 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Vi sư sắc sảo" note = "">
+                        http://www.youtube.com/watch?v=GkygTWXr6vc&list=PLpdPzhNsgdFlxvfxw0neQZKreXCNoW_kB
+                </Film>
+                <Film name = "Không Chùn Bước" note = "">
+                        https://www.youtube.com/watch?v=UW41iEBOg-I&list=PLN9ZdVpsIFU15XNuYwbyMlarkQ16-BvSN
+                </Film>
                 <Film name = "Nữ hoàng rắc rối" note = "">
                         https://www.youtube.com/watch?v=JSsMfLt_Neg&list=PL5140700044120643
                 </Film>
