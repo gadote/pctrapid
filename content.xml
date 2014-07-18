@@ -2,6 +2,21 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Hồ Ly Tinh" note = "Phim Kiếm Hiệp Hài">
+                        https://www.youtube.com/watch?v=S6uILNUXmiA
+                </Film>
+                <Film name = "Hiệp Bổ - Man Hunter" note = "">
+                        https://www.youtube.com/watch?v=Bv4inEshsgE
+                </Film>
+                <Film name = "Thiên Tiên Kỳ Hiệp" note = "">
+                        https://www.youtube.com/watch?v=5zhrJNNgIsM
+                </Film>
+                <Film name = "Tân Tuyệt Đại Song Kiều" note = "">
+                        https://www.youtube.com/watch?v=sss-Nr0W6iM
+                </Film>
+                <Film name = "Cuộc Đấu Đỉnh Cao" note = "">
+                        https://www.youtube.com/watch?v=-L4IPre42cY
+                </Film>
                 <Film name = "Những Đứa Con Của Gió" note = "">
                         https://www.youtube.com/watch?v=tPa68d8SgjQ
                 </Film>
