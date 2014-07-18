@@ -2,14 +2,53 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Những Đứa Con Của Gió" note = "">
+                        https://www.youtube.com/watch?v=tPa68d8SgjQ
+                </Film>
+                <Film name = "Bùa Quỷ" note = "">
+                        https://www.youtube.com/watch?v=nMVXSmJXJxI
+                </Film>
+                <Film name = "Băng Cướp Bông Hồng Súng" note = "">
+                        https://www.youtube.com/watch?v=cDOwh3vdRVc
+                </Film>
+                <Film name = "Nhà Trắng Thất Thủ" note = "">
+                        https://www.youtube.com/watch?v=QOF5bN8Xn94
+                </Film>
+                <Film name = "Vàng Đen" note = "">
+                        https://www.youtube.com/watch?v=_XpJjLZgpC4
+                </Film>
+                <Film name = "Ngôi Làng Tử Khí" note = "">
+                        https://www.youtube.com/watch?v=ZYXB14l2dkY
+                </Film>
+                <Film name = "Mật Mã Kép" note = "">
+                        https://www.youtube.com/watch?v=J7c8JCXBjyE
+                </Film>
+                <Film name = "Phi Vụ Rửa Tiền" note = "">
+                        https://www.youtube.com/watch?v=HIu2DeW49X8
+                </Film>
+                <Film name = "Vợ Chồng Dân Chơi" note = "">
+                        https://www.youtube.com/watch?v=86p0DTGRwsM
+                </Film>
+                <Film name = "Những Chiến Binh Quyến Rũ" note = "">
+                        https://www.youtube.com/watch?v=0kGWDUICqIQ
+                </Film>
                 <Film name = "Kẻ tình nghi (2014)" note = "Tô Hữu Bằng">
                         https://www.youtube.com/watch?v=49759lSua5E
                 </Film>
                 <Film name = "Chàng Trai Trẻ" note = "">
                         https://www.youtube.com/watch?v=Qav9XIOb52E
                 </Film>
+                <Film name = "Nạn nhân kế tiếp" note = "Phim kinh dị Mỹ">
+                        https://www.youtube.com/watch?v=-cEoU4gWtUM
+                </Film>
+                <Film name = "Huyền Thoại Tái Sinh" note = "">
+                        https://www.youtube.com/watch?v=7B--L0LIiDQ
+                </Film>
                 <Film name = "Sát Thủ Gợi Cảm - The Machine (2014) " note = "">
                         https://www.youtube.com/watch?v=shq8mk5x7sk
+                </Film>
+                <Film name = "Mặt Nạ Sát Nhân" note = "">
+                        https://www.youtube.com/watch?v=kcKItlU4ERI
                 </Film>
                 <Film name = "3 Giờ Sáng (Phần 2 - 2014)" note = "Phim Ma Thái Lan">
                         https://www.youtube.com/watch?v=k2vDd5j15tk
@@ -2071,6 +2110,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Bạn Gái Tôi Là Hồ Ly Tinh" note = "">
+                        http://www.youtube.com/watch?v=MoMmVUrBVFo&list=PLuxSI_gZwNwSCg5Z0hWCLYJ32jkD6W7Il
+                </Film>
                 <Film name = "Không phải hoa chẳng phải sương" note = "">
                         https://www.youtube.com/watch?v=x1AAyQVqSYQ&list=PLQrhAmgsQWmhA1SSp6FnlU5H7-h7tvhGZ
                 </Film>
