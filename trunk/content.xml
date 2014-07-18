@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Sát Thủ Gợi Cảm - The Machine (2014) " note = "">
+                        https://www.youtube.com/watch?v=shq8mk5x7sk
+                </Film>
                 <Film name = "3 Giờ Sáng (Phần 2 - 2014)" note = "Phim Ma Thái Lan">
                         https://www.youtube.com/watch?v=k2vDd5j15tk
                 </Film>
@@ -10,6 +13,15 @@
                 </Film>
                 <Film name = "Xin Chào Baby" note = "[Hài Hong kong] [Tăng Chí Vĩ, Hùng Đại Lâm, Ngô Quân Như]">
                         https://www.youtube.com/watch?v=cILE8UDL32I
+                </Film>
+                <Film name = "Chung Cư Tội Lỗi" note = "">
+                        https://www.youtube.com/watch?v=I4uZm2dnjRE
+                </Film>
+                <Film name = "HACHIKO Chú chó trung thành" note = "">
+                        https://www.youtube.com/watch?v=FRXrlh95onw
+                </Film>
+                <Film name = "Đối Đầu Quỷ Dữ" note = "">
+                        https://www.youtube.com/watch?v=UAt-Ewc4MJA
                 </Film>
                 <Film name = "Sức nóng" note = "">
                         https://www.youtube.com/watch?v=bz1eD-wOkHk
