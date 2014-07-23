@@ -2,6 +2,12 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Bạn Gái Đa Nhân Cách" note = "">
+                        https://www.youtube.com/watch?v=bV4pHw-dNhk
+                </Film>
+                <Film name = "Bạn Gái Đa Nhân Cách" note = "">
+                        https://www.youtube.com/watch?v=bV4pHw-dNhk
+                </Film>
                 <Film name = "Hồ Ly Tinh" note = "Phim Kiếm Hiệp Hài">
                         https://www.youtube.com/watch?v=S6uILNUXmiA
                 </Film>
@@ -2140,8 +2146,20 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "BỤI ĐỜI" note = "Phim VN">
+                        https://www.youtube.com/watch?v=yPkM0ztMBIQ&list=PLdWdHzK34OCfk3qAm39285XzVgEPVgSDQ
+                </Film>
+                <Film name = "Vật chứng mong manh" note = "Phim VN">
+                        https://www.youtube.com/watch?v=XHGu5Pp6QLo&list=PLD98667B3DB90B4B9
+                </Film>
+                <Film name = "PHÍA SAU HÀO QUANG" note = "Phim VN">
+                        https://www.youtube.com/watch?v=CvWCSXFa8GU&list=PLBVuiY7GcW3b4bJMCbO6jCye6-B15FdYS
+                </Film>
+                <Film name = "Sam Sam Đến Đây Ăn Nào" note = "">
+                        https://www.youtube.com/watch?v=TwUmERQLtew&list=PLpheNSZ3YheL0N1npVwo5dlZtcTCJAMG8
+                </Film>
                 <Film name = "Bạn Gái Tôi Là Hồ Ly Tinh" note = "">
-                        http://www.youtube.com/watch?v=MoMmVUrBVFo&list=PLuxSI_gZwNwSCg5Z0hWCLYJ32jkD6W7Il
+                        https://www.youtube.com/watch?v=MoMmVUrBVFo&list=PLuxSI_gZwNwSCg5Z0hWCLYJ32jkD6W7Il
                 </Film>
                 <Film name = "Không phải hoa chẳng phải sương" note = "">
                         https://www.youtube.com/watch?v=x1AAyQVqSYQ&list=PLQrhAmgsQWmhA1SSp6FnlU5H7-h7tvhGZ
