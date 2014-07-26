@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Truy Hồn Kiếm" note = "Kiếm hiệp - Thuyết Minh">
+                        https://www.youtube.com/watch?v=_sYfgw1NBCo
+                </Film>
                 <Film name = "ANH HÙNG XUNG TRẬN" note = "Phim Hàn - Phụ đề">
                         https://www.youtube.com/watch?v=5ecJUF27n-s
                 </Film>
