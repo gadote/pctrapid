@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Biệt đội Alpha" note = "">
+                        https://www.youtube.com/watch?v=-TvGfjf-tq8
+                </Film>
                 <Film name = "Bạn Gái Đa Nhân Cách" note = "">
                         https://www.youtube.com/watch?v=bV4pHw-dNhk
                 </Film>
@@ -2161,6 +2164,18 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Cổ Kiếm Kỳ Đàm" note = "">
+                        https://www.youtube.com/watch?v=WBTVFPaYaiE&list=PLjm8s3DG594aYGl3uvJOvo5gFRIy3Zlp9
+                </Film>
+                <Film name = "TÌM LẠI CHÍNH MÌNH" note = "">
+                        https://www.youtube.com/watch?v=Zn0iVMyR95k&list=PLMU6jd1f_RFs2-FMrXs-L3UF4sJplPXNA
+                </Film>
+                <Film name = "NGHĨA TÌNH VÔ GIÁ" note = "">
+                        https://www.youtube.com/watch?v=DthiA4Mie8Q&list=PLR1RcTSHwbvPAvMcRhtoSziQhW6C-WFfx
+                </Film>
+                <Film name = "Hoa phù dung" note = "Phim VN">
+                        https://www.youtube.com/watch?v=wlEKIgVeDjg&list=PLFF9978E1256BAA66
+                </Film>
                 <Film name = "Mặt nạ da người" note = "Phim VN">
                         https://www.youtube.com/watch?v=nTF8JuEHB5k&list=PLv2KrYsT45uQDFdSJRWSsgBaoh8sNlaNG
                 </Film>
