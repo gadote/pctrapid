@@ -2,9 +2,6 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
-                <Film name = "Đoạt Hồn Đao" note = "Kiếm hiệp - Thuyết Minh">
-                        https://www.youtube.com/watch?v=n6rJE_e6rSs
-                </Film>
                 <Film name = "Truy Hồn Kiếm" note = "Kiếm hiệp - Thuyết Minh">
                         https://www.youtube.com/watch?v=_sYfgw1NBCo
                 </Film>
@@ -241,6 +238,9 @@
                 </Film>
                 <Film name = "Xin Chào Baby" note = "[Hài Hong kong] [Tăng Chí Vĩ, Hùng Đại Lâm, Ngô Quân Như]">
                         https://www.youtube.com/watch?v=cILE8UDL32I
+                </Film>
+                <Film name = "Đoạt Hồn Đao" note = "Kiếm hiệp - Thuyết Minh">
+                        https://www.youtube.com/watch?v=n6rJE_e6rSs
                 </Film>
                 <Film name = "Chung Cư Tội Lỗi" note = "">
                         https://www.youtube.com/watch?v=I4uZm2dnjRE
