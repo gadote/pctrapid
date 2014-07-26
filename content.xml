@@ -5,6 +5,12 @@
                 <Film name = "Nữ Anh Hùng Thủy Hử" note = "Kiếm hiệp - Thuyết Minh">
                         https://www.youtube.com/watch?v=OykRPA3AvwM
                 </Film>
+                <Film name = "Kho Báu Đẫm Máu" note = "Thuyết Minh">
+                        https://www.youtube.com/watch?v=lfVP_tRFGek
+                </Film>
+                <Film name = "Cuộc Chiến Ngôn Luận" note = "Phụ đề">
+                        https://www.youtube.com/watch?v=0WX8XajZ8bg
+                </Film>
                 <Film name = "Đại Đại Cao Thủ" note = "Kiếm hiệp">
                         https://www.youtube.com/watch?v=CRZDh4y9OJM
                 </Film>
@@ -23,8 +29,17 @@
                 <Film name = "Người đẹp và quái vật 2014" note = "Phụ đề">
                         https://www.youtube.com/watch?v=NX3s1JKjH34
                 </Film>
+                <Film name = "Đội Đặc Nhiệm Seal" note = "Thuyết Minh">
+                        https://www.youtube.com/watch?v=jzfVZjN4PMI
+                </Film>
+                <Film name = "Thảm Họa Sinh Học" note = "Thuyết Minh">
+                        https://www.youtube.com/watch?v=w1yGvbfxiRc
+                </Film>
                 <Film name = "Giáp Sắt 2: Trận Chiến Máu" note = "Thuyết Minh">
                         https://www.youtube.com/watch?v=vpVicbFFILM
+                </Film>
+                <Film name = "Biệt Kích Ngầm" note = "Phụ đề">
+                        https://www.youtube.com/watch?v=g4-ufVqiljM
                 </Film>
                 <Film name = "Tình Cuối Chân Trời - phần 1" note = "Phim Thái">
                         https://www.youtube.com/watch?v=byjQSdPodRw
@@ -40,6 +55,12 @@
                 </Film>
                 <Film name = "Mùa Hè Năm Ấy" note = "Phim Ma Thái">
                         https://www.youtube.com/watch?v=ApUQuFu-uY4
+                </Film>
+                <Film name = "Đột kích 2: kẻ sát nhân" note = "Phụ đề">
+                        https://www.youtube.com/watch?v=bWsMjBtzopA
+                </Film>
+                <Film name = "Khu nguy hiem" note = "Phụ đề">
+                        https://www.youtube.com/watch?v=8kFEDVkmrgg
                 </Film>
                 <Film name = "Biệt đội Alpha" note = "">
                         https://www.youtube.com/watch?v=-TvGfjf-tq8
@@ -2215,6 +2236,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Công chúa lạc nhân gian" note = "Phim Hàn Quốc Thuyết Minh">
+                        https://www.youtube.com/watch?v=5SJ9lJkDMj0&list=PL90SgouthV1f_SIQF4xSq_-iHGz48GTKc
+                </Film>
                 <Film name = "Những Ngày Tười Đẹp Ở Shimokita" note = "Hài 18+ Nhật">
                         https://www.youtube.com/watch?v=UOct5-MQn2g&list=PLBwYpfakvFRH6oEE1DiqdtPs8rgMQWr9w
                 </Film>
@@ -2223,6 +2247,9 @@
                 </Film>
                 <Film name = "Cổ Kiếm Kỳ Đàm" note = "Phim TQ">
                         https://www.youtube.com/watch?v=WBTVFPaYaiE&list=PLjm8s3DG594aYGl3uvJOvo5gFRIy3Zlp9
+                </Film>
+                <Film name = "Bóng Đêm Tội Ác" note = "Phim TL">
+                        https://www.youtube.com/watch?v=opb2C73AKsc&list=PL87kfcExjeuCbEYZKArUoXWjSfjVa_DWu
                 </Film>
                 <Film name = "TÌM LẠI CHÍNH MÌNH" note = "">
                         https://www.youtube.com/watch?v=Zn0iVMyR95k&list=PLMU6jd1f_RFs2-FMrXs-L3UF4sJplPXNA
@@ -2260,6 +2287,9 @@
                 <Film name = "Vật chứng mong manh" note = "Phim VN">
                         https://www.youtube.com/watch?v=XHGu5Pp6QLo&list=PLD98667B3DB90B4B9
                 </Film>
+                <Film name = "Hoàng Hậu Ki" note = "">
+                        https://www.youtube.com/watch?v=9i35eB31kJQ&list=PLpcb6NeeTx4rNLnFQcGyugOv2tPuxGh_y
+                </Film>
                 <Film name = "PHÍA SAU HÀO QUANG" note = "Phim VN">
                         https://www.youtube.com/watch?v=CvWCSXFa8GU&list=PLBVuiY7GcW3b4bJMCbO6jCye6-B15FdYS
                 </Film>
@@ -2280,6 +2310,9 @@
                 </Film>
                 <Film name = "Dấu chân du mục" note = "">
                         https://www.youtube.com/watch?v=GKqcoJSJ0jU&list=PLsbsINwOr6pJrbpqiPyUOja5aX6I3s-9R
+                </Film>
+                <Film name = "ĐẠI ĐẾ TẦN THỦY HOÀNG" note = "">
+                        https://www.youtube.com/watch?v=jr1VDkrfm-s&list=PLR1RcTSHwbvPLWKnoeKBWnKu9F3rbGeR8
                 </Film>
                 <Film name = "Vi sư sắc sảo" note = "">
                         http://www.youtube.com/watch?v=GkygTWXr6vc&list=PLpdPzhNsgdFlxvfxw0neQZKreXCNoW_kB
