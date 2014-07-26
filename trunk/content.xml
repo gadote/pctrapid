@@ -5,6 +5,9 @@
                 <Film name = "Nữ Anh Hùng Thủy Hử" note = "Kiếm hiệp - Thuyết Minh">
                         https://www.youtube.com/watch?v=OykRPA3AvwM
                 </Film>
+                <Film name = "Tình Tay Ba" note = "Phim Ma Thái Lan - Thuyết Minh">
+                        https://www.youtube.com/watch?v=zoT21cJ3o4Y
+                </Film>
                 <Film name = "Kho Báu Đẫm Máu" note = "Thuyết Minh">
                         https://www.youtube.com/watch?v=lfVP_tRFGek
                 </Film>
@@ -35,6 +38,9 @@
                 <Film name = "Thảm Họa Sinh Học" note = "Thuyết Minh">
                         https://www.youtube.com/watch?v=w1yGvbfxiRc
                 </Film>
+                <Film name = "Huyền Thoại Viking" note = "Phụ đề">
+                        https://www.youtube.com/watch?v=PyHRe-ZdiHY
+                </Film>
                 <Film name = "Giáp Sắt 2: Trận Chiến Máu" note = "Thuyết Minh">
                         https://www.youtube.com/watch?v=vpVicbFFILM
                 </Film>
@@ -59,8 +65,17 @@
                 <Film name = "Đột kích 2: kẻ sát nhân" note = "Phụ đề">
                         https://www.youtube.com/watch?v=bWsMjBtzopA
                 </Film>
+                <Film name = "Ác Qủy Trên Đảo Hoang" note = "Phụ đề">
+                        https://www.youtube.com/watch?v=PN01TYyy9fw
+                </Film>
+                <Film name = "Câu chuyện đồ chơi - Underdogs" note = "Hoạt hình - Phụ đề">
+                        https://www.youtube.com/watch?v=7tPBmq95SdI
+                </Film>
                 <Film name = "Khu nguy hiem" note = "Phụ đề">
                         https://www.youtube.com/watch?v=8kFEDVkmrgg
+                </Film>
+                <Film name = "Ích Men - Ngày Cũ Của Tương Lai" note = "Phụ đề">
+                        https://www.youtube.com/watch?v=nc0T2kXhj8U
                 </Film>
                 <Film name = "Biệt đội Alpha" note = "">
                         https://www.youtube.com/watch?v=-TvGfjf-tq8
@@ -109,6 +124,9 @@
                 </Film>
                 <Film name = "Tân Tuyệt Đại Song Kiều" note = "">
                         https://www.youtube.com/watch?v=sss-Nr0W6iM
+                </Film>
+                <Film name = "Câu chuyện đồ chơi 1" note = "Hoạt hình - Phụ đề">
+                        https://www.youtube.com/watch?v=7tPBmq95SdI
                 </Film>
                 <Film name = "Huyết Nhục" note = "">
                         https://www.youtube.com/watch?v=oibpDEdhQTM
@@ -2236,17 +2254,35 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Con thuyền số phận" note = "Phim VN">
+                        https://www.youtube.com/watch?v=Pcg1kzYLcBw&list=PLBj7NCj1N5nrC8Wl3rmpX8fAPWo42OHWG
+                </Film>
+                <Film name = "Kim Chi Cà Pháo" note = "Phim VN">
+                        https://www.youtube.com/watch?v=YogH4QFFeWc&list=PLAv4u9C5Z1lYZCvxV-gcwMYbs7D9JB1Fz
+                </Film>
+                <Film name = "Cuộc chiến quý ông" note = "Phim VN">
+                        https://www.youtube.com/watch?v=YSnX2_4_c5E&list=PLBj7NCj1N5nosXMDdUSk9YAmUObEfk72s
+                </Film>
                 <Film name = "Công chúa lạc nhân gian" note = "Phim Hàn Quốc Thuyết Minh">
                         https://www.youtube.com/watch?v=5SJ9lJkDMj0&list=PL90SgouthV1f_SIQF4xSq_-iHGz48GTKc
                 </Film>
                 <Film name = "Những Ngày Tười Đẹp Ở Shimokita" note = "Hài 18+ Nhật">
                         https://www.youtube.com/watch?v=UOct5-MQn2g&list=PLBwYpfakvFRH6oEE1DiqdtPs8rgMQWr9w
                 </Film>
+                <Film name = "Đội Điều Tra Đẹp Lão" note = "Phim Hàn">
+                        https://www.youtube.com/watch?v=oWWGWCxRwNE&list=PLLCLrwFTjBSHkfKUol5KBRdQm4uR1IgIa
+                </Film>
                 <Film name = "Vàng Trắng" note = "Phim VN">
                         https://www.youtube.com/watch?v=lpbeYt7HoQ8&list=PL34wpnj7mJNnincNmTWBTOtidtFb-nrVb
                 </Film>
+                <Film name = "Kẻ Bội Tình" note = "Phim VN">
+                        https://www.youtube.com/watch?v=BNdvE2WZxgU&list=PL0F98iOnwqaOhtGaEKDZII8Udki_Ax1Gq
+                </Film>
                 <Film name = "Cổ Kiếm Kỳ Đàm" note = "Phim TQ">
                         https://www.youtube.com/watch?v=WBTVFPaYaiE&list=PLjm8s3DG594aYGl3uvJOvo5gFRIy3Zlp9
+                </Film>
+                <Film name = "Tình Yêu Bất Diệt" note = "Phim TL">
+                        https://www.youtube.com/watch?v=ysyFdHqVNIc&list=PLeiJ7GSFMblXvPM9vaFkyaF-VXDX8AeGf
                 </Film>
                 <Film name = "Bóng Đêm Tội Ác" note = "Phim TL">
                         https://www.youtube.com/watch?v=opb2C73AKsc&list=PL87kfcExjeuCbEYZKArUoXWjSfjVa_DWu
