@@ -2,6 +2,21 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Tình Cuối Chân Trời - phần 1" note = "Phim Thái">
+                        https://www.youtube.com/watch?v=byjQSdPodRw
+                </Film>
+                <Film name = "Tình Cuối Chân Trời - phần 2" note = "Phim Thái">
+                        https://www.youtube.com/watch?v=330vAq_678o
+                </Film>
+                <Film name = "Gương Mặt Quỷ" note = "Phim TQ">
+                        https://www.youtube.com/watch?v=IiQuIXZoEac
+                </Film>
+                <Film name = "Căn biệt thự số 13" note = "Lâm Hùng và Vĩnh Thiên Kim [Phim ma 2014]">
+                        https://www.youtube.com/watch?v=FHidhJum3Gs
+                </Film>
+                <Film name = "Mùa Hè Năm Ấy" note = "Phim Ma Thái">
+                        https://www.youtube.com/watch?v=ApUQuFu-uY4
+                </Film>
                 <Film name = "Biệt đội Alpha" note = "">
                         https://www.youtube.com/watch?v=-TvGfjf-tq8
                 </Film>
@@ -2164,13 +2179,16 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
-                <Film name = "Cổ Kiếm Kỳ Đàm" note = "">
+                <Film name = "Vàng Trắng" note = "Phim VN">
+                        https://www.youtube.com/watch?v=lpbeYt7HoQ8&list=PL34wpnj7mJNnincNmTWBTOtidtFb-nrVb
+                </Film>
+                <Film name = "Cổ Kiếm Kỳ Đàm" note = "Phim TQ">
                         https://www.youtube.com/watch?v=WBTVFPaYaiE&list=PLjm8s3DG594aYGl3uvJOvo5gFRIy3Zlp9
                 </Film>
                 <Film name = "TÌM LẠI CHÍNH MÌNH" note = "">
                         https://www.youtube.com/watch?v=Zn0iVMyR95k&list=PLMU6jd1f_RFs2-FMrXs-L3UF4sJplPXNA
                 </Film>
-                <Film name = "NGHĨA TÌNH VÔ GIÁ" note = "">
+                <Film name = "NGHĨA TÌNH VÔ GIÁ" note = "Phim TQ">
                         https://www.youtube.com/watch?v=DthiA4Mie8Q&list=PLR1RcTSHwbvPAvMcRhtoSziQhW6C-WFfx
                 </Film>
                 <Film name = "Hoa phù dung" note = "Phim VN">
