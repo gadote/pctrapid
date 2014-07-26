@@ -2,8 +2,14 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Đoạt Hồn Đao" note = "Kiếm hiệp - Thuyết Minh">
+                        https://www.youtube.com/watch?v=n6rJE_e6rSs
+                </Film>
                 <Film name = "Truy Hồn Kiếm" note = "Kiếm hiệp - Thuyết Minh">
                         https://www.youtube.com/watch?v=_sYfgw1NBCo
+                </Film>
+                <Film name = "Thất cửu thanh vân" note = "Kiếm hiệp - Thuyết Minh">
+                        https://www.youtube.com/watch?v=uCiRhpDHoic
                 </Film>
                 <Film name = "ANH HÙNG XUNG TRẬN" note = "Phim Hàn - Phụ đề">
                         https://www.youtube.com/watch?v=5ecJUF27n-s
