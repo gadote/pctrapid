@@ -2,6 +2,24 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Nữ Anh Hùng Thủy Hử" note = "Kiếm hiệp - Thuyết Minh">
+                        https://www.youtube.com/watch?v=OykRPA3AvwM
+                </Film>
+                <Film name = "Đại Đại Cao Thủ" note = "Kiếm hiệp">
+                        https://www.youtube.com/watch?v=CRZDh4y9OJM
+                </Film>
+                <Film name = "7 Vị La Hán" note = "Võ Thuật Hài Hước - Thuyết Minh">
+                        https://www.youtube.com/watch?v=ONLMb8_TMUg
+                </Film>
+                <Film name = "Đại Hồng Thủy Noah" note = "Phụ đề">
+                        https://www.youtube.com/watch?v=kaCtmMNo8iA
+                </Film>
+                <Film name = "Người đẹp và quái vật 2014" note = "Phụ đề">
+                        https://www.youtube.com/watch?v=NX3s1JKjH34
+                </Film>
+                <Film name = "Giáp Sắt 2: Trận Chiến Máu" note = "Thuyết Minh">
+                        https://www.youtube.com/watch?v=vpVicbFFILM
+                </Film>
                 <Film name = "Tình Cuối Chân Trời - phần 1" note = "Phim Thái">
                         https://www.youtube.com/watch?v=byjQSdPodRw
                 </Film>
@@ -19,6 +37,12 @@
                 </Film>
                 <Film name = "Biệt đội Alpha" note = "">
                         https://www.youtube.com/watch?v=-TvGfjf-tq8
+                </Film>
+                <Film name = "Hình Canh Bạo Lực" note = "Phim HK - Lồng Tiếng">
+                        https://www.youtube.com/watch?v=ta8lZ9j02DM
+                </Film>
+                <Film name = "KẺ LIỀU LĨNH" note = "Phụ đề">
+                        https://www.youtube.com/watch?v=jfT3Jfn0WKM
                 </Film>
                 <Film name = "Bạn Gái Đa Nhân Cách" note = "">
                         https://www.youtube.com/watch?v=bV4pHw-dNhk
@@ -2179,6 +2203,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Những Ngày Tười Đẹp Ở Shimokita" note = "Hài 18+ Nhật">
+                        https://www.youtube.com/watch?v=UOct5-MQn2g&list=PLBwYpfakvFRH6oEE1DiqdtPs8rgMQWr9w
+                </Film>
                 <Film name = "Vàng Trắng" note = "Phim VN">
                         https://www.youtube.com/watch?v=lpbeYt7HoQ8&list=PL34wpnj7mJNnincNmTWBTOtidtFb-nrVb
                 </Film>
