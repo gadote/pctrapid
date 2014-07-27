@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Vợ Quỷ " note = "Phim Kinh dị Thái Lan - phụ đề">
+                        https://www.youtube.com/watch?v=BFkz72e39qU
+                </Film>
                 <Film name = "Truy Hồn Kiếm" note = "Kiếm hiệp - Thuyết Minh">
                         https://www.youtube.com/watch?v=_sYfgw1NBCo
                 </Film>
@@ -76,6 +79,9 @@
                 </Film>
                 <Film name = "Mùa Hè Năm Ấy" note = "Phim Ma Thái">
                         https://www.youtube.com/watch?v=ApUQuFu-uY4
+                </Film>
+                <Film name = "Binh Đoàn Thây Ma" note = "Phim Mĩ - Phụ đề">
+                        https://www.youtube.com/watch?v=iKJIDuP83WY
                 </Film>
                 <Film name = "Đột kích 2: kẻ sát nhân" note = "Phim Mĩ - Phụ đề">
                         https://www.youtube.com/watch?v=bWsMjBtzopA
@@ -652,6 +658,12 @@
                 </Film>
                 <Film name = "Sexy girl" note = "Phim hình sự Mỹ">
                         https://www.youtube.com/watch?v=1ylxTQ3tVKE
+                </Film>
+                <Film name = "BIỆT ĐỘI ĐÁNH THUÊ 1" note = "Phim Mỹ">
+                        https://www.youtube.com/watch?v=Kp-sH419zuY
+                </Film>
+                <Film name = "BIỆT ĐỘI ĐÁNH THUÊ 2" note = "Phim Mỹ">
+                        https://www.youtube.com/watch?v=A0AqSneyIeg
                 </Film>
                 <Film name = "Sát Thủ Azumi 1" note = "">
                         https://www.youtube.com/watch?v=0aVD20atDx0
