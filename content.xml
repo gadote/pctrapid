@@ -2314,6 +2314,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Sóng ngầm" note = "Phim VN">
+                        https://www.youtube.com/watch?v=G1czdSU9zI4&list=PLYYTUxaE9mEnPKDgrcsZ6qkk9S5EXeoEV
+                </Film>
                 <Film name = "Thời Tươi Đẹp Nhất" note = "Phim TQ - Phụ Đề">
                         https://www.youtube.com/watch?v=Wna0-v3I5NY&list=PLoXyTrZUTAiJ4-h-y5itKG04jxC3qf5El
                 </Film>
