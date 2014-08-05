@@ -2,7 +2,10 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
-                <Film name = "Vợ Quỷ " note = "Phim Kinh dị Thái Lan - phụ đề">
+                <Film name = "MÓN NỢ CỦA RỒNG" note = "Phim hành động 18+">
+                        https://www.youtube.com/watch?v=8A_9KtyD2cU&list=PLR6K9j1rsjl_-RIVP0QIo5LJZVOgC0Ugz
+                </Film>
+                <Film name = "Vợ Quỷ" note = "Phim Kinh dị Thái Lan - phụ đề">
                         https://www.youtube.com/watch?v=BFkz72e39qU
                 </Film>
                 <Film name = "Truy Hồn Kiếm" note = "Kiếm hiệp - Thuyết Minh">
@@ -2328,6 +2331,12 @@
                 </Film>
                 <Film name = "Dấu chân du mục" note = "Phim VN">
                         https://www.youtube.com/watch?v=lELaon1l02I&list=PL_nImnQ7phcQvR9h9Vu8ngksnOFxIh4ea
+                </Film>
+                <Film name = "Bóng Tối Rực Rỡ" note = "Phim VN">
+                        https://www.youtube.com/watch?v=PrO1n3GbfCg&list=PL_HMrJYPffCGB3Nr0b7JNZ4iW2Jq21yMc
+                </Film>
+                <Film name = "Vitamin tình yêu" note = "Phim VN">
+                        https://www.youtube.com/watch?v=Ouq-prNcJ-g&list=PLBj7NCj1N5nq5STkE5n4pMDA9pkXMXaQ4
                 </Film>
                 <Film name = "Oan Nghiệt" note = "Phim VN">
                         https://www.youtube.com/watch?v=71Bg24DEBD8&list=PLPdlKVnzUzX7WI_Y9JunrjbhHqjZEHJIw
