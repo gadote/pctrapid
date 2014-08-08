@@ -2392,6 +2392,12 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "7 Viên Ngọc Rồng - Dragon Ball Kai" note = "Hoạt hình - lồng tiếng">
+                        https://www.youtube.com/watch?v=AKpftbuhOgM&list=PLphNG5dlGvYVrSGAuT1l5S3CZgqr0OAuM
+                </Film>
+                <Film name = "Tiểu Hồng Nhan" note = "Phim TQ - Thuyết minh">
+                        https://www.youtube.com/watch?v=dLmwuOVeY0c&index=1&list=PL0IQsvlTqWq-jc8JpzkbSdSC9BHB7Lx4w
+                </Film>
                 <Film name = "Vịnh Xuân Truyền Kỳ" note = "Phim TQ">
                         https://www.youtube.com/watch?v=XfDXMv9Tk8Y&list=PLHAG66jtdsAhXpVEnLJQu3FOAx06qhhhc
                 </Film>
