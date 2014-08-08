@@ -2,6 +2,24 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Tân Thiếu Lâm Tự - Lưu Đức Hoa, Thành Long, Tạ Đình Phong, Phạm Băng Băng" note = "Phụ đề">
+                        https://www.youtube.com/watch?v=BgwnAZld6oE
+                </Film>
+                <Film name = "Huyền Thoại Triệu Tử Long" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=cz8dytY4crI
+                </Film>
+                <Film name = "Đại Anh Hùng - Lưu Đức Hoa,Trương Bá Chi" note = "Phim TQ - Lồng Tiếng">
+                        https://www.youtube.com/watch?v=Xti7514QUyo
+                </Film>
+                <Film name = "Điều Nàng Muốn - Củng Lợi, Lưu Đức Hoa" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=LYEHT5yaWLk
+                </Film>
+                <Film name = "Binh Pháp Mặc Công" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=skSbcMJbXtU
+                </Film>
+                <Film name = "Nữ Tướng Dương Gia" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=xJVcRrjJ8gk
+                </Film>
                 <Film name = "Ninja Khải Huyền - Ninja Apocalypse 2014" note = "Phim Mĩ - Phụ đề">
                         https://www.youtube.com/watch?v=7E67Qij7LaQ
                 </Film>
@@ -2356,6 +2374,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Vịnh Xuân Truyền Kỳ" note = "Phim TQ">
+                        https://www.youtube.com/watch?v=XfDXMv9Tk8Y&list=PLHAG66jtdsAhXpVEnLJQu3FOAx06qhhhc
+                </Film>
                 <Film name = "Hôn Nhân Không Hẹn Hò" note = "Phim Hàn">
                         http://www.youtube.com/watch?v=52C2ofJWxo4&list=PLsEtJ4RKqCdnCqTl279We0PMIZDozIHEJ
                 </Film>
