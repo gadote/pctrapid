@@ -2,14 +2,32 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Vô Gian Đạo 1 (2002) - Lưu Đức Hòa,Lương Triều Vỹ" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=aI9aGDqixUw
+                </Film>
+                <Film name = "Vô Gian Đạo 2 (2003)" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=7jTHeZRF0es
+                </Film>
+                <Film name = "Vô Gian Đạo 3" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=oQrB-qkIc0M
+                </Film>
                 <Film name = "Tân Thiếu Lâm Tự - Lưu Đức Hoa, Thành Long, Tạ Đình Phong, Phạm Băng Băng" note = "Phụ đề">
                         https://www.youtube.com/watch?v=BgwnAZld6oE
                 </Film>
                 <Film name = "Huyền Thoại Triệu Tử Long" note = "Phim TQ - Phụ đề">
                         https://www.youtube.com/watch?v=cz8dytY4crI
                 </Film>
+                <Film name = "Kế hoạch tối cao" note = "Phim TQ - Lồng Tiếng">
+                        https://www.youtube.com/watch?v=P4IQFsWGjqM
+                </Film>
                 <Film name = "Đại Anh Hùng - Lưu Đức Hoa,Trương Bá Chi" note = "Phim TQ - Lồng Tiếng">
                         https://www.youtube.com/watch?v=Xti7514QUyo
+                </Film>
+                <Film name = "Trọng Án Thất Lục" note = "Phim TQ - Lồng Tiếng">
+                        https://www.youtube.com/watch?v=nWSiHL_G4mA
+                </Film>
+                <Film name = "Tráng Sĩ Độc Thủ" note = "Phim TQ - Lồng Tiếng">
+                        https://www.youtube.com/watch?v=vHTSy8--Hy4
                 </Film>
                 <Film name = "Điều Nàng Muốn - Củng Lợi, Lưu Đức Hoa" note = "Phim TQ - Phụ đề">
                         https://www.youtube.com/watch?v=LYEHT5yaWLk
