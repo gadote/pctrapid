@@ -2,6 +2,36 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Hào Tình" note = "18+">
+                        https://www.youtube.com/watch?v=y7C9_Vv3_Tc
+                </Film>
+                <Film name = "Huyền Thoại Cướp Biển" note = "Phim Mĩ - Phụ đề">
+                        https://www.youtube.com/watch?v=fU9AE-LuSnU
+                </Film>
+                <Film name = "Trí Nhớ Siêu Phàm" note = "Phim Nhật - Phụ đề">
+                        https://www.youtube.com/watch?v=xBTr3AJgTU0
+                </Film>
+                <Film name = "Kẻ Ngoài Cuộc 2014" note = "Phim Mĩ - Phụ đề">
+                        https://www.youtube.com/watch?v=SMd9tn7F-Tw
+                </Film>
+                <Film name = "Quái Thú Rừng Thiêng" note = "Phim Mĩ - Phụ đề">
+                        https://www.youtube.com/watch?v=yONOU7oDcrs
+                </Film>
+                <Film name = "Người Sói Teen Tập 2" note = "Phim Mĩ - Phụ đề">
+                        https://www.youtube.com/watch?v=bVKA3wEIrUM
+                </Film>
+                <Film name = "Người Sói Teen Tập 1" note = "Phim Mĩ - Phụ đề">
+                        https://www.youtube.com/watch?v=P-yhne1Q-AM
+                </Film>
+                <Film name = "Nữ Bá Vương" note = "Phim TQ - Lồng Tiếng">
+                        https://www.youtube.com/watch?v=Q_c6l7OYang
+                </Film>
+                <Film name = "Ông Xã Ưa Ghen" note = "Phim TQ - Lồng Tiếng">
+                        https://www.youtube.com/watch?v=XtL7XT6Bcto
+                </Film>
+                <Film name = "Nữ Hào Hiệp" note = "Phim HK - Lồng Tiếng">
+                        https://www.youtube.com/watch?v=ZoHt19d0rIM
+                </Film>
                 <Film name = "Vô Gian Đạo 1 (2002) - Lưu Đức Hòa,Lương Triều Vỹ" note = "Phim TQ - Phụ đề">
                         https://www.youtube.com/watch?v=aI9aGDqixUw
                 </Film>
@@ -2392,6 +2422,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "HẠNH PHÚC CÓ THẬT" note = "Phim VN">
+                        https://www.youtube.com/watch?v=FP6Z4x3qFpc&list=PLMU6jd1f_RFs1YH51BdI_0ReHumqzGdBb
+                </Film>
                 <Film name = "7 Viên Ngọc Rồng - Dragon Ball Kai" note = "Hoạt hình - lồng tiếng">
                         https://www.youtube.com/watch?v=AKpftbuhOgM&list=PLphNG5dlGvYVrSGAuT1l5S3CZgqr0OAuM
                 </Film>
