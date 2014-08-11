@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Lời nguyền 2 (The Curse 2)" note = "Phụ đề">
+                        https://www.youtube.com/watch?v=sDycOrP2iVs
+                </Film>
                 <Film name = "Hào Tình" note = "18+">
                         https://www.youtube.com/watch?v=y7C9_Vv3_Tc
                 </Film>
