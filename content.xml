@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Ngọn Gió Yêu Thương" note = "Phim HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=RdqPTCRtoNc
+                </Film>
                 <Film name = "Lời nguyền 2 (The Curse 2)" note = "Phụ đề">
                         https://www.youtube.com/watch?v=sDycOrP2iVs
                 </Film>
@@ -2425,6 +2428,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Đường Gươm Định Mệnh (Hoàn  Hoa Lục Kiếm)" note = "Phim TQ - Thuyết minh">
+                        https://www.youtube.com/watch?v=4NpuSPDXNzA&list=PLREtSkZ47FOxWeY6u9FSwq92KfFvfnoK9
+                </Film>
                 <Film name = "Thám Tử Đường Lang" note = "Phim TQ - Thuyết minh">
                         https://www.youtube.com/watch?v=Iy4XGr2WIEo&list=PLZz3xCPKgDhbwTgMabwjnhxbeSe4h0v4K
                 </Film>
