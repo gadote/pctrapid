@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Kirishima Bỏ Câu Lạc Bộ" note = "Phim Nhật - Phụ đề">
+                        https://www.youtube.com/watch?v=tmhQoy05QsI
+                </Film>
                 <Film name = "Cô nàng bá đạo" note = "Phim Thái - Phụ đề">
                         https://www.youtube.com/watch?v=Vf5PjSyXWiE
                 </Film>
@@ -2434,8 +2437,11 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
-                <Film name = "Người Canh Gác Bóng Đêm " note = "Phim Hàn Cổ Trang - Phụ đề">
+                <Film name = "Hana kimi - Ô Mai chua" note = "Thuyết minh">
                         https://www.youtube.com/watch?v=pLJmyEVyNTc&list=PL7ccgc7W6v9MNLu9W6c1AK5WfGsDlzfz1
+                </Film>
+                <Film name = "Người Canh Gác Bóng Đêm " note = "Phim Hàn Cổ Trang - Phụ đề">
+                        https://www.youtube.com/watch?v=30YS6VUYgcQ&list=PLJEyMSxXq_KsvNoW5R1sQhtmYh19KE71L
                 </Film>
                 <Film name = "Đường Gươm Định Mệnh (Hoàn  Hoa Lục Kiếm)" note = "Phim TQ - Thuyết minh">
                         https://www.youtube.com/watch?v=4NpuSPDXNzA&list=PLREtSkZ47FOxWeY6u9FSwq92KfFvfnoK9
