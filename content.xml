@@ -2,6 +2,12 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Cô nàng bá đạo" note = "Phim Thái - Phụ đề">
+                        https://www.youtube.com/watch?v=Vf5PjSyXWiE
+                </Film>
+                <Film name = "Ranh giới trắng Đen" note = "Thuyết minh">
+                        https://www.youtube.com/watch?v=eh4F3iV3oBU
+                </Film>
                 <Film name = "Ngọn Gió Yêu Thương" note = "Phim HQ - Phụ đề">
                         https://www.youtube.com/watch?v=RdqPTCRtoNc
                 </Film>
@@ -2428,6 +2434,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Người Canh Gác Bóng Đêm " note = "Phim Hàn Cổ Trang - Phụ đề">
+                        https://www.youtube.com/watch?v=pLJmyEVyNTc&list=PL7ccgc7W6v9MNLu9W6c1AK5WfGsDlzfz1
+                </Film>
                 <Film name = "Đường Gươm Định Mệnh (Hoàn  Hoa Lục Kiếm)" note = "Phim TQ - Thuyết minh">
                         https://www.youtube.com/watch?v=4NpuSPDXNzA&list=PLREtSkZ47FOxWeY6u9FSwq92KfFvfnoK9
                 </Film>
