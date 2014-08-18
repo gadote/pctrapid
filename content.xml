@@ -2,7 +2,31 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
-                <Film name = "- Chiếc Mề Đai Thần Kì" note = "Phim Mĩ - Phụ đề">
+                <Film name = "Cuộc Nổi Dậy Của Xác Ướp - The Mummy Resurrected" note = "Phim Mĩ - Phụ đề">
+                        https://www.youtube.com/watch?v=0QQYpqTqLog
+                </Film>
+                <Film name = "Chuyện Tình Ma Quỷ" note = "Phim HK - Phụ đề">
+                        https://www.youtube.com/watch?v=iRh-0DcdwrA
+                </Film>
+                <Film name = "My Boyfriends - Những Bạn Trai Của Tôi" note = "Phim HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=FfqWLGVkO1w
+                </Film>
+                <Film name = "Mong Em Hạnh Phúc - More Than Blue" note = "Phim Tình Cảm Lãn Mạn HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=B45Nn4anFmE
+                </Film>
+                <Film name = "Đội Quân Nhí Nhố" note = "Phim Hài Thái Lan">
+                        https://www.youtube.com/watch?v=7Uf_rgHgPck
+                </Film>
+                <Film name = "Cuộc chiến sâu vũ trụ" note = "Phim Hài Thái Lan">
+                        https://www.youtube.com/watch?v=umcFbW87OF8
+                </Film>
+                <Film name = "Chuyện Tình Dưới Cây Đào" note = "Phim HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=1ougBLQUlHY
+                </Film>
+                <Film name = "Những Cô Nàng Thép" note = "Phim Hài Hước Đồng Tính Thái Lan">
+                        https://www.youtube.com/watch?v=WgEQbIDAqmQ
+                </Film>
+                <Film name = "Chiếc Mề Đai Thần Kì" note = "Phim Mĩ - Phụ đề">
                         https://www.youtube.com/watch?v=FJ2edYJZpZI
                 </Film>
                 <Film name = "Trong Vòng Lửa Đạn" note = "Phim HQ - Phụ đề">
