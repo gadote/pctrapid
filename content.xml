@@ -2,6 +2,33 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "- Chiếc Mề Đai Thần Kì" note = "Phim Mĩ - Phụ đề">
+                        https://www.youtube.com/watch?v=FJ2edYJZpZI
+                </Film>
+                <Film name = "Trong Vòng Lửa Đạn" note = "Phim HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=VwulKPnO1eU
+                </Film>
+                <Film name = "Oan Gia Ngõ Hẹp" note = "Phim Tình Cảm Hài Hước Lãn Mạn Hàn Quốc">
+                        https://www.youtube.com/watch?v=xLJzOxeMQ2w
+                </Film>
+                <Film name = "Hung Thủ Đồn Cảnh Sát" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=nMHpU3cjEug
+                </Film>
+                <Film name = "Hãy Ở Lại Đêm Nay" note = "Phim HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=wONngAi6MAk
+                </Film>
+                <Film name = "Thân Chủ" note = "Phim HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=znObfuirdgQ
+                </Film>
+                <Film name = "Bà Góa Và Tên Trộm" note = "Phim Hài Hàn Quốc">
+                        https://www.youtube.com/watch?v=aYRiBIvtzUA
+                </Film>
+                <Film name = "Tội Phạm Bất Đắc Dĩ" note = "Phim HK - Phụ đề">
+                        https://www.youtube.com/watch?v=DDL_-s6uqqw
+                </Film>
+                <Film name = "Đêm Săn Người" note = "Phim Mĩ - Phụ đề">
+                        https://www.youtube.com/watch?v=dHaXNLcHrnA
+                </Film>
                 <Film name = "Kirishima Bỏ Câu Lạc Bộ" note = "Phim Nhật - Phụ đề">
                         https://www.youtube.com/watch?v=tmhQoy05QsI
                 </Film>
@@ -13,6 +40,9 @@
                 </Film>
                 <Film name = "Ngọn Gió Yêu Thương" note = "Phim HQ - Phụ đề">
                         https://www.youtube.com/watch?v=RdqPTCRtoNc
+                </Film>
+                <Film name = "Loạn Thế Thượng Hải" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=P_OSFyIkAsc
                 </Film>
                 <Film name = "Lời nguyền 2 (The Curse 2)" note = "Phụ đề">
                         https://www.youtube.com/watch?v=sDycOrP2iVs
