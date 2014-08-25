@@ -2,6 +2,33 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Chuyện của Pao" note = "Phim VN">
+                        https://www.youtube.com/watch?v=t4-hbPqLDJw
+                </Film>
+                <Film name = "Phim cuối tuần: Vô cảm - VTV1" note = "Phim VN">
+                        https://www.youtube.com/watch?v=LvFeUpEewDQ
+                </Film>
+                <Film name = "Phim cuối tuần: Công chúa nhỏ - VTV1" note = "Phim VN">
+                        https://www.youtube.com/watch?v=393OpxmJk-Y
+                </Film>
+                <Film name = "Phim cuối tuần: Hạt mưa sa - VTV1" note = "Phim VN">
+                        https://www.youtube.com/watch?v=IYqIxp1wyXE
+                </Film>
+                <Film name = "Phim cuối tuần: Hai Lần Làm Mẹ - HTV" note = "Phim VN">
+                        https://www.youtube.com/watch?v=iqs8pb9IMSA
+                </Film>
+                <Film name = "Phim cuối tuần: Con ai - HTV" note = "Phim VN">
+                        https://www.youtube.com/watch?v=q1drGSshU2Q
+                </Film>
+                <Film name = "Đại Dịch Cúm" note = "Phim HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=bd4iXsqg48w
+                </Film>
+                <Film name = "Ghastly" note = "Phim HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=z1Vx4aZFkaM
+                </Film>
+                <Film name = "Nữ Thần Mạt Chược" note = "Phim HK - Phụ đề">
+                        https://www.youtube.com/watch?v=sDtjhfqBezQ
+                </Film>
                 <Film name = "Truy Sát Trùm Ma Túy - The Reckoning 2014" note = "Phim Mĩ - Phụ đề">
                         https://www.youtube.com/watch?v=gQhbTpW1HsA
                 </Film>
