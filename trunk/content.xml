@@ -2,6 +2,12 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "MÁ MÌ HOT GIRL" note = "Phụ đề">
+                        https://www.youtube.com/watch?v=StfICjVo0ac
+                </Film>
+                <Film name = "Sự Quyến Rũ Của Phái Đẹp" note = "18">
+                        https://www.youtube.com/watch?v=KZGb80YPmLs
+                </Film>
                 <Film name = "Chuyện của Pao" note = "Phim VN">
                         https://www.youtube.com/watch?v=t4-hbPqLDJw
                 </Film>
