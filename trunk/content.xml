@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Mật Mã Tình Yêu - Love So Divine" note = "Phim HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=xA5GUAOlvPg
+                </Film>
                 <Film name = "Bánh Mì Tình Yêu" note = "Phim TQ - Phụ đề">
                         https://www.youtube.com/watch?v=J30UGD3fjDc
                 </Film>
