@@ -2,6 +2,18 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Bánh Mì Tình Yêu" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=J30UGD3fjDc
+                </Film>
+                <Film name = "Hanamizuki" note = "Phim Nhật - Phụ đề">
+                        https://www.youtube.com/watch?v=ai1AtMFrKvU
+                </Film>
+                <Film name = "Hear Me - Nghe Nói - Bành Vu Yến, Trần Ý Hàm" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=6goZ6XSkq_Y
+                </Film>
+                <Film name = "Bad Girls (Ella, Hạ Quân Tường)" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=XFLjczQudvM
+                </Film>
                 <Film name = "MÁ MÌ HOT GIRL" note = "Phụ đề">
                         https://www.youtube.com/watch?v=StfICjVo0ac
                 </Film>
@@ -2560,6 +2572,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Chị Gái Tiến Lên" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=1l1Yn28dRwM&list=PLgaxmM-cRyY48mE6x0pFpv9EAsinAa8Vb
+                </Film>
                 <Film name = "Thư Kiếm Hồng Hoa" note = "Phim TQ - Lồng Tiếng">
                         https://www.youtube.com/watch?v=N3_Czc4SfPA&list=PL_8vhzFC6C1aL98d6NVJfkeswPdBp-xBA
                 </Film>
