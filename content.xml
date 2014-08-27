@@ -2,6 +2,21 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Tin Nhắn Tử Thần - Night Mail" note = "18+ - Phụ đề">
+                        https://www.youtube.com/watch?v=pchrODHJugg
+                </Film>
+                <Film name = "Người Mẹ Ma Quái - Thân xác" note = "Phim Kinh Dị Thái Lan - Thuyết minh">
+                        https://www.youtube.com/watch?v=kBZYKngF6fk
+                </Film>
+                <Film name = "Người Sói Hồi Sinh" note = "Phim Mĩ - Phụ đề">
+                        https://www.youtube.com/watch?v=rIDlJ34OI9Q
+                </Film>
+                <Film name = "Bí Ẩn Cung Hoàng Đạo" note = "Phim TQ - Thuyết minh">
+                        https://www.youtube.com/watch?v=cAC-534Tpvw
+                </Film>
+                <Film name = "Sát Thủ - Ninja" note = "Phim Nhật - Phụ đề">
+                        https://www.youtube.com/watch?v=mSPCMLEk6m8
+                </Film>
                 <Film name = "Mật Mã Tình Yêu - Love So Divine" note = "Phim HQ - Phụ đề">
                         https://www.youtube.com/watch?v=xA5GUAOlvPg
                 </Film>
@@ -2575,6 +2590,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Mật Danh Iris" note = "Phim HQ - Lồng Tiếng">
+                        https://www.youtube.com/watch?v=uC6qflyIw40&list=PL5O4KBI_em0OXPYYjJblomR_WWGKyMQea
+                </Film>
                 <Film name = "Chị Gái Tiến Lên" note = "Phim TQ - Phụ đề">
                         https://www.youtube.com/watch?v=1l1Yn28dRwM&list=PLgaxmM-cRyY48mE6x0pFpv9EAsinAa8Vb
                 </Film>
