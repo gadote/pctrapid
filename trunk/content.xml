@@ -2,6 +2,36 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Kỳ Nghỉ Bí Mật" note = "18+ HQ">
+                        https://www.youtube.com/watch?v=BE7UXqkhzZM
+                </Film>
+                <Film name = "Cạm Bẫy" note = "18+ HQ">
+                        https://www.youtube.com/watch?v=WiWShxmdURg
+                </Film>
+                <Film name = "My sister" note = "18+ Nhật">
+                        https://www.youtube.com/watch?v=ve1SD95JCI0
+                </Film>
+                <Film name = "Hoa Và Rắn" note = "18+ Nhật">
+                        https://www.youtube.com/watch?v=APCTwUjY3pg
+                </Film>
+                <Film name = "Đại Gia Chăn Rau" note = "Phụ đề">
+                        https://www.youtube.com/watch?v=7Q370dfdau4
+                </Film>
+                <Film name = "Đam Mê Bất Tận" note = "18+">
+                        https://www.youtube.com/watch?v=kwFKNpMnoAU
+                </Film>
+                <Film name = "Những Cô Nàng Máu Lạnh" note = "18+">
+                        https://www.youtube.com/watch?v=dEDd84H7eek
+                </Film>
+                <Film name = "Chuyện tình" note = "18+">
+                        https://www.youtube.com/watch?v=s2p2VacnF14
+                </Film>
+                <Film name = "Bí Mật Tuổi 20" note = "Phim HQ 18+">
+                        https://www.youtube.com/watch?v=yYM5oNJrk4g
+                </Film>
+                <Film name = "Phố Đèn Đỏ" note = "Phim TQ - Lồng Tiếng">
+                        https://www.youtube.com/watch?v=gXRHfisAfhs
+                </Film>
                 <Film name = "Ngày Tình Yêu Lên Ngôi" note = "Phim VN">
                         https://www.youtube.com/watch?v=FNOjC7rCpBQ
                 </Film>
@@ -2608,14 +2638,26 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Mỹ Nhân Như Họa" note = "Phim TQ - Thuyết Minh">
+                        https://www.youtube.com/watch?v=H6KxXqmsGaw&list=PL7nMBU5QuiGedwbvUd32nuJ2WEMUjNNsC
+                </Film>
                 <Film name = "OAN GIA KIẾM KHÁCH" note = "Phim TQ - Thuyết Minh">
                         https://www.youtube.com/watch?v=Cw8FFtJ991M&list=PLnqFRRZ9UoE8dVshWDWzaY3PE3DU9Va3W
                 </Film>
                 <Film name = "Năm Tháng Vội Vã" note = "Phim TQ - Phụ đề">
                         https://www.youtube.com/watch?v=_yZ8Zjp1GnM&list=PLKTeNWWUDeAAIddJgO-ayq7ONMuwrOrZ2
                 </Film>
+                <Film name = "Chào Buổi Sáng Em Yêu" note = "Phim VN">
+                        https://www.youtube.com/watch?v=lmNG7f-05IU&list=PLPHbNuGThxljWa5vHCo_6dkMmVp-seRMp
+                </Film>
                 <Film name = "Tình Yêu Thứ Ba" note = "Phim TQ - Phụ đề">
                         https://www.youtube.com/watch?v=NQRQ81MV8ag&list=PL493E3uv1SAEToaRFL1v2TYiCZDFlLXP0
+                </Film>
+                <Film name = "Sóng gió nguyên triều" note = "Phim TQ - Thuyết Minh">
+                        https://www.youtube.com/watch?v=rML7iYzSI6s&list=PLPgoxEA7_B5YNBKN1svTV-F0tmLgN_gDi
+                </Film>
+                <Film name = "Năm Tháng Vội Vã" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=XCQLa1aSCqE&list=PL7nMBU5QuiGfQv1kfP9jCtz9jeGq2ZR7f
                 </Film>
                 <Film name = "Chào anh, Người ngoài hành tinh" note = "Phim TQ - Phụ đề">
                         https://www.youtube.com/watch?v=kBYqF6byAgg&list=PL493E3uv1SAERjWFjeJ2rbIwzH9XqAMMh
