@@ -2,6 +2,24 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Ngày Tình Yêu Lên Ngôi" note = "Phim VN">
+                        https://www.youtube.com/watch?v=FNOjC7rCpBQ
+                </Film>
+                <Film name = "Như Mây Trời Bay" note = "Phim VN">
+                        https://www.youtube.com/watch?v=gljZ6dJhKMM
+                </Film>
+                <Film name = "Những tia nắng ấm" note = "Phim VN">
+                        https://www.youtube.com/watch?v=g6xT9ZiuR70
+                </Film>
+                <Film name = "Đường Về Nhà" note = "Phim VN">
+                        https://www.youtube.com/watch?v=Xo3kN6xrxEI
+                </Film>
+                <Film name = "Ước Vọng Tuổi Trẻ" note = "Phim VN">
+                        https://www.youtube.com/watch?v=-XgxWFh51MM
+                </Film>
+                <Film name = "Hôn Lễ Mẹ Kế" note = "Phim VN">
+                        https://www.youtube.com/watch?v=6oATe1YFBF8
+                </Film>
                 <Film name = "Tin Nhắn Tử Thần - Night Mail" note = "18+ - Phụ đề">
                         https://www.youtube.com/watch?v=pchrODHJugg
                 </Film>
@@ -2592,6 +2610,9 @@
 	<FilmHinhSu text = "Phim Bộ">
                 <Film name = "OAN GIA KIẾM KHÁCH" note = "Phim TQ - Thuyết Minh">
                         https://www.youtube.com/watch?v=Cw8FFtJ991M&list=PLnqFRRZ9UoE8dVshWDWzaY3PE3DU9Va3W
+                </Film>
+                <Film name = "Năm Tháng Vội Vã" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=_yZ8Zjp1GnM&list=PLKTeNWWUDeAAIddJgO-ayq7ONMuwrOrZ2
                 </Film>
                 <Film name = "Tình Yêu Thứ Ba" note = "Phim TQ - Phụ đề">
                         https://www.youtube.com/watch?v=NQRQ81MV8ag&list=PL493E3uv1SAEToaRFL1v2TYiCZDFlLXP0
