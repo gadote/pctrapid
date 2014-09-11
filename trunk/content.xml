@@ -2,6 +2,15 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Sự Thật Rợn Người" note = "Phim TQ - Thuyết minh">
+                        https://www.youtube.com/watch?v=k-zK0CP2T9k
+                </Film>
+                <Film name = "Hoàng Phi tại thiên" note = "Phim TQ - Lồng Tiếng">
+                        https://www.youtube.com/watch?v=rBnZ6x0bWvU
+                </Film>
+                <Film name = "Bến Cuối" note = "Phim TQ - Thuyết minh">
+                        https://www.youtube.com/watch?v=4N1xm5tcUcE
+                </Film>
                 <Film name = "Kỳ Nghỉ Bí Mật" note = "18+ HQ">
                         https://www.youtube.com/watch?v=BE7UXqkhzZM
                 </Film>
@@ -2638,6 +2647,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Sứ Đồ Hành Giả" note = "Phim HK - Phụ đề">
+                        https://www.youtube.com/watch?v=HkflZPk0V_M&list=PL4VYmLR_gYkIQALIAKjaLBULyDMySdhkd
+                </Film>
                 <Film name = "Mỹ Nhân Như Họa" note = "Phim TQ - Thuyết Minh">
                         https://www.youtube.com/watch?v=H6KxXqmsGaw&list=PL7nMBU5QuiGedwbvUd32nuJ2WEMUjNNsC
                 </Film>
