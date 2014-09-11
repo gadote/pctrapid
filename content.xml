@@ -2,11 +2,23 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Đánh Thức Dục Vọng" note = "Phim HQ - Thuyết minh">
+                        https://www.youtube.com/watch?v=xootEv1lkuw
+                </Film>
+                <Film name = "Món Nợ Máu" note = "Phim Mĩ - Thuyết minh">
+                        https://www.youtube.com/watch?v=SpVvSuWHr3c
+                </Film>
+                <Film name = "Vương Triều Đẫm Máu" note = "Phim Thái - Phụ đề">
+                        https://www.youtube.com/watch?v=9drLeSyJwek
+                </Film>
                 <Film name = "Sự Thật Rợn Người" note = "Phim TQ - Thuyết minh">
                         https://www.youtube.com/watch?v=k-zK0CP2T9k
                 </Film>
                 <Film name = "Hoàng Phi tại thiên" note = "Phim TQ - Lồng Tiếng">
                         https://www.youtube.com/watch?v=rBnZ6x0bWvU
+                </Film>
+                <Film name = "Sống Chết Có Nhau" note = "Phim TQ - Lồng Tiếng">
+                        https://www.youtube.com/watch?v=Anf7G3FljEo
                 </Film>
                 <Film name = "Bến Cuối" note = "Phim TQ - Thuyết minh">
                         https://www.youtube.com/watch?v=4N1xm5tcUcE
