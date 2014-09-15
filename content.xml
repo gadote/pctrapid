@@ -2,6 +2,12 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Con Cu Ly bé nhỏ" note = "Phim VN - VTV1 Cuối tuần">
+                        https://www.youtube.com/watch?v=myIKRErDzrA
+                </Film>
+                <Film name = "Ảo thuật" note = "Phim VN - VTV1 Cuối tuần">
+                        https://www.youtube.com/watch?v=9AT-n8Btp5E
+                </Film>
                 <Film name = "Kẻ Trừng Phạt" note = "Phim HQ - Phụ đề">
                         https://www.youtube.com/watch?v=w-y6kVJuYc8
                 </Film>
