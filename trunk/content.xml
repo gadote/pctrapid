@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Câu chuyện cảnh sát" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=dv6wFPzvBUA
+                </Film>
                 <Film name = "Con Cu Ly bé nhỏ" note = "Phim VN - VTV1 Cuối tuần">
                         https://www.youtube.com/watch?v=myIKRErDzrA
                 </Film>
@@ -2674,6 +2677,15 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Yêu hận tình thù" note = "Phim TQ - Thuyết Minh">
+                        https://www.youtube.com/watch?v=XOVQX6bDn7E&list=PLcbVGF4fnC8_u6x-mcTil2LuJ8qyP6OEu
+                </Film>
+                <Film name = "TẠI TÔI" note = "Phim VN">
+                        https://www.youtube.com/watch?v=l7jl3qkHRi4&list=PL9XlscMBKuWwv2JjVTBgm3Sn8Ev3EvTl0
+                </Film>
+                <Film name = "Vòng xoáy kim tiền" note = "Phim Đài Loan - Thuyết Minh">
+                        https://www.youtube.com/watch?v=-DcHHqqKaCo&list=PLS4eBOP2SKP5q2AMvBBwGm8AL61RoOPwC
+                </Film>
                 <Film name = "SÓNG TÌNH" note = "Phim VN">
                         https://www.youtube.com/watch?v=45cGTqXWNLQ&list=PLxUze6YpFzjAENSEVukp4dc4TMAnsvFh8
                 </Film>
