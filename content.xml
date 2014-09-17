@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Vu Lan Thần Công" note = "Phim Kinh dị TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=OxRWKE-I3VA
+                </Film>
                 <Film name = "Ác Quỷ Ngàn Năm" note = "Phim HQ - Phụ đề">
                         https://www.youtube.com/watch?v=WVAZUyHbFIU
                 </Film>
