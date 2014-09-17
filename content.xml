@@ -2,6 +2,39 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Thảm Họa Diệt Vong" note = "Phim Mĩ - Phụ đề">
+                        https://www.youtube.com/watch?v=8ITervpVUzA
+                </Film>
+                <Film name = "Cá Mập Lên Bờ" note = "Phim Mĩ - Phụ đề">
+                        https://www.youtube.com/watch?v=FaJMeq_YGBw
+                </Film>
+                <Film name = "Thảm Họa Tàu Điện Ngầm" note = "Phim Mĩ - Phụ đề">
+                        https://www.youtube.com/watch?v=wDQjJJgfrh4
+                </Film>
+                <Film name = "Năm đại họa" note = "Phim Mĩ - Thuyết Minh">
+                        https://www.youtube.com/watch?v=Rz3MCIjapJg
+                </Film>
+                <Film name = "Mầm Bệnh" note = "Phim Mĩ - Phụ đề">
+                        https://www.youtube.com/watch?v=m1QTHPUlj1c
+                </Film>
+                <Film name = "Kẻ Đón Đường" note = "Phim HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=3SoIBlzlvEo
+                </Film>
+                <Film name = "Mật Ngữ Diệt Vong" note = "Phim HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=YXBVlDW7sv0
+                </Film>
+                <Film name = "Nước Mắt Sát Thủ - No Tears for the Dead" note = "Phim HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=SzMu8kilajE
+                </Film>
+                <Film name = "Cô Nàng X" note = "Phim Mĩ - Phụ đề">
+                        https://www.youtube.com/watch?v=dbzC7wTndo0
+                </Film>
+                <Film name = "Thảm Họa Sóng Thần - The Impossible" note = "Phim Mĩ - Phụ đề">
+                        https://www.youtube.com/watch?v=Rh6J2tIVDBA
+                </Film>
+                <Film name = "Nguồn Gốc Tội Lỗi - Tội Ác Nguyên Thủy - Original Sin" note = "Phim Mĩ - Phụ đề">
+                        https://www.youtube.com/watch?v=011YkJiaS4w
+                </Film>
                 <Film name = "Vu Lan Thần Công" note = "Phim Kinh dị TQ - Phụ đề">
                         https://www.youtube.com/watch?v=OxRWKE-I3VA
                 </Film>
@@ -2683,6 +2716,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Cô nàng nặng cân" note = "Phim VN">
+                        https://www.youtube.com/watch?v=xqiU_uiBxMc&list=PLUsU7hETp_Rl3khZXTzARJ26M607_m0kg
+                </Film>
                 <Film name = "Cám Dỗ" note = "Phim HQ - Phụ đề">
                         https://www.youtube.com/watch?v=Kh16_xFOSxk&list=PLvmvh7n91ujwhxm2m__9JvQ24dLfMr8lp
                 </Film>
