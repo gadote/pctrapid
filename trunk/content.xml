@@ -2,6 +2,12 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Ác Mộng 20 Năm" note = "Phim HK - Thuyết Minh">
+                        https://www.youtube.com/watch?v=VTbG75-j87w
+                </Film>
+                <Film name = "Xạ Thủ Bắn Tỉa" note = "Phim Mĩ - Phụ đề">
+                        https://www.youtube.com/watch?v=PK5SufZfCjc
+                </Film>
                 <Film name = "Bóng Ma Trong Đêm" note = "Phim Mĩ - Phụ đề">
                         https://www.youtube.com/watch?v=KGpWd-ES4Jw
                 </Film>
