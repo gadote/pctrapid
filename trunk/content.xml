@@ -2,6 +2,12 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Bóng Ma Trong Đêm" note = "Phim Mĩ - Phụ đề">
+                        https://www.youtube.com/watch?v=KGpWd-ES4Jw
+                </Film>
+                <Film name = "Đồng Tiền Máu" note = "Phim Mĩ - Phụ đề">
+                        https://www.youtube.com/watch?v=6MyNBczi9wg
+                </Film>
                 <Film name = "Ký sinh dưới da" note = "Phim Mĩ - Phụ đề">
                         https://www.youtube.com/watch?v=Rtvh2QdnlUo
                 </Film>
