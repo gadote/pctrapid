@@ -2,6 +2,18 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Ký sinh dưới da" note = "Phim Mĩ - Phụ đề">
+                        https://www.youtube.com/watch?v=Rtvh2QdnlUo
+                </Film>
+                <Film name = "Thử Thách Kinh Hoàng" note = "Phim Mĩ - Thuyết Minh">
+                        https://www.youtube.com/watch?v=6H9CZVP5lbI
+                </Film>
+                <Film name = "Nhện Khổng Lồ Nổi Loạn" note = "Phim Mĩ - Phụ đề">
+                        https://www.youtube.com/watch?v=4PL8Gzk54aI
+                </Film>
+                <Film name = "Kẻ khát máu - Wicked Blood" note = "Phim Mĩ - Phụ đề">
+                        https://www.youtube.com/watch?v=x2RSqypHUJs
+                </Film>
                 <Film name = "Thảm Họa Diệt Vong" note = "Phim Mĩ - Phụ đề">
                         https://www.youtube.com/watch?v=8ITervpVUzA
                 </Film>
