@@ -2,6 +2,39 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "TÚ XUÂN ĐAO" note = "Phim TQ Cổ trang - Thuyết Minh">
+                        https://www.youtube.com/watch?v=Hzmz0t-jB0I
+                </Film>
+                <Film name = "LỰC LƯỢNG ĐẶC NHIỆM" note = "Phim Hành Động Mỹ - Thuyết Minh">
+                        https://www.youtube.com/watch?v=co6uqQ-VuO0
+                </Film>
+                <Film name = "Đội Quân Địa Ngục" note = "Phim Mỹ - Thuyết Minh">
+                        https://www.youtube.com/watch?v=JR36PwvLILs
+                </Film>
+                <Film name = "Chuyến Đi Tử Thần" note = "Phim Mỹ - Thuyết Minh">
+                        https://www.youtube.com/watch?v=v68OyIKLZC0
+                </Film>
+                <Film name = "Teenage Bank Heist - Băng Cướp Tuổi Teen" note = "Phim Mỹ - Thuyết Minh">
+                        https://www.youtube.com/watch?v=faRTg6AyXU4
+                </Film>
+                <Film name = "Người Vận Chuyển - Man Of East" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=qBNJ7DifFWg
+                </Film>
+                <Film name = "TỬ THẦN SA MẠC" note = "Phim Kinh dị Mĩ - Phụ đề">
+                        https://www.youtube.com/watch?v=C2beZxg-5a4
+                </Film>
+                <Film name = "Nữ Chiến Binh Sexy" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=Oa9rm5AOWqI
+                </Film>
+                <Film name = "Những Tay Súng Diệt Quỷ" note = "Phim Mĩ - Phụ đề">
+                        https://www.youtube.com/watch?v=VG516gMtB2g
+                </Film>
+                <Film name = "Trường Học Ma - Lớp Học F4E" note = "Phim Kinh dị TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=m9tx8AgVbOA
+                </Film>
+                <Film name = "Nữ Hoàng Chiến Binh" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=9OTvqQJeHBU
+                </Film>
                 <Film name = "Ác Mộng 20 Năm" note = "Phim HK - Thuyết Minh">
                         https://www.youtube.com/watch?v=VTbG75-j87w
                 </Film>
