@@ -2,6 +2,15 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Bạch Tuột Khổng Lồ - Bermuda Tentacles" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=C9savGxThg4
+                </Film>
+                <Film name = "Mưa Đạn - April Rain" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=nprknujFZis
+                </Film>
+                <Film name = "Con Dấu Tình Yêu - The Seal of Love" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=7hcvK0wJO-I
+                </Film>
                 <Film name = "Tuần trăng mật kinh hoàng" note = "Phim Mỹ - Phụ đề">
                         https://www.youtube.com/watch?v=oaj90IR_tWg
                 </Film>
@@ -2833,6 +2842,15 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Trái Tim Ban Mai" note = "Phim Thái Lan - Thuyết minh">
+                        https://www.youtube.com/watch?v=1Xf0F2VjTmU&list=PLtfnudIWaFeCEXRmWtPxbDAYe2Us1EjZX
+                </Film>
+                <Film name = "Ánh Sao Trong Tim" note = "Phim Thái Lan - Thuyết minh">
+                        https://www.youtube.com/watch?v=k4wHlvFqffc&list=PLtfnudIWaFeDWz9-5xLC3fyCN7XAS21PK
+                </Film>
+                <Film name = "Trái Tim Tình Yêu" note = "Phim Thái Lan - Thuyết minh">
+                        https://www.youtube.com/watch?v=N6SXUFAlBOo&list=PL0H5HXzzQ01D3HDqoWb51Fb0FDvybA-fv
+                </Film>
                 <Film name = "Biệt đội số 0" note = "Phim HQ - Thuyết minh">
                         https://www.youtube.com/watch?v=__AVsPIbXy0&list=PLhO48X8JpxI5dOdJegyag2AMfJJ2JKur-
                 </Film>
