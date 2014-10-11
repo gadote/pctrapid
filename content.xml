@@ -2,6 +2,18 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Thiên Thần & Ác Quỉ" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=dgnOUXdH1R0
+                </Film>
+                <Film name = "Gác Súng" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=EqxlXF5foZ8
+                </Film>
+                <Film name = "Thanh Kiếm Rồng - Arahan" note = "Phim HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=32QVyLeM0TA
+                </Film>
+                <Film name = "Bát Quái Môn" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=-ZwfaHLyisY
+                </Film>
                 <Film name = "Lời nguyền đôi giày đỏ" note = "Phim HQ - Phụ đề">
                         https://www.youtube.com/watch?v=hyATrDWkPRs
                 </Film>
