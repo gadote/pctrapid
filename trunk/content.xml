@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Phục thù" note = "Phim TQ - Thuyết Minh">
+                        https://www.youtube.com/watch?v=qXUiPS4ZWWE
+                </Film>
                 <Film name = "Bạch Tuột Khổng Lồ - Bermuda Tentacles" note = "Phim Mỹ - Phụ đề">
                         https://www.youtube.com/watch?v=C9savGxThg4
                 </Film>
