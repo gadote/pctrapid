@@ -2,11 +2,41 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Evil Feed - Ăn thịt đối thủ" note = "Phim Kinh dị 18+ Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=eYFLDxHxt0s
+                </Film>
+                <Film name = "Người Tàng Hình | Oh Invisible Man" note = "Phim Tâm Lý Hài Bựa 18+ JP - Phụ đề">
+                        https://www.youtube.com/watch?v=uZmilwM-O8o
+                </Film>
                 <Film name = "Nợ Máu" note = "Phim Mỹ - Phụ đề">
                         https://www.youtube.com/watch?v=NbLgv0vnkL4
                 </Film>
+                <Film name = "Đẹp như quỷ" note = "Phim Kinh dị Thái - Phụ đề">
+                        https://www.youtube.com/watch?v=kwWAy01Qk_I
+                </Film>
+                <Film name = "72 khách trọ" note = "Phim HK - Thuyết Minh">
+                        https://www.youtube.com/watch?v=0nXE85KXfyo
+                </Film>
                 <Film name = "Khoảnh Khắc Tình Yêu | Love Speaks" note = "Phim Tình cảm lãng mạn TQ - Phụ đề">
                         https://www.youtube.com/watch?v=3FDDTj1ZG5M
+                </Film>
+                <Film name = "Tình yêu cô cháu" note = "Phim Thái - Phụ đề">
+                        https://www.youtube.com/watch?v=bEeiTkAg_Dg
+                </Film>
+                <Film name = "Ma Cao Hỗn Chiến" note = "Phim Xã Hội Đen - Phụ đề">
+                        https://www.youtube.com/watch?v=eNceIRwM6l8
+                </Film>
+                <Film name = "Những Căn Phòng Bí Ẩn - The Rooms" note = "Phim Thái - Ma Kinh Dị - Phụ đề">
+                        https://www.youtube.com/watch?v=A_-EAJyibqo
+                </Film>
+                <Film name = "Phục Hận - Wash Infamy" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=JHlx5h87uVw
+                </Film>
+                <Film name = "Thiết quyền vương - TEKKEN" note = "Phụ đề">
+                        https://www.youtube.com/watch?v=PmQEipfEnAA
+                </Film>
+                <Film name = "Gánh Hát Ma" note = "Phim TQ - Thuyết Minh">
+                        https://www.youtube.com/watch?v=ruMzfiYrUcY
                 </Film>
                 <Film name = "Truy Tìm Nội Gián" note = "Phim TQ - Phụ đề">
                         https://www.youtube.com/watch?v=CApg1mi2V9E
