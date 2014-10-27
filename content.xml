@@ -2,6 +2,15 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Nợ Máu" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=NbLgv0vnkL4
+                </Film>
+                <Film name = "Khoảnh Khắc Tình Yêu | Love Speaks" note = "Phim Tình cảm lãng mạn TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=3FDDTj1ZG5M
+                </Film>
+                <Film name = "Truy Tìm Nội Gián" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=CApg1mi2V9E
+                </Film>
                 <Film name = "Gái Điếm" note = "Phim 18+ Mỹ - Phụ đề">
                         https://www.youtube.com/watch?v=Vee7B98pt7I
                 </Film>
