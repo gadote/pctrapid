@@ -2,6 +2,12 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Thiết thính Phong Vân 3" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=ALn8tyW2J-4
+                </Film>
+                <Film name = "Thiết thính Phong Vân 2" note = "Phim TQ - Thuyết Minh">
+                        https://www.youtube.com/watch?v=ANyqY0qHDqo
+                </Film>
                 <Film name = "Tứ Đại Danh Bổ 3" note = "Phim TQ - Phụ đề">
                         https://www.youtube.com/watch?v=vchmhKit5XU
                 </Film>
@@ -2959,6 +2965,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "KIÊU HÃNH VÀ ĐỊNH KIẾN" note = "Phụ đề">
+                        https://www.youtube.com/watch?v=sJz_6apzVxw&list=PLLO-xKZGZ279WShPqlqEtAgMive20O-wr
+                </Film>
                 <Film name = "Kẻ Bán Linh Hồn" note = "Phim VN">
                         https://www.youtube.com/watch?v=5tOoM0HBJDs&list=PL_HMrJYPffCFsel2g1wwzC58ndcg56YGx
                 </Film>
