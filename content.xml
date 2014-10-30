@@ -2,6 +2,15 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Kẻ Lập Dị" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=E9h6vaM-VwA
+                </Film>
+                <Film name = "Thập Nguyệt Vi Thành" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=O4Uz9vKrtd0
+                </Film>
+                <Film name = "Dòng Họ Xác Ướp" note = "Phim TQ - Lồng tiếng">
+                        https://www.youtube.com/watch?v=DEYamuKdjwk
+                </Film>
                 <Film name = "Thiết thính Phong Vân 3" note = "Phim TQ - Phụ đề">
                         https://www.youtube.com/watch?v=ALn8tyW2J-4
                 </Film>
