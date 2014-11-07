@@ -2,6 +2,18 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "ĐẦM LẦY CHẾT CHÓC" note = "Phim Kinh dị Mỹ - Thuyết minh">
+                        https://www.youtube.com/watch?v=nPUj2ZNi3Xs
+                </Film>
+                <Film name = "Thiết Quân Đoàn 3" note = "Phim Nhật - Thuyết minh">
+                        https://www.youtube.com/watch?v=LO6iC5DHHis
+                </Film>
+                <Film name = "Ngày Mai Của Joe" note = "Phim Nhật - Phụ đề">
+                        https://www.youtube.com/watch?v=NP4yBoeJccg
+                </Film>
+                <Film name = "Giải Cứu Con Tin: Đổi Mạng" note = "Phim Hàn - Phụ đề">
+                        https://www.youtube.com/watch?v=F9US83YZaac
+                </Film>
                 <Film name = "Người chết trả thù" note = "Phim Mỹ - Thuyết minh">
                         https://www.youtube.com/watch?v=y2IppbQtzxI
                 </Film>
