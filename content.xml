@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Mẫu Dạ Xoa Tôn Nhị Nương" note = "Phim Kiếm Hiệp TQ - Thuyết Minh">
+                        https://www.youtube.com/watch?v=GtgepQyVd4w
+                </Film>
                 <Film name = "Tay Trộm Chuyên Nghiệp" note = "Phim Mỹ - Phụ đề">
                         https://www.youtube.com/watch?v=mqLxAa5Jm7I
                 </Film>
