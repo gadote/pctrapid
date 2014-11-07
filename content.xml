@@ -2,6 +2,27 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Đặc Vụ Nguy Hiểm" note = "Phim Hành Động Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=js1b27_RDko
+                </Film>
+                <Film name = "Xác Ướp" note = "Phim Khoa Học Viễn Tưởng Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=qM7Iqlr2zyk
+                </Film>
+                <Film name = "Dường Như Yêu (Perhaps Love)" note = "Phim Hàn - Thuyết minh">
+                        https://www.youtube.com/watch?v=3NsqIrOMN98
+                </Film>
+                <Film name = "Nữ Điệp Viên 009 ( Female Spy The Machine 2014 )" note = "Phim Nhật - Phụ đề">
+                        https://www.youtube.com/watch?v=vMF5HsxCiQI
+                </Film>
+                <Film name = "Siêu khuyển thần thông" note = "Hoạt Hình Châu Tinh Trì - Phụ đề">
+                        https://www.youtube.com/watch?v=13QGlKdUQUI
+                </Film>
+                <Film name = "Băng Cướp Thế Kỷ" note = "Phim Hành Động Trung Quốc - Thuyết Minh">
+                        https://www.youtube.com/watch?v=dknir8I0gl0
+                </Film>
+                <Film name = "Võ Lâm Ngoại Truyện" note = "Phim Kiếm Hiệp TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=ML_qxJHBfRo
+                </Film>
                 <Film name = "Mẫu Dạ Xoa Tôn Nhị Nương" note = "Phim Kiếm Hiệp TQ - Thuyết Minh">
                         https://www.youtube.com/watch?v=GtgepQyVd4w
                 </Film>
