@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Người chết trả thù" note = "Phim Mỹ - Thuyết minh">
+                        https://www.youtube.com/watch?v=y2IppbQtzxI
+                </Film>
                 <Film name = "Đặc Vụ Nguy Hiểm" note = "Phim Hành Động Mỹ - Phụ đề">
                         https://www.youtube.com/watch?v=js1b27_RDko
                 </Film>
@@ -3022,6 +3025,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Nàng Công Chúa Của Tôi" note = "Phim HQ - Lồng tiếng">
+                        https://www.youtube.com/watch?v=bfl0-LuaMKU&list=PLR6K9j1rsjl_6moMwrt4J-k8kfPyO1tJr
+                </Film>
                 <Film name = "Trái tim có nắng" note = "Phim VN - VTV3">
                         https://www.youtube.com/watch?v=FDO3EhGRqdw&list=PLE2-SPpXud3pmV_NKWEsl5JrscMuHOodm
                 </Film>
