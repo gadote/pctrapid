@@ -2,6 +2,21 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Tay Trộm Chuyên Nghiệp" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=mqLxAa5Jm7I
+                </Film>
+                <Film name = "Sát Thủ Hoàn Hảo - The Mechanic - Jason Statham" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=xKaMCdwPikA
+                </Film>
+                <Film name = "Thiên Ma Cầm" note = "Phim Kiếm Hiệp HK - Thuyết Minh">
+                        https://www.youtube.com/watch?v=JSooJtDZ4h4
+                </Film>
+                <Film name = "TRẢ THÙ - Redemption" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=Y424RrysKk0
+                </Film>
+                <Film name = "Cuộc Chiến Trên Không" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=2pERFvbS_ck
+                </Film>
                 <Film name = "Kẻ Lập Dị" note = "Phim Mỹ - Phụ đề">
                         https://www.youtube.com/watch?v=E9h6vaM-VwA
                 </Film>
@@ -13,6 +28,9 @@
                 </Film>
                 <Film name = "Dòng Họ Xác Ướp" note = "Phim TQ - Lồng tiếng">
                         https://www.youtube.com/watch?v=DEYamuKdjwk
+                </Film>
+                <Film name = "Sát Thủ Chuyên Nghiệp" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=OMIDwfnAFqo
                 </Film>
                 <Film name = "Thiết thính Phong Vân 3" note = "Phim TQ - Phụ đề">
                         https://www.youtube.com/watch?v=ALn8tyW2J-4
