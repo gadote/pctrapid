@@ -2,6 +2,12 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Bảo Đao Cẩm Y Vệ" note = "Phim TQ - Thuyết minh">
+                        https://www.youtube.com/watch?v=lLrBrQkcC3I
+                </Film>
+                <Film name = "Thiên Thần Tốc Độ" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=DrYCdmbfA8A
+                </Film>
                 <Film name = "ĐẦM LẦY CHẾT CHÓC" note = "Phim Kinh dị Mỹ - Thuyết minh">
                         https://www.youtube.com/watch?v=nPUj2ZNi3Xs
                 </Film>
