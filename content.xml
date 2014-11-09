@@ -2,6 +2,18 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Cùng Trở Thành Cớm" note = "Phim Mỹ - Thuyết minh">
+                        https://www.youtube.com/watch?v=eD8KdQEB3hw
+                </Film>
+                <Film name = "Bá Vương Học Đường - Phần 3" note = "Phim Nhật - Thuyết minh">
+                        https://www.youtube.com/watch?v=-Fc42LS4jhc
+                </Film>
+                <Film name = "Bá Vương Học Đường - Phần 2" note = "Phim Nhật - Phụ đề">
+                        https://www.youtube.com/watch?v=bVo3wEzesTs
+                </Film>
+                <Film name = "Bá Vương Học Đường - Phần 1" note = "Phim Nhật - Thuyết minh">
+                        https://www.youtube.com/watch?v=hRZAo3oj28U
+                </Film>
                 <Film name = "Bảo Đao Cẩm Y Vệ" note = "Phim TQ - Thuyết minh">
                         https://www.youtube.com/watch?v=lLrBrQkcC3I
                 </Film>
