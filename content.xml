@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Tiêu Diệt Bản Ngã" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=LWGNss-K8LI
+                </Film>
                 <Film name = "Cùng Trở Thành Cớm" note = "Phim Mỹ - Thuyết minh">
                         https://www.youtube.com/watch?v=eD8KdQEB3hw
                 </Film>
@@ -3073,6 +3076,15 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Mỹ Nữ Tái Sinh - Birth of Beauty" note = "Phim Hàn - Phụ đề">
+                        https://www.youtube.com/watch?v=plof_fImIGs&list=PLIYVw2wBDRs9Qa3568pLymSjcpHKb0MTw
+                </Film>
+                <Film name = "Truyền thuyết Ju Mông" note = "Phim Hàn - Phụ đề">
+                        https://www.youtube.com/watch?v=FcQGv1H2Tjk&list=PLkAmZ9_gZF2M-ikdtFgyh2bn8_WbQwFZ6
+                </Film>
+                <Film name = "Cô Nàng Đáng Yêu" note = "Phim Hàn - Phụ đề">
+                        https://www.youtube.com/watch?v=RBU9dfV8H6I&list=PLkAmZ9_gZF2NmVUmSovsgrC4Qw7IJwnbo
+                </Film>
                 <Film name = "Nàng Công Chúa Của Tôi" note = "Phim HQ - Lồng tiếng">
                         https://www.youtube.com/watch?v=bfl0-LuaMKU&list=PLR6K9j1rsjl_6moMwrt4J-k8kfPyO1tJr
                 </Film>
