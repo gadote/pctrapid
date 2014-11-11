@@ -2,6 +2,24 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Sinh Mệnh" note = "Phim VN">
+                        https://www.youtube.com/watch?v=JxDupMGKQQ4
+                </Film>
+                <Film name = "Phim Cuối tuần VTV1: Cây Búa Màu Ánh Bạc" note = "Phim VN">
+                        https://www.youtube.com/watch?v=xAG7yYt-oEo
+                </Film>
+                <Film name = "Phim Cuối Tuần HTV9: Ly Rượu Mạnh" note = "Phim VN">
+                        https://www.youtube.com/watch?v=sPaOoDHf-Qk
+                </Film>
+                <Film name = "Phim Cuối Tuần HTV9: Dành Riêng Em" note = "Phim VN">
+                        https://www.youtube.com/watch?v=cVxZHkjJLxA
+                </Film>
+                <Film name = "Phim Cuối Tuần HTV9: Tình Thâm" note = "Phim VN">
+                        https://www.youtube.com/watch?v=30fVHnXWlPI
+                </Film>
+                <Film name = "Phim Cuối Tuần HTV9: Ngày trở về" note = "Phim VN">
+                        https://www.youtube.com/watch?v=Pw8XdLZy254
+                </Film>
                 <Film name = "Phim Cuối tuần VTV1: Clip nóng" note = "Phim VN">
                         https://www.youtube.com/watch?v=PGQUZmMJjfw
                 </Film>
