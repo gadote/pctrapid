@@ -2,6 +2,12 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Phim Cuối Tuần HTV9: Tiếng Chuông Giữa Đêm" note = "Phim VN">
+                        https://www.youtube.com/watch?v=1dOUrBzZXFk
+                </Film>
+                <Film name = "Phim Cuối Tuần HTV9: Kế hoạch hoàn hảo" note = "Phim VN">
+                        https://www.youtube.com/watch?v=_jVk5wJxU_I
+                </Film>
                 <Film name = "Sinh Mệnh" note = "Phim VN">
                         https://www.youtube.com/watch?v=JxDupMGKQQ4
                 </Film>
