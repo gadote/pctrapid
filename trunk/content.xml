@@ -2,10 +2,13 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
-                <Film name = "Chuyên gia bắt ma (Out of the Dark)" note = "Lồng tiếng">
+                <Film name = "Báo oán" note = "Phim Ma Thái Lan - Phụ đề">
+                        https://www.youtube.com/watch?v=iYdIm3VZT4A
+                </Film>
+                <Film name = "Chuyên gia bắt ma (Out of the Dark)" note = "Phim TQ - Lồng tiếng">
                         https://www.youtube.com/watch?v=bpKhJG8m1lA
                 </Film>
-                <Film name = "Xẩm Xử Quan - Justice, My Foot" note = "Lồng tiếng">
+                <Film name = "Xẩm Xử Quan - Justice, My Foot" note = "Phim TQ - Lồng tiếng">
                         https://www.youtube.com/watch?v=XNfcvQmVUhs
                 </Film>
                 <Film name = "Phim Cuối tuần VTV1: Bàn Tay Đen" note = "Phim VN">
