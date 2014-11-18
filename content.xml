@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Ngôi Làng Tử Khí" note = "Phim TQ - Phụ đề">
+                        http://www.youtube.com/watch?v=IknhJT4RlJ0
+                </Film>
                 <Film name = "Báo oán" note = "Phim Ma Thái Lan - Phụ đề">
                         https://www.youtube.com/watch?v=iYdIm3VZT4A
                 </Film>
