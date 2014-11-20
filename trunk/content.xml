@@ -2,8 +2,20 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Bệnh Viện Ma Ám Full" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=IFWgVnT8bXU
+                </Film>
+                <Film name = "Kế Hoạch Bí Ẩn" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=MM8y4Y2t_Dk
+                </Film>
+                <Film name = "Trò Chơi Gọi Hồn" note = "Phim Kinh dị Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=RJ6FJtdt0d0
+                </Film>
+                <Film name = "Anh Hùng Du Côn" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=qiuiaz19W8w
+                </Film>
                 <Film name = "Ngôi Làng Tử Khí" note = "Phim TQ - Phụ đề">
-                        http://www.youtube.com/watch?v=IknhJT4RlJ0
+                        https://www.youtube.com/watch?v=IknhJT4RlJ0
                 </Film>
                 <Film name = "Báo oán" note = "Phim Ma Thái Lan - Phụ đề">
                         https://www.youtube.com/watch?v=iYdIm3VZT4A
