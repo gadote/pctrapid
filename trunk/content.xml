@@ -2,8 +2,32 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
-                <Film name = "Bệnh Viện Ma Ám Full" note = "Phim Mỹ - Phụ đề">
+                <Film name = "Ác Quỷ Dracula" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=SoF4pnJOxeo
+                </Film>
+                <Film name = "Giờ Phút Cuối Cùng" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=i-CIq_L5WIU
+                </Film>
+                <Film name = "Hải Tặc" note = "Phim Hài Võ Thuật HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=OqFQQKfjL74
+                </Film>
+                <Film name = "Ninja Rùa" note = "Phim Mỹ - Thuyết minh">
+                        https://www.youtube.com/watch?v=VtFuWlbftCg
+                </Film>
+                <Film name = "Người Dẫn Đường" note = "Phim Mỹ - Thuyết minh">
+                        https://www.youtube.com/watch?v=bFCCJr2xgt8
+                </Film>
+                <Film name = "Bệnh Viện Ma Ám" note = "Phim Mỹ - Phụ đề">
                         https://www.youtube.com/watch?v=IFWgVnT8bXU
+                </Film>
+                <Film name = "Dị Biến" note = "Phim Mỹ 18+ - Thuyết minh">
+                        https://www.youtube.com/watch?v=Lh7n-TUkFQE
+                </Film>
+                <Film name = "Đấu Võ Sinh Tử" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=1pMUabmM7ug
+                </Film>
+                <Film name = "Tế Xác" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=aX0fRS5OMr0
                 </Film>
                 <Film name = "Kế Hoạch Bí Ẩn" note = "Phim TQ - Phụ đề">
                         https://www.youtube.com/watch?v=MM8y4Y2t_Dk
