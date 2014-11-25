@@ -3172,6 +3172,15 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Bóng Giang Hồ" note = "Phim VN - THVL1">
+                        https://www.youtube.com/watch?v=MRzKqI7vDM4&list=PLz8rZ63rXbsqoSfmFGfTEUQcBhJvItC39
+                </Film>
+                <Film name = "Mối tình Nơi Hoang Dã" note = "Phim TL - Thuyết minh">
+                        https://www.youtube.com/watch?v=yi-i_29yatE&list=PLXNnGLHl3ZrAfF_Bo34kHXFW6llFeAJh7
+                </Film>
+                <Film name = "Bí mật bị lãng quên" note = "Phim TQ - Thuyết minh">
+                        https://www.youtube.com/watch?v=Fa8_XegbsDw&list=PLt2ln36F3FdZYqgYkfItfIMBtTarUTcm3
+                </Film>
                 <Film name = "Như Giọt Sương Ngủ Muộn" note = "Phim VN - VTC9">
                         https://www.youtube.com/watch?v=cKNAcsB0hjI&list=PLuHbJNmCAeFfcFFt2CsFSoX8R5RVcTIeV
                 </Film>
