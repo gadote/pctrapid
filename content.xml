@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Đường tới những vì sao" note = "Phim Mỹ - Thuyết minh">
+                        https://www.youtube.com/watch?v=7gqTTAwDwB4
+                </Film>
                 <Film name = "Thây Ma Hải Ly" note = "Phim Mỹ - Thuyết minh">
                         https://www.youtube.com/watch?v=rpvuKE8ja7c
                 </Film>
@@ -3178,6 +3181,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Trái Tim Giản Đơn" note = "Phim HQ - Thuyết minh">
+                        https://www.youtube.com/watch?v=aHQiDyCrbR0&list=PLG4sazR0F7CIhhVBjI5RPpHMLd7d8W9ma
+                </Film>
                 <Film name = "Cô Bé Người Gỗ - Pinocchio" note = "Phim Hàn - Phụ đề">
                         https://www.youtube.com/watch?v=MNMhqtXWL6M&list=PLBVa-p8k3GncXGF3BKNqWTfuzSEwDMTFI
                 </Film>
