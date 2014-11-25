@@ -2,6 +2,12 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Thây Ma Hải Ly" note = "Phim Mỹ - Thuyết minh">
+                        https://www.youtube.com/watch?v=rpvuKE8ja7c
+                </Film>
+                <Film name = "Đừng Soi Gương Lúc Nữa Đêm" note = "Phim Ma Kinh dị TQ - Thuyết minh">
+                        https://www.youtube.com/watch?v=YlHEfjUMj3U
+                </Film>
                 <Film name = "Ác Quỷ Dracula" note = "Phim Mỹ - Phụ đề">
                         https://www.youtube.com/watch?v=SoF4pnJOxeo
                 </Film>
