@@ -2,6 +2,84 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Cuồng Phong Thịnh Nộ" note = "Phim Mỹ - Thuyết minh">
+                        https://www.youtube.com/watch?v=VMLtmKFek1Q
+                </Film>
+                <Film name = "Đường tới những vì sao" note = "Phim Mỹ - Thuyết minh">
+                        https://www.youtube.com/watch?v=7gqTTAwDwB4
+                </Film>
+                <Film name = "Thây Ma Hải Ly" note = "Phim Mỹ - Thuyết minh">
+                        https://www.youtube.com/watch?v=rpvuKE8ja7c
+                </Film>
+                <Film name = "Ác Quỷ Dracula" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=SoF4pnJOxeo
+                </Film>
+                <Film name = "Giờ Phút Cuối Cùng" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=i-CIq_L5WIU
+                </Film>
+                <Film name = "Hải Tặc" note = "Phim Hài Võ Thuật HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=OqFQQKfjL74
+                </Film>
+                <Film name = "Ninja Rùa" note = "Phim Mỹ - Thuyết minh">
+                        https://www.youtube.com/watch?v=VtFuWlbftCg
+                </Film>
+                <Film name = "Người Dẫn Đường" note = "Phim Mỹ - Thuyết minh">
+                        https://www.youtube.com/watch?v=bFCCJr2xgt8
+                </Film>
+                <Film name = "Bệnh Viện Ma Ám" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=IFWgVnT8bXU
+                </Film>
+                <Film name = "Dị Biến" note = "Phim Mỹ 18+ - Thuyết minh">
+                        https://www.youtube.com/watch?v=Lh7n-TUkFQE
+                </Film>
+                <Film name = "Đấu Võ Sinh Tử" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=1pMUabmM7ug
+                </Film>
+                <Film name = "Tế Xác" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=aX0fRS5OMr0
+                </Film>
+                <Film name = "Kế Hoạch Bí Ẩn" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=MM8y4Y2t_Dk
+                </Film>
+                <Film name = "Trò Chơi Gọi Hồn" note = "Phim Kinh dị Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=RJ6FJtdt0d0
+                </Film>
+                <Film name = "Tiêu Diệt Bản Ngã" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=LWGNss-K8LI
+                </Film>
+                <Film name = "Cùng Trở Thành Cớm" note = "Phim Mỹ - Thuyết minh">
+                        https://www.youtube.com/watch?v=eD8KdQEB3hw
+                </Film>
+                <Film name = "ĐẦM LẦY CHẾT CHÓC" note = "Phim Kinh dị Mỹ - Thuyết minh">
+                        https://www.youtube.com/watch?v=nPUj2ZNi3Xs
+                </Film>
+                <Film name = "Thiết Quân Đoàn 3" note = "Phim Nhật - Thuyết minh">
+                        https://www.youtube.com/watch?v=LO6iC5DHHis
+                </Film>
+                <Film name = "Ngày Mai Của Joe" note = "Phim Nhật - Phụ đề">
+                        https://www.youtube.com/watch?v=NP4yBoeJccg
+                </Film>
+                <Film name = "Giải Cứu Con Tin: Đổi Mạng" note = "Phim Hàn - Phụ đề">
+                        https://www.youtube.com/watch?v=F9US83YZaac
+                </Film>
+                <Film name = "Người chết trả thù" note = "Phim Mỹ - Thuyết minh">
+                        https://www.youtube.com/watch?v=y2IppbQtzxI
+                </Film>
+                <Film name = "Đặc Vụ Nguy Hiểm" note = "Phim Hành Động Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=js1b27_RDko
+                </Film>
+                <Film name = "Hợp Đồng Sát Thủ" note = "Phim Hành Động Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=6syL66cDQAM
+                </Film>
+                <Film name = "Xác Ướp" note = "Phim Khoa Học Viễn Tưởng Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=qM7Iqlr2zyk
+                </Film>
+                <Film name = "Tay Trộm Chuyên Nghiệp" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=mqLxAa5Jm7I
+                </Film>
+                <Film name = "Sát Thủ Hoàn Hảo - The Mechanic - Jason Statham" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=xKaMCdwPikA
+                </Film>
                 <Film name = "Phim Cuối tuần VTV1: Bàn Tay Đen" note = "Phim VN">
                         https://www.youtube.com/watch?v=rbVXqIl9JDo
                 </Film>
@@ -112,84 +190,6 @@
                 </Film>
                 <Film name = "Ma cầm đại cao thủ" note = "Phim Kiếm Hiệp - Thuyết minh">
                         https://www.youtube.com/watch?v=Cl9PNK5qtLU
-                </Film>
-                <Film name = "Cuồng Phong Thịnh Nộ" note = "Phim Mỹ - Thuyết minh">
-                        https://www.youtube.com/watch?v=VMLtmKFek1Q
-                </Film>
-                <Film name = "Đường tới những vì sao" note = "Phim Mỹ - Thuyết minh">
-                        https://www.youtube.com/watch?v=7gqTTAwDwB4
-                </Film>
-                <Film name = "Thây Ma Hải Ly" note = "Phim Mỹ - Thuyết minh">
-                        https://www.youtube.com/watch?v=rpvuKE8ja7c
-                </Film>
-                <Film name = "Ác Quỷ Dracula" note = "Phim Mỹ - Phụ đề">
-                        https://www.youtube.com/watch?v=SoF4pnJOxeo
-                </Film>
-                <Film name = "Giờ Phút Cuối Cùng" note = "Phim Mỹ - Phụ đề">
-                        https://www.youtube.com/watch?v=i-CIq_L5WIU
-                </Film>
-                <Film name = "Hải Tặc" note = "Phim Hài Võ Thuật HQ - Phụ đề">
-                        https://www.youtube.com/watch?v=OqFQQKfjL74
-                </Film>
-                <Film name = "Ninja Rùa" note = "Phim Mỹ - Thuyết minh">
-                        https://www.youtube.com/watch?v=VtFuWlbftCg
-                </Film>
-                <Film name = "Người Dẫn Đường" note = "Phim Mỹ - Thuyết minh">
-                        https://www.youtube.com/watch?v=bFCCJr2xgt8
-                </Film>
-                <Film name = "Bệnh Viện Ma Ám" note = "Phim Mỹ - Phụ đề">
-                        https://www.youtube.com/watch?v=IFWgVnT8bXU
-                </Film>
-                <Film name = "Dị Biến" note = "Phim Mỹ 18+ - Thuyết minh">
-                        https://www.youtube.com/watch?v=Lh7n-TUkFQE
-                </Film>
-                <Film name = "Đấu Võ Sinh Tử" note = "Phim Mỹ - Phụ đề">
-                        https://www.youtube.com/watch?v=1pMUabmM7ug
-                </Film>
-                <Film name = "Tế Xác" note = "Phim Mỹ - Phụ đề">
-                        https://www.youtube.com/watch?v=aX0fRS5OMr0
-                </Film>
-                <Film name = "Kế Hoạch Bí Ẩn" note = "Phim TQ - Phụ đề">
-                        https://www.youtube.com/watch?v=MM8y4Y2t_Dk
-                </Film>
-                <Film name = "Trò Chơi Gọi Hồn" note = "Phim Kinh dị Mỹ - Phụ đề">
-                        https://www.youtube.com/watch?v=RJ6FJtdt0d0
-                </Film>
-                <Film name = "Tiêu Diệt Bản Ngã" note = "Phim Mỹ - Phụ đề">
-                        https://www.youtube.com/watch?v=LWGNss-K8LI
-                </Film>
-                <Film name = "Cùng Trở Thành Cớm" note = "Phim Mỹ - Thuyết minh">
-                        https://www.youtube.com/watch?v=eD8KdQEB3hw
-                </Film>
-                <Film name = "ĐẦM LẦY CHẾT CHÓC" note = "Phim Kinh dị Mỹ - Thuyết minh">
-                        https://www.youtube.com/watch?v=nPUj2ZNi3Xs
-                </Film>
-                <Film name = "Thiết Quân Đoàn 3" note = "Phim Nhật - Thuyết minh">
-                        https://www.youtube.com/watch?v=LO6iC5DHHis
-                </Film>
-                <Film name = "Ngày Mai Của Joe" note = "Phim Nhật - Phụ đề">
-                        https://www.youtube.com/watch?v=NP4yBoeJccg
-                </Film>
-                <Film name = "Giải Cứu Con Tin: Đổi Mạng" note = "Phim Hàn - Phụ đề">
-                        https://www.youtube.com/watch?v=F9US83YZaac
-                </Film>
-                <Film name = "Người chết trả thù" note = "Phim Mỹ - Thuyết minh">
-                        https://www.youtube.com/watch?v=y2IppbQtzxI
-                </Film>
-                <Film name = "Đặc Vụ Nguy Hiểm" note = "Phim Hành Động Mỹ - Phụ đề">
-                        https://www.youtube.com/watch?v=js1b27_RDko
-                </Film>
-                <Film name = "Hợp Đồng Sát Thủ" note = "Phim Hành Động Mỹ - Phụ đề">
-                        https://www.youtube.com/watch?v=6syL66cDQAM
-                </Film>
-                <Film name = "Xác Ướp" note = "Phim Khoa Học Viễn Tưởng Mỹ - Phụ đề">
-                        https://www.youtube.com/watch?v=qM7Iqlr2zyk
-                </Film>
-                <Film name = "Tay Trộm Chuyên Nghiệp" note = "Phim Mỹ - Phụ đề">
-                        https://www.youtube.com/watch?v=mqLxAa5Jm7I
-                </Film>
-                <Film name = "Sát Thủ Hoàn Hảo - The Mechanic - Jason Statham" note = "Phim Mỹ - Phụ đề">
-                        https://www.youtube.com/watch?v=xKaMCdwPikA
                 </Film>
                 <Film name = "Thiên Ma Cầm" note = "Phim Kiếm Hiệp HK - Thuyết Minh">
                         https://www.youtube.com/watch?v=JSooJtDZ4h4
