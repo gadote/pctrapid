@@ -17,15 +17,6 @@
                 <Film name = "Huyền Thoại Triệu Tử Long" note = "Phim TQ - Phụ đề">
                         https://www.youtube.com/watch?v=cz8dytY4crI
                 </Film>
-                <Film name = "Bát Quái Môn" note = "Phim TQ - Phụ đề">
-                        https://www.youtube.com/watch?v=-ZwfaHLyisY
-                </Film>
-                <Film name = "Lời nguyền đôi giày đỏ" note = "Phim HQ - Phụ đề">
-                        https://www.youtube.com/watch?v=hyATrDWkPRs
-                </Film>
-                <Film name = "Phục thù" note = "Phim TQ - Thuyết Minh">
-                        https://www.youtube.com/watch?v=qXUiPS4ZWWE
-                </Film>
                 <Film name = "Kế hoạch tối cao" note = "Phim TQ - Lồng Tiếng">
                         https://www.youtube.com/watch?v=P4IQFsWGjqM
                 </Film>
@@ -170,6 +161,75 @@
                 <Film name = "Tứ Đại Danh Bổ 3" note = "Phim TQ - Phụ đề">
                         https://www.youtube.com/watch?v=vchmhKit5XU
                 </Film>
+                <Film name = "Bí Ẩn Cung Hoàng Đạo" note = "Phim TQ - Thuyết minh">
+                        https://www.youtube.com/watch?v=cAC-534Tpvw
+                </Film>
+                <Film name = "Sát Thủ - Ninja" note = "Phim Nhật - Phụ đề">
+                        https://www.youtube.com/watch?v=mSPCMLEk6m8
+                </Film>
+                <Film name = "Mật Mã Tình Yêu - Love So Divine" note = "Phim HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=xA5GUAOlvPg
+                </Film>
+                <Film name = "Bánh Mì Tình Yêu" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=J30UGD3fjDc
+                </Film>
+                <Film name = "Hanamizuki" note = "Phim Nhật - Phụ đề">
+                        https://www.youtube.com/watch?v=ai1AtMFrKvU
+                </Film>
+                <Film name = "Hear Me - Nghe Nói - Bành Vu Yến, Trần Ý Hàm" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=6goZ6XSkq_Y
+                </Film>
+                <Film name = "Bad Girls (Ella, Hạ Quân Tường)" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=XFLjczQudvM
+                </Film>
+                <Film name = "Phim Cuối tuần VTV1: Bàn Tay Đen" note = "Phim VN">
+                        https://www.youtube.com/watch?v=rbVXqIl9JDo
+                </Film>
+                <Film name = "Phim Cuối Tuần HTV9: Tiếng Chuông Giữa Đêm" note = "Phim VN">
+                        https://www.youtube.com/watch?v=1dOUrBzZXFk
+                </Film>
+                <Film name = "Phim Cuối Tuần HTV9: Kế hoạch hoàn hảo" note = "Phim VN">
+                        https://www.youtube.com/watch?v=_jVk5wJxU_I
+                </Film>
+                <Film name = "Sinh Mệnh" note = "Phim VN">
+                        https://www.youtube.com/watch?v=JxDupMGKQQ4
+                </Film>
+                <Film name = "Phim Cuối tuần VTV1: Cây Búa Màu Ánh Bạc" note = "Phim VN">
+                        https://www.youtube.com/watch?v=xAG7yYt-oEo
+                </Film>
+                <Film name = "Phim Cuối Tuần HTV9: Ly Rượu Mạnh" note = "Phim VN">
+                        https://www.youtube.com/watch?v=sPaOoDHf-Qk
+                </Film>
+                <Film name = "Phim Cuối Tuần HTV9: Dành Riêng Em" note = "Phim VN">
+                        https://www.youtube.com/watch?v=cVxZHkjJLxA
+                </Film>
+                <Film name = "Phim Cuối Tuần HTV9: Tình Thâm" note = "Phim VN">
+                        https://www.youtube.com/watch?v=30fVHnXWlPI
+                </Film>
+                <Film name = "Phim Cuối Tuần HTV9: Ngày trở về" note = "Phim VN">
+                        https://www.youtube.com/watch?v=Pw8XdLZy254
+                </Film>
+                <Film name = "Phim Cuối tuần VTV1: Clip nóng" note = "Phim VN">
+                        https://www.youtube.com/watch?v=PGQUZmMJjfw
+                </Film>
+                <Film name = "Phim Cuối tuần VTV1: Đường tới đích" note = "Phim VN">
+                        https://www.youtube.com/watch?v=9TqOgR2Vi7o
+                </Film>
+                <Film name = "Phim Cuối tuần VTV1: Khi vợ là hoa hậu" note = "Phim VN">
+                        https://www.youtube.com/watch?v=_LzuX3CViWw
+                </Film>
+                <Film name = "Phim Cuối tuần VTV1: Nụ cười của nắng" note = "Phim VN">
+                        https://www.youtube.com/watch?v=UiDUXI8Y52Q
+                </Film>
+                <Film name = "Phim Cuối Tuần HTV9: Thuê Chồng" note = "Phim VN">
+                        https://www.youtube.com/watch?v=_LzuX3CViWw
+                </Film>
+                <Film name = "Phim Cuối Tuần HTV9: Đũa Mốc Có Đôi" note = "Phim VN">
+                        https://www.youtube.com/watch?v=-dHec0q-oPo
+                </Film>
+                <Film name = "Phim Cuối Tuần HTV9: Xin Đừng Quên" note = "Phim VN">
+                        https://www.youtube.com/watch?v=5CXabX5oPrg
+                </Film>
                 <Film name = "Cuồng Phong Thịnh Nộ" note = "Phim Mỹ - Thuyết minh">
                         https://www.youtube.com/watch?v=VMLtmKFek1Q
                 </Film>
@@ -232,54 +292,6 @@
                 </Film>
                 <Film name = "Sát Thủ Hoàn Hảo - The Mechanic - Jason Statham" note = "Phim Mỹ - Phụ đề">
                         https://www.youtube.com/watch?v=xKaMCdwPikA
-                </Film>
-                <Film name = "Phim Cuối tuần VTV1: Bàn Tay Đen" note = "Phim VN">
-                        https://www.youtube.com/watch?v=rbVXqIl9JDo
-                </Film>
-                <Film name = "Phim Cuối Tuần HTV9: Tiếng Chuông Giữa Đêm" note = "Phim VN">
-                        https://www.youtube.com/watch?v=1dOUrBzZXFk
-                </Film>
-                <Film name = "Phim Cuối Tuần HTV9: Kế hoạch hoàn hảo" note = "Phim VN">
-                        https://www.youtube.com/watch?v=_jVk5wJxU_I
-                </Film>
-                <Film name = "Sinh Mệnh" note = "Phim VN">
-                        https://www.youtube.com/watch?v=JxDupMGKQQ4
-                </Film>
-                <Film name = "Phim Cuối tuần VTV1: Cây Búa Màu Ánh Bạc" note = "Phim VN">
-                        https://www.youtube.com/watch?v=xAG7yYt-oEo
-                </Film>
-                <Film name = "Phim Cuối Tuần HTV9: Ly Rượu Mạnh" note = "Phim VN">
-                        https://www.youtube.com/watch?v=sPaOoDHf-Qk
-                </Film>
-                <Film name = "Phim Cuối Tuần HTV9: Dành Riêng Em" note = "Phim VN">
-                        https://www.youtube.com/watch?v=cVxZHkjJLxA
-                </Film>
-                <Film name = "Phim Cuối Tuần HTV9: Tình Thâm" note = "Phim VN">
-                        https://www.youtube.com/watch?v=30fVHnXWlPI
-                </Film>
-                <Film name = "Phim Cuối Tuần HTV9: Ngày trở về" note = "Phim VN">
-                        https://www.youtube.com/watch?v=Pw8XdLZy254
-                </Film>
-                <Film name = "Phim Cuối tuần VTV1: Clip nóng" note = "Phim VN">
-                        https://www.youtube.com/watch?v=PGQUZmMJjfw
-                </Film>
-                <Film name = "Phim Cuối tuần VTV1: Đường tới đích" note = "Phim VN">
-                        https://www.youtube.com/watch?v=9TqOgR2Vi7o
-                </Film>
-                <Film name = "Phim Cuối tuần VTV1: Khi vợ là hoa hậu" note = "Phim VN">
-                        https://www.youtube.com/watch?v=_LzuX3CViWw
-                </Film>
-                <Film name = "Phim Cuối tuần VTV1: Nụ cười của nắng" note = "Phim VN">
-                        https://www.youtube.com/watch?v=UiDUXI8Y52Q
-                </Film>
-                <Film name = "Phim Cuối Tuần HTV9: Thuê Chồng" note = "Phim VN">
-                        https://www.youtube.com/watch?v=_LzuX3CViWw
-                </Film>
-                <Film name = "Phim Cuối Tuần HTV9: Đũa Mốc Có Đôi" note = "Phim VN">
-                        https://www.youtube.com/watch?v=-dHec0q-oPo
-                </Film>
-                <Film name = "Phim Cuối Tuần HTV9: Xin Đừng Quên" note = "Phim VN">
-                        https://www.youtube.com/watch?v=5CXabX5oPrg
                 </Film>
                 <Film name = "Doanh Nhân - Business Man" note = "Phim Ấn Độ - Phụ đề">
                         https://www.youtube.com/watch?v=FIAbvLKhj2o
@@ -632,26 +644,14 @@
                 <Film name = "Người Sói Hồi Sinh" note = "Phim Mĩ - Phụ đề">
                         https://www.youtube.com/watch?v=rIDlJ34OI9Q
                 </Film>
-                <Film name = "Bí Ẩn Cung Hoàng Đạo" note = "Phim TQ - Thuyết minh">
-                        https://www.youtube.com/watch?v=cAC-534Tpvw
+                <Film name = "Bát Quái Môn" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=-ZwfaHLyisY
                 </Film>
-                <Film name = "Sát Thủ - Ninja" note = "Phim Nhật - Phụ đề">
-                        https://www.youtube.com/watch?v=mSPCMLEk6m8
+                <Film name = "Lời nguyền đôi giày đỏ" note = "Phim HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=hyATrDWkPRs
                 </Film>
-                <Film name = "Mật Mã Tình Yêu - Love So Divine" note = "Phim HQ - Phụ đề">
-                        https://www.youtube.com/watch?v=xA5GUAOlvPg
-                </Film>
-                <Film name = "Bánh Mì Tình Yêu" note = "Phim TQ - Phụ đề">
-                        https://www.youtube.com/watch?v=J30UGD3fjDc
-                </Film>
-                <Film name = "Hanamizuki" note = "Phim Nhật - Phụ đề">
-                        https://www.youtube.com/watch?v=ai1AtMFrKvU
-                </Film>
-                <Film name = "Hear Me - Nghe Nói - Bành Vu Yến, Trần Ý Hàm" note = "Phim TQ - Phụ đề">
-                        https://www.youtube.com/watch?v=6goZ6XSkq_Y
-                </Film>
-                <Film name = "Bad Girls (Ella, Hạ Quân Tường)" note = "Phim TQ - Phụ đề">
-                        https://www.youtube.com/watch?v=XFLjczQudvM
+                <Film name = "Phục thù" note = "Phim TQ - Thuyết Minh">
+                        https://www.youtube.com/watch?v=qXUiPS4ZWWE
                 </Film>
                 <Film name = "MÁ MÌ HOT GIRL" note = "Phụ đề">
                         https://www.youtube.com/watch?v=StfICjVo0ac
