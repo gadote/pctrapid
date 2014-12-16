@@ -11,12 +11,6 @@
                 <Film name = "Ông Xã Ưa Ghen" note = "Phim TQ - Lồng Tiếng">
                         https://www.youtube.com/watch?v=XtL7XT6Bcto
                 </Film>
-                <Film name = "Nữ Hào Hiệp" note = "Phim HK - Lồng Tiếng">
-                        https://www.youtube.com/watch?v=ZoHt19d0rIM
-                </Film>
-                <Film name = "Vô Gian Đạo 1 (2002) - Lưu Đức Hòa,Lương Triều Vỹ" note = "Phim TQ - Phụ đề">
-                        https://www.youtube.com/watch?v=aI9aGDqixUw
-                </Film>
                 <Film name = "Vô Gian Đạo 2 (2003)" note = "Phim TQ - Phụ đề">
                         https://www.youtube.com/watch?v=7jTHeZRF0es
                 </Film>
@@ -28,6 +22,18 @@
                 </Film>
                 <Film name = "Huyền Thoại Triệu Tử Long" note = "Phim TQ - Phụ đề">
                         https://www.youtube.com/watch?v=cz8dytY4crI
+                </Film>
+                <Film name = "Thanh Kiếm Rồng - Arahan" note = "Phim HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=32QVyLeM0TA
+                </Film>
+                <Film name = "Bát Quái Môn" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=-ZwfaHLyisY
+                </Film>
+                <Film name = "Lời nguyền đôi giày đỏ" note = "Phim HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=hyATrDWkPRs
+                </Film>
+                <Film name = "Phục thù" note = "Phim TQ - Thuyết Minh">
+                        https://www.youtube.com/watch?v=qXUiPS4ZWWE
                 </Film>
                 <Film name = "Kế hoạch tối cao" note = "Phim TQ - Lồng Tiếng">
                         https://www.youtube.com/watch?v=P4IQFsWGjqM
@@ -374,17 +380,8 @@
                 <Film name = "Gác Súng" note = "Phim Mỹ - Phụ đề">
                         https://www.youtube.com/watch?v=EqxlXF5foZ8
                 </Film>
-                <Film name = "Thanh Kiếm Rồng - Arahan" note = "Phim HQ - Phụ đề">
-                        https://www.youtube.com/watch?v=32QVyLeM0TA
-                </Film>
-                <Film name = "Bát Quái Môn" note = "Phim TQ - Phụ đề">
-                        https://www.youtube.com/watch?v=-ZwfaHLyisY
-                </Film>
-                <Film name = "Lời nguyền đôi giày đỏ" note = "Phim HQ - Phụ đề">
-                        https://www.youtube.com/watch?v=hyATrDWkPRs
-                </Film>
-                <Film name = "Phục thù" note = "Phim TQ - Thuyết Minh">
-                        https://www.youtube.com/watch?v=qXUiPS4ZWWE
+                <Film name = "Vô Gian Đạo 1 (2002) - Lưu Đức Hòa,Lương Triều Vỹ" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=aI9aGDqixUw
                 </Film>
                 <Film name = "Hải Tặc Vũ Trụ Thuyền Trưởng Harlock" note = "Phụ đề">
                         https://www.youtube.com/watch?v=JvtMrSWLMAw
@@ -1510,6 +1507,9 @@
                 </Film>
                 <Film name = "Bảo đảo song hùng" note = "">
                         https://www.youtube.com/watch?v=iESibfIpEKs
+                </Film>
+                <Film name = "Nữ Hào Hiệp" note = "Phim HK - Lồng Tiếng">
+                        https://www.youtube.com/watch?v=ZoHt19d0rIM
                 </Film>
                 <Film name = "Chống Trả Kẻ Thù" note = "Thuyết minh">
                         https://www.youtube.com/watch?v=i9f9sJGzM5o
