@@ -44,12 +44,6 @@
                 <Film name = "Kim kê - Golden Chickensss" note = "Phim TQ - Phụ đề - Hài, Tình cảm">
                         https://www.youtube.com/watch?v=PqGXgCp_whQ
                 </Film>
-                <Film name = "Ma Nữ Gợi Cảm" note = "Phim Kinh dị Thái - Phụ đề">
-                        https://www.youtube.com/watch?v=h_4vQWq-q-s
-                </Film>
-                <Film name = "Đẹp như quỷ" note = "Phim Kinh dị Thái - Phụ đề">
-                        https://www.youtube.com/watch?v=kwWAy01Qk_I
-                </Film>
                 <Film name = "72 khách trọ" note = "Phim HK - Thuyết Minh">
                         https://www.youtube.com/watch?v=0nXE85KXfyo
                 </Film>
@@ -175,6 +169,9 @@
                 </Film>
                 <Film name = "Bad Girls (Ella, Hạ Quân Tường)" note = "Phim TQ - Phụ đề">
                         https://www.youtube.com/watch?v=XFLjczQudvM
+                </Film>
+                <Film name = "Tiên Phục Kỳ Duyên" note = "Phim Kiếm Hiệp - Thuyết Minh">
+                        https://www.youtube.com/watch?v=R3ReqRkgCYI
                 </Film>
                 <Film name = "Phim Cuối tuần VTV1: Bàn Tay Đen" note = "Phim VN">
                         https://www.youtube.com/watch?v=rbVXqIl9JDo
@@ -410,8 +407,11 @@
                 <Film name = "TAY LÁI SIÊU HẠNG" note = "Phim Mỹ - Thuyết Minh">
                         https://www.youtube.com/watch?v=mWL0ZUdg--k
                 </Film>
-                <Film name = "Tiên Phục Kỳ Duyên" note = "Phim Kiếm Hiệp - Thuyết Minh">
-                        https://www.youtube.com/watch?v=R3ReqRkgCYI
+                <Film name = "Ma Nữ Gợi Cảm" note = "Phim Kinh dị Thái - Phụ đề">
+                        https://www.youtube.com/watch?v=h_4vQWq-q-s
+                </Film>
+                <Film name = "Đẹp như quỷ" note = "Phim Kinh dị Thái - Phụ đề">
+                        https://www.youtube.com/watch?v=kwWAy01Qk_I
                 </Film>
                 <Film name = "Cá ăn thịt người" note = "Phim Mỹ - Thuyết Minh">
                         https://www.youtube.com/watch?v=oU5eI8wJP5A
