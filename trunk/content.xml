@@ -2,6 +2,12 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Kungfu Người Máy" note = "Phim Nhật Bản - Phụ đề">
+                        https://www.youtube.com/watch?v=q95jlG53yIk
+                </Film>
+                <Film name = "Cuồng Nộ Fury" note = "Phim Mỹ - Thuyết Minh">
+                        https://www.youtube.com/watch?v=Di6K3oQLLFY
+                </Film>
                 <Film name = "Hải Tặc" note = "Phim HQ - Phụ đề">
                         https://www.youtube.com/watch?v=wf1Dl67oQck
                 </Film>
@@ -3136,6 +3142,12 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Đường Đến Ngai Vàng" note = "Phim TQ - Thuyết minh">
+                        https://www.youtube.com/watch?v=7UAvkoMKl1c&list=PLZoAfNywelDWWvgB2c_benKaZ13dW3d4k
+                </Film>
+                <Film name = "YÊU LÀ YÊU" note = "Phim Thái Lan - Phụ đề">
+                        https://www.youtube.com/watch?v=CWEBwNGm8zE&list=PLQdWkpDBYUsU2hH-fYqd6LDtjz8XwH2_R
+                </Film>
                 <Film name = "Hiệp sĩ mù" note = "Phim TQ - Thuyết minh">
                         https://www.youtube.com/watch?v=R1TEZJg-5DU&list=PL3EVBNGomta-UDC0CGMOIRbEoXh9TSQh2
                 </Film>
