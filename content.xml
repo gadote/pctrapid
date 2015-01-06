@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Mối Thù Hoàng Tộc - Outcast" note = "Phim Mỹ & TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=y6ZZeXdKS40
+                </Film>
                 <Film name = "Hoàng Phi Hồng 2014: Bí ẩn một huyền thoại" note = "Phim TQ - Phụ đề">
                         https://www.youtube.com/watch?v=1xWwWzX0MSU
                 </Film>
