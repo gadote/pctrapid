@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Hoàng Phi Hồng 2014: Bí ẩn một huyền thoại" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=1xWwWzX0MSU
+                </Film>
                 <Film name = "BIỆT ĐỘI CÁNH CỤT VÙNG MADAGASCAR" note = "Phim Mỹ - Thuyết Minh">
                         https://www.youtube.com/watch?v=F3aHVeNF5Bc
                 </Film>
@@ -10,6 +13,12 @@
                 </Film>
                 <Film name = "Yêu Em Ở Trạm Kế Tiếp - Next Station I Love You 2014" note = "Phim TQ - Phụ đề">
                         https://www.youtube.com/watch?v=BPXz5N7rcXg
+                </Film>
+                <Film name = "Số 0 Bất Diệt" note = "Phim Nhật Bản - Phụ đề">
+                        https://www.youtube.com/watch?v=vrc2m6LDrV0
+                </Film>
+                <Film name = "Đấu Trường Xác Sống (Zombie Fight Club)" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=ZR8wDEtlP4o
                 </Film>
                 <Film name = "Vùng Đất Ma - Ghost of Goodnight Lane" note = "Phim Mỹ - Phụ đề">
                         https://www.youtube.com/watch?v=_RDQQ9tf94Y
