@@ -2,6 +2,18 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Vùng Đất Ma - Ghost of Goodnight Lane" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=_RDQQ9tf94Y
+                </Film>
+                <Film name = "Biệt Đội Diệt Khủng Long - Jurassic Attack - phần 1" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=8zVBtwfkvgI
+                </Film>
+                <Film name = "Biệt Đội Diệt Khủng Long - Jurassic Attack - phần 2" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=SB8P7wmAFV8
+                </Film>
+                <Film name = "Khủng Long Nổi Loạn" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=1-x_2kScMN0
+                </Film>
                 <Film name = "Kungfu Người Máy" note = "Phim Nhật Bản - Phụ đề">
                         https://www.youtube.com/watch?v=q95jlG53yIk
                 </Film>
@@ -3142,6 +3154,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Tân Lộc Đỉnh Ký 2014" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=vKTL71eP9FM&list=PLr9WYF9d7w8XyQpeaZUmQIqaDnT1TFeX1
+                </Film>
                 <Film name = "Đường Đến Ngai Vàng" note = "Phim TQ - Thuyết minh">
                         https://www.youtube.com/watch?v=7UAvkoMKl1c&list=PLZoAfNywelDWWvgB2c_benKaZ13dW3d4k
                 </Film>
