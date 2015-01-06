@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Đại Thủy Chiến" note = "Phim HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=PbmoinpI4bM
+                </Film>
                 <Film name = "Vùng Đất Ma - Ghost of Goodnight Lane" note = "Phim Mỹ - Phụ đề">
                         https://www.youtube.com/watch?v=_RDQQ9tf94Y
                 </Film>
@@ -3154,6 +3157,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Tiệm giặt ủi Thụy Điển" note = "Phim HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=fAiv6gGOflc&list=PL5I-anhobYhnwScKh-nkZlDme5A1C26Mg
+                </Film>
                 <Film name = "Tân Lộc Đỉnh Ký 2014" note = "Phim TQ - Phụ đề">
                         https://www.youtube.com/watch?v=vKTL71eP9FM&list=PLr9WYF9d7w8XyQpeaZUmQIqaDnT1TFeX1
                 </Film>
