@@ -2,8 +2,14 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "BIỆT ĐỘI CÁNH CỤT VÙNG MADAGASCAR" note = "Phim Mỹ - Thuyết Minh">
+                        https://www.youtube.com/watch?v=F3aHVeNF5Bc
+                </Film>
                 <Film name = "Đại Thủy Chiến" note = "Phim HQ - Phụ đề">
                         https://www.youtube.com/watch?v=PbmoinpI4bM
+                </Film>
+                <Film name = "Yêu Em Ở Trạm Kế Tiếp - Next Station I Love You 2014" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=BPXz5N7rcXg
                 </Film>
                 <Film name = "Vùng Đất Ma - Ghost of Goodnight Lane" note = "Phim Mỹ - Phụ đề">
                         https://www.youtube.com/watch?v=_RDQQ9tf94Y
@@ -3160,6 +3166,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Võ Tắc Thiên Truyền Kỳ 2014" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=IHImv-A4sTE&list=PLBmXZEDLHBlzU2z-FkXMuCwjSSplV-ofm
+                </Film>
                 <Film name = "Tiệm giặt ủi Thụy Điển" note = "Phim HQ - Phụ đề">
                         https://www.youtube.com/watch?v=fAiv6gGOflc&list=PL5I-anhobYhnwScKh-nkZlDme5A1C26Mg
                 </Film>
