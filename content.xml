@@ -2,6 +2,21 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Vũ Điệu Khiêu Gợi - Lap Dance" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=CfqVgDYnGvw
+                </Film>
+                <Film name = "GIải Cứu Má Mì" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=wI9lzhKRifo
+                </Film>
+                <Film name = "Huyền Thoại Chiếc Mặt Nạ" note = "Phim Nhật - Phụ đề">
+                        https://www.youtube.com/watch?v=y8mDZGxPm8A
+                </Film>
+                <Film name = "Phi Vụ Ngân Hàng" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=3EWQNHkjpmk
+                </Film>
+                <Film name = "Anh Chỉ Muốn Ôm Em" note = "Phim tình cảm Nhật - Phụ đề">
+                        https://www.youtube.com/watch?v=ZNmYQbGnXGo
+                </Film>
                 <Film name = "Mối Thù Hoàng Tộc - Outcast" note = "Phim Mỹ & TQ - Phụ đề">
                         https://www.youtube.com/watch?v=y6ZZeXdKS40
                 </Film>
