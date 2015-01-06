@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Thung Lũng Tối" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=pduO8Zju76w
+                </Film>
                 <Film name = "Bắt Cóc Maria Ozawa - Kidnapping Miyabi" note = "Phim Nhật - Phụ đề">
                         https://www.youtube.com/watch?v=ONjsSU7ACks
                 </Film>
