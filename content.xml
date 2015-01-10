@@ -2,24 +2,6 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
-                <Film name = "Tìm Lại Ngày Đã Mất " note = "Phim VN - VTV1">
-                        https://www.youtube.com/watch?v=EpsCxmyExOw
-                </Film>
-                <Film name = "Khi Yêu Đừng Vội" note = "Phim VN - HTV9">
-                        https://www.youtube.com/watch?v=YUOAllCunWo
-                </Film>
-                <Film name = "Hạnh Phúc Đến Muộn" note = "Phim VN - HTV9">
-                        https://www.youtube.com/watch?v=NcPhiOOGJEA
-                </Film>
-                <Film name = "Dành Cho Tình Yêu" note = "Phim VN - HTV9">
-                        https://www.youtube.com/watch?v=V1ulD35xd3g
-                </Film>
-                <Film name = "Tiệm Bánh Thừa Kế" note = "Phim VN - HTV9">
-                        https://www.youtube.com/watch?v=J8KOQWmyoBQ
-                </Film>
-                <Film name = "Phía Sau Sự Thật" note = "Phim VN - HTV9">
-                        https://www.youtube.com/watch?v=ERByZNMJW3Q
-                </Film>
                 <Film name = "Đai Đen" note = "Phim Nhật - Phụ đề">
                         https://www.youtube.com/watch?v=IJYeliQSuWc
                 </Film>
