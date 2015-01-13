@@ -2,6 +2,12 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Bẫy Ngầm" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=z3Onb6fy0hs
+                </Film>
+                <Film name = "Ba chàng ngư lâm quân" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=YobqKIQFE4k
+                </Film>
                 <Film name = "Câu Lạc Bộ Lạc Giới - The Torture Club" note = "Phim 18+ Nhật">
                         https://www.youtube.com/watch?v=vCsROhfK6tk
                 </Film>
