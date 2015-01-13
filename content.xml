@@ -2,6 +2,12 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Câu Lạc Bộ Lạc Giới - The Torture Club" note = "Phim 18+ Nhật">
+                        https://www.youtube.com/watch?v=vCsROhfK6tk
+                </Film>
+                <Film name = "LẠC GIỚI - PARADISE IN HEART" note = "Phim TQ - Phụ đề - đề tài “lưỡng giới” đầy đam mê và kịch tính">
+                        https://www.youtube.com/watch?v=saRAmAU8F2I
+                </Film>
                 <Film name = "Hắc Long Đe Dọa" note = "Phim Hoạt hình TQ - Thuyết minh">
                         https://www.youtube.com/watch?v=gf_I-RTT0dY
                 </Film>
