@@ -2,6 +2,12 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Cô Gái Đáng Yêu" note = "Phim 18+ TQ">
+                        https://www.youtube.com/watch?v=h9eb1rnDTsI
+                </Film>
+                <Film name = "Cung Nữ Trầm Hương" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=c_FEgHkZvq4
+                </Film>
                 <Film name = "Mạng Đổi Mạng" note = "Phim Mỹ - Phụ đề">
                         https://www.youtube.com/watch?v=UsZLcsmVdxk
                 </Film>
