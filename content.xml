@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Sòng Bạc Tử Thần (Poker Night)" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=GsGDq9WDSHY
+                </Film>
                 <Film name = "Cô Gái Đáng Yêu" note = "Phim 18+ TQ">
                         https://www.youtube.com/watch?v=h9eb1rnDTsI
                 </Film>
@@ -3292,6 +3295,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Kẻ bội tình" note = "Phim VN - SCTV14">
+                        https://www.youtube.com/watch?v=U5sWujwd4n0&list=PLg9zaFA00V2nlrkmt4lEkoUlfDajkh36j
+                </Film>
                 <Film name = "Vòng Vây Hoa Hồng" note = "Phim VN - HTV">
                         https://www.youtube.com/watch?v=m_jiURX56aU&list=PLOKiCKF5fuBYonmFNOXNiAsxuyI_PDgGZ
                 </Film>
