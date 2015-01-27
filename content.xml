@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Lãng Khách Kenshin 3 || KẾT THÚC MỘT HUYỀN THOẠI" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=UhIFFtzF1v4
+                </Film>
                 <Film name = "Tù Nhân - Convict" note = "Phim Mỹ - Phụ đề">
                         https://www.youtube.com/watch?v=gxQbREE5aZg
                 </Film>
