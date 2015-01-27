@@ -2,6 +2,12 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Tình Một Đêm" note = "Phim 18+ Nhật - Phụ đề">
+                        https://www.youtube.com/watch?v=mP6J5cZd7LY
+                </Film>
+                <Film name = "Ngoại tình" note = "Phim 18+ TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=mP6J5cZd7LY
+                </Film>
                 <Film name = "Băng Cướp Ngân Hàng" note = "Phim Âu Mỹ - Phụ đề">
                         https://www.youtube.com/watch?v=QFjsV0brcCc
                 </Film>
