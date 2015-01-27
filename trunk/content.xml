@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Băng Cướp Ngân Hàng" note = "Phim Âu Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=QFjsV0brcCc
+                </Film>
                 <Film name = "Lãng Khách Kenshin 3 || KẾT THÚC MỘT HUYỀN THOẠI" note = "Phim Mỹ - Phụ đề">
                         https://www.youtube.com/watch?v=UhIFFtzF1v4
                 </Film>
@@ -13,6 +16,9 @@
                 </Film>
                 <Film name = "Con nhộng" note = "Phim 18+ TQ - Phụ đề">
                         https://www.youtube.com/watch?v=nLnKKr_iVBs
+                </Film>
+                <Film name = "Độc Túy Tâm" note = "Phim ma - Kinh dị TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=Yzo3J0MeOq0
                 </Film>
                 <Film name = "Phi Vụ Cướp Ngân Hàng - Son of a Gun" note = "Phim Mỹ - Phụ đề">
                         https://www.youtube.com/watch?v=zYC7qrK_7Wc
