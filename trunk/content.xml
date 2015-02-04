@@ -2,6 +2,42 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Khi Đàn Ông Yêu (Man In Love 2014)" note = "Phim tâm lý HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=VxImK0-LfAI
+                </Film>
+                <Film name = "Ước Mơ Barbie" note = "Phim tâm lý HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=gU_LIUcODm0
+                </Film>
+                <Film name = "Em Bé Và Tôi" note = "Phim tình cảm hài hước HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=6EZO1cFd5qw
+                </Film>
+                <Film name = "Võ Sĩ Đường Phố" note = "Phim tình cảm hài hước HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=vhhILcPhxVM
+                </Film>
+                <Film name = "Only You" note = "Phim tâm lý HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=9wOfcMGMZ2A
+                </Film>
+                <Film name = "Cuốn Phim Buồn" note = "Phim tâm lý HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=5hIHPE9byNY
+                </Film>
+                <Film name = "Áo Cưới - Wedding Dress" note = "Phim tâm lý HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=bbFe-8MzrqI
+                </Film>
+                <Film name = "SỐNG ẢO" note = "Phim tâm lý Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=F9ZhQvO9BuM
+                </Film>
+                <Film name = "Giới Hạn Tồi Tệ" note = "Phim Mỹ - Hành Động - Hài - Phụ đề">
+                        https://www.youtube.com/watch?v=F7u8Vt84dj8
+                </Film>
+                <Film name = "6 Điều Ước" note = "Phim tâm lý Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=ngeqZ700H2k
+                </Film>
+                <Film name = "Mất Tích Bí Ẩn - Tusk" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=clABJJ76OOs
+                </Film>
+                <Film name = "Sau khi ra tù" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=twYRPWZvSSw
+                </Film>
                 <Film name = "Ngôi Trường Ma Quái" note = "Phim Ma Thái Lan - Thuyết minh">
                         https://www.youtube.com/watch?v=Vey6r48alfc
                 </Film>
@@ -3343,6 +3379,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Thiên Kim Nữ Tặc" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=eP8Kkf9kcXE&list=PL5-2xwBHUZll7jvSJTM_i0HanxP5FoJiA
+                </Film>
                 <Film name = "Kẻ bội tình" note = "Phim VN - SCTV14">
                         https://www.youtube.com/watch?v=U5sWujwd4n0&list=PLg9zaFA00V2nlrkmt4lEkoUlfDajkh36j
                 </Film>
