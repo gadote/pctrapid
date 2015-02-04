@@ -2,11 +2,20 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Chiến Quốc" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=TJHpyuvYb3Y
+                </Film>
+                <Film name = "Young Mother" note = "Phim 18+ HQ">
+                        https://www.youtube.com/watch?v=hmX0I9Rm6mU
+                </Film>
                 <Film name = "Khi Đàn Ông Yêu (Man In Love 2014)" note = "Phim tâm lý HQ - Phụ đề">
                         https://www.youtube.com/watch?v=VxImK0-LfAI
                 </Film>
                 <Film name = "Ma Ơi! Chào Mi Bản" note = "Phim hài HQ - Phụ đề">
                         https://www.youtube.com/watch?v=C6_FmZCQpwo
+                </Film>
+                <Film name = "Phạm Nhân" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=t4pK2_eDv0E
                 </Film>
                 <Film name = "Những Thiên Thần Của Charlies - Tốc Độ Tối Đa" note = "Phim Mỹ - Phụ đề">
                         https://www.youtube.com/watch?v=GLAymcaOuHo
@@ -14,8 +23,17 @@
                 <Film name = "Người yêu mới của em là ma" note = "Phim TL - Phụ đề">
                         https://www.youtube.com/watch?v=sDQblyJZYO0
                 </Film>
+                <Film name = "THÀNH QUỶ" note = "Phim TQ - Phụ đề - LÝ LIÊN KIỆT">
+                        https://www.youtube.com/watch?v=BYOYtla2ogQ
+                </Film>
+                <Film name = "NGỤC TÙ CHẾT" note = "Phim TQ - Phụ đề - CHUNG TỬ ĐƠN">
+                        https://www.youtube.com/watch?v=GNrbs9YwvBI
+                </Film>
                 <Film name = "Những Chàng Trai Tôi Yêu" note = "Phim Tình Cảm Lãng Mạn TQ - Phụ đề - Uông Đông Thành - Tạ Na">
                         https://www.youtube.com/watch?v=4MFA0RccYY0
+                </Film>
+                <Film name = "Young Man" note = "Phim 18+ HQ">
+                        https://www.youtube.com/watch?v=61RVXV9VC1Y
                 </Film>
                 <Film name = "Ước Mơ Barbie" note = "Phim tâm lý HQ - Phụ đề">
                         https://www.youtube.com/watch?v=gU_LIUcODm0
