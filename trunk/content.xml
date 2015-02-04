@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Tình Yêu Tuổi 16" note = "Phim Nhật - Phụ đề">
+                        https://www.youtube.com/watch?v=eDf9xEA2Vxo
+                </Film>
                 <Film name = "Chiến Quốc" note = "Phim TQ - Phụ đề">
                         https://www.youtube.com/watch?v=TJHpyuvYb3Y
                 </Film>
