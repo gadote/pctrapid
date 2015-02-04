@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Ngôi Trường Ma Quái" note = "Phim Ma Thái Lan - Thuyết minh">
+                        https://www.youtube.com/watch?v=Vey6r48alfc
+                </Film>
                 <Film name = "Tình Một Đêm" note = "Phim 18+ Nhật - Phụ đề">
                         https://www.youtube.com/watch?v=mP6J5cZd7LY
                 </Film>
