@@ -2,6 +2,9 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Một Đêm Lầm Lỡ" note = "Phim 18+ HK - Phụ đề">
+                        https://www.youtube.com/watch?v=1ARwQdaaDGM
+                </Film>
                 <Film name = "Quan Trường - Trường Quan" note = "Hài Tết 2015">
                         https://www.youtube.com/watch?v=ogGgkhKnUNw
                 </Film>
@@ -10,6 +13,15 @@
                 </Film>
                 <Film name = "SIÊU NỊNH" note = "Hài Tết 2015">
                         https://www.youtube.com/watch?v=HwFdgnKz6uM
+                </Film>
+                <Film name = "Vợ Tôi Là Sát Thủ" note = "Phim HQ/TQ - Phụ đề - Thư Kỳ">
+                        https://www.youtube.com/watch?v=tmTCoyN4qDs
+                </Film>
+                <Film name = "Một Đêm Sung Sướng" note = "Phim HK 18+">
+                        https://www.youtube.com/watch?v=xwEP8zYq2n0
+                </Film>
+                <Film name = "Tàn Mộng" note = "Phim HK - Thuyết Minh">
+                        https://www.youtube.com/watch?v=XtK2oQMKPuw
                 </Film>
                 <Film name = "Tình Yêu Tuổi 16" note = "Phim Nhật - Phụ đề">
                         https://www.youtube.com/watch?v=eDf9xEA2Vxo
