@@ -2,6 +2,15 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Quan Trường - Trường Quan" note = "Hài Tết 2015">
+                        https://www.youtube.com/watch?v=ogGgkhKnUNw
+                </Film>
+                <Film name = "Chôn Nhời 2" note = "Hài Tết 2015">
+                        https://www.youtube.com/watch?v=BKQeOZZ-PPA
+                </Film>
+                <Film name = "SIÊU NỊNH" note = "Hài Tết 2015">
+                        https://www.youtube.com/watch?v=HwFdgnKz6uM
+                </Film>
                 <Film name = "Tình Yêu Tuổi 16" note = "Phim Nhật - Phụ đề">
                         https://www.youtube.com/watch?v=eDf9xEA2Vxo
                 </Film>
