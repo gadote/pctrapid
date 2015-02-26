@@ -2,6 +2,27 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Paris By Night 113 Mừng Tuổi Mẹ Disc 1 Official Sponsored for VN Tet 2015" note = "">
+                        https://www.youtube.com/watch?v=TsI2LRroKMo
+                </Film>
+                <Film name = "Paris By Night 113 Mừng Tuổi Mẹ Disc 2 Official Sponsored for VN Tet 2015" note = "">
+                        https://www.youtube.com/watch?v=P_j7zZsOD84
+                </Film>
+                <Film name = "Thuy Nga 112 Paris by night 112 - Đông - Part 1" note = "">
+                        https://www.youtube.com/watch?v=SvPf-pgy49M
+                </Film>
+                <Film name = "Thuy Nga 112 Paris by night 112 - Đông - Part 2" note = "">
+                        https://www.youtube.com/watch?v=xOxExSe_3fw
+                </Film>
+                <Film name = "GALA CƯỜI 2015" note = "VTV">
+                        https://www.youtube.com/watch?v=VtGko4uOLM0
+                </Film>
+                <Film name = "GẶP NHAU CUỐI NĂM - TÁO QUÂN 2015" note = "Bản full">
+                        https://www.youtube.com/watch?v=o2nJtu1knYc
+                </Film>
+                <Film name = "Đại gia ngày hôm qua - Xuân Hinh" note = "Hài Tết 2015">
+                        https://www.youtube.com/watch?v=H1N2aiapKBg
+                </Film>
                 <Film name = "Thợ Săn Yêu Quái" note = "Phim TQ - Thuyết Minh">
                         https://www.youtube.com/watch?v=_R715QZB80U
                 </Film>
@@ -3457,6 +3478,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Chiến Dịch Chống Ế" note = "YAN TV">
+                        https://www.youtube.com/watch?v=dEWVec3NEfY&list=PLyvrZchf1lo9UeiZcbk1SYy-GS8QDLAMc
+                </Film>
                 <Film name = "Tiêu Môn Quan Kiếm" note = "Phim TQ - Thuyết Minh">
                         https://www.youtube.com/watch?v=de94Bcsr20I&list=PLVs9f8sPyMQFiKEFPgCegyb7CraUpkPO-
                 </Film>
