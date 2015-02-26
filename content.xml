@@ -2,7 +2,13 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
-                <Film name = "Cúc Đậu - Củng Lợi- Trương Nghệ Mưu" note = "Phim TQ - Phụ đề">
+                <Film name = "Mùa Hè Khủng Khiếp" note = "Phim khoa học giả tưởng Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=A-Uzf2GiWKk
+                </Film>
+                <Film name = "Mùa Hè Khủng Khiếp" note = "Phim kinh dị Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=_ASZMyKMoHM
+                </Film>
+                <Film name = "Cúc Đậu - Củng Lợi - Trương Nghệ Mưu" note = "Phim TQ - Phụ đề">
                         https://www.youtube.com/watch?v=smg3kehC5Zg
                 </Film>
                 <Film name = "My Slave - Khoái cảm" note = "Phim 18+ JP - Phụ đề">
