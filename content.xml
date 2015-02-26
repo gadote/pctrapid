@@ -2,6 +2,12 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Cúc Đậu - Củng Lợi- Trương Nghệ Mưu" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=smg3kehC5Zg
+                </Film>
+                <Film name = "My Slave - Khoái cảm" note = "Phim 18+ JP - Phụ đề">
+                        https://www.youtube.com/watch?v=A0JThUvWT0I
+                </Film>
                 <Film name = "Chiến Binh Phương Bắc" note = "Phim Âu Mỹ - Phụ đề">
                         https://www.youtube.com/watch?v=7y2Bfcl3M2w
                 </Film>
