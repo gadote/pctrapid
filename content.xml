@@ -2,6 +2,12 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Chiến Binh Phương Bắc" note = "Phim Âu Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=7y2Bfcl3M2w
+                </Film>
+                <Film name = "Địa Ngục Trần Gian" note = "Phim hành động Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=1YTD21nv1Og
+                </Film>
                 <Film name = "Paris By Night 113 Mừng Tuổi Mẹ Disc 1 Official Sponsored for VN Tet 2015" note = "">
                         https://www.youtube.com/watch?v=TsI2LRroKMo
                 </Film>
@@ -3478,6 +3484,9 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "LỜI NÓI DỐI NGỌT NGÀO" note = "Phim TQ - Thuyết Minh">
+                        https://www.youtube.com/watch?v=O0Pq4VUA6LI&list=PLRHgQrPYpK3u2gqFD-7bA3qITdgIeuNWo
+                </Film>
                 <Film name = "Chiến Dịch Chống Ế" note = "YAN TV">
                         https://www.youtube.com/watch?v=dEWVec3NEfY&list=PLyvrZchf1lo9UeiZcbk1SYy-GS8QDLAMc
                 </Film>
