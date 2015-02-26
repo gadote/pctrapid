@@ -3496,8 +3496,23 @@
                 </Film>
 	</FilmKiemHiep>
 	<FilmHinhSu text = "Phim Bộ">
+                <Film name = "Đua Nhau Làm Giàu" note = "Phim VN">
+                        https://www.youtube.com/watch?v=p1CjUPhlacI&list=PL5FsvOuFCGHnQ8HdqI6VuX1wehEQrw16B
+                </Film>
+                <Film name = "THƯƠNG LẮM ĐÒ ƠI" note = "Phim VN">
+                        https://www.youtube.com/watch?v=NFB1kqIzuj0&list=PLlHIPkgR_4XRFWTYwS_DDPXVFZoSbnsgg
+                </Film>
+                <Film name = "Thần Tượng Lắm Chiêu" note = "Phim VN">
+                        https://www.youtube.com/watch?v=lt0S9fwzAbk&list=PL7ID391afDfuqpq0NK1sljqiMHJXqY61e
+                </Film>
+                <Film name = "ĐI QUA DĨ VÃNG" note = "Phim VN">
+                        https://www.youtube.com/watch?v=B2YPoEeGoik&list=PLK-40X1V1jHRHwN0voAqM8xZX3FqMwZ2M
+                </Film>
                 <Film name = "LỜI NÓI DỐI NGỌT NGÀO" note = "Phim TQ - Thuyết Minh">
                         https://www.youtube.com/watch?v=O0Pq4VUA6LI&list=PLRHgQrPYpK3u2gqFD-7bA3qITdgIeuNWo
+                </Film>
+                <Film name = "Thiên Đường Không Nước Mắt" note = "Phim Đài Loan - Thuyết Minh">
+                        https://www.youtube.com/watch?v=64g5HUZAlZ8&list=PLfHkAQ9cQpJLiYtzzWtYL5xx7VAN3pOOU
                 </Film>
                 <Film name = "Chiến Dịch Chống Ế" note = "YAN TV">
                         https://www.youtube.com/watch?v=dEWVec3NEfY&list=PLyvrZchf1lo9UeiZcbk1SYy-GS8QDLAMc
@@ -4737,9 +4752,6 @@
                 </Film>
                 <Film name = "Vực thẳm tình yêu" note = "">
                         https://www.youtube.com/watch?v=obBMQGGnuwY&list=PLI_P99R-nyUHQFhew4YX_klXIHgX01-h1
-                </Film>
-                <Film name = "Đi Qua Dĩ Vãng" note = "">
-                        https://www.youtube.com/watch?v=xnMvTNqWnpU&list=PLay45sArAcWMh_tIs9XOh76JqqIbwnd21
                 </Film>
                 <Film name = "Cô gái kiêu kỳ" note = "">
                         https://www.youtube.com/watch?v=yLL1vQxfpUI&list=PL549E80B912BA7F5C
