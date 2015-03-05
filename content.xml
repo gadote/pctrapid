@@ -2,6 +2,12 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Kẻ Đào Mộ" note = "Phim TQ - Phụ đề">
+                        https://www.youtube.com/watch?v=mmN-LLUCu14
+                </Film>
+                <Film name = "Kỵ Sĩ Đen" note = "Phim Mỹ - Thuyết Minh">
+                        https://www.youtube.com/watch?v=TX_WSSPA9D4
+                </Film>
                 <Film name = "Mùa Hè Khủng Khiếp" note = "Phim khoa học giả tưởng Mỹ - Phụ đề">
                         https://www.youtube.com/watch?v=A-Uzf2GiWKk
                 </Film>
