@@ -2,6 +2,24 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Tình yêu nồng cháy" note = "Phim 18+ HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=xE45gl2YzMo
+                </Film>
+                <Film name = "Bí mật kim tự tháp" note = "Phim Mỹ - Thuyết Minh">
+                        https://www.youtube.com/watch?v=narW0QKkKTc
+                </Film>
+                <Film name = "TRẠI HÈ MA QUÁI" note = "Phim Kinh Dị - Ma - Phiêu Lưu Âu - Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=c9UIhtiYHgk
+                </Film>
+                <Film name = "ÁO CƯỚI" note = "Phim HQ - Phụ đề">
+                        https://www.youtube.com/watch?v=oQk3tP8YJt0
+                </Film>
+                <Film name = "Người Cha Và Kẻ Lạ" note = "Phim Âu Mỹ - Thuyết Minh">
+                        https://www.youtube.com/watch?v=_5TVYcoaOZc
+                </Film>
+                <Film name = "Kết Hôn Thời @" note = "Phim tâm lý - tình cảm Trung Quốc - Thuyết Minh">
+                        https://www.youtube.com/watch?v=T_Ziwff2fQk
+                </Film>
                 <Film name = "Kẻ Đào Mộ" note = "Phim TQ - Phụ đề">
                         https://www.youtube.com/watch?v=mmN-LLUCu14
                 </Film>
