@@ -2,6 +2,15 @@
 
 <Film>
 	<FilmKiemHiep text = "Phim Lẻ">
+                <Film name = "Cuộc Chiến Chống Faraong" note = "Phim Mỹ - Phụ đề">
+                        https://www.youtube.com/watch?v=QIj4KzKclL0
+                </Film>
+                <Film name = "Bí Mật Lại Bị Mất" note = "Phim VN">
+                        https://www.youtube.com/watch?v=TVT5uAciOmA
+                </Film>
+                <Film name = "NƠI CUỐI CẦU VỒNG (BỒNG BỘT TUỔI DẬY THÌ) - Love, Rosie" note = "Phim Mỹ 18+ - Phụ đề">
+                        https://www.youtube.com/watch?v=EEKzykVDg0Y
+                </Film>
                 <Film name = "Trở về từ cõi chết" note = "Phim Mỹ - Phụ đề">
                         https://www.youtube.com/watch?v=svAmwGhaC8w
                 </Film>
